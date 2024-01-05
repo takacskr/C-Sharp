@@ -1,0 +1,15 @@
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/bin/Release/net7.0/ConsoleApp
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/bin/Release/net7.0/ConsoleApp.deps.json
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/bin/Release/net7.0/ConsoleApp.runtimeconfig.json
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/bin/Release/net7.0/ConsoleApp.dll
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/bin/Release/net7.0/ConsoleApp.pdb
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.csproj.AssemblyReference.cache
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.AssemblyInfoInputs.cache
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.AssemblyInfo.cs
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.dll
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/obj/Release/net7.0/refint/ConsoleApp.dll
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.pdb
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/obj/Release/net7.0/ConsoleApp.genruntimeconfig.cache
+/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/obj/Release/net7.0/ref/ConsoleApp.dll
