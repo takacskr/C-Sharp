@@ -1,13 +1,27 @@
 ﻿using System;
-
-namespace ConsoleApp
+namespace TestApp
 {
     class Program
     {
-        static void Main(string[] arg)
+        enum Animal : byte {Cat, Dog, Tiger, Wolf};
+
+        static void Main(string[] args)
         {
-            string message = "Hello World!";
-            Console.WriteLine(message);
+            Animal b = Animal.Tiger;
+
+            if (b == Animal.Tiger)
+            {
+                Console.WriteLine("B is a tiger");
+            }
+
+            Animal a = Animal.Cat;
+            int x = (int)a;
+            Console.WriteLine(x);
+
+            a = Animal.Wolf;
+            x = (int)a;
+            Console.WriteLine(x);
+
             Console.ReadKey();
         }
     }

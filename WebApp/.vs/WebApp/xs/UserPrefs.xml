@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{B9F370A4-7A7C-47D0-A508-220A5EB526AC}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApp/Pages/FetchData.razor">
+    <Files>
+      <File FileName="WebApp/App.razor" />
+      <File FileName="WebApp/Pages/Index.razor" />
+      <File FileName="WebApp/Pages/Counter.razor" />
+      <File FileName="WebApp/wwwroot/css/app.css" />
+      <File FileName="WebApp/Pages/FetchData.razor" Line="85" Column="1" />
+      <File FileName="WebApp/Program.cs" Line="2" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="WebApp" expanded="True">
+            <Node name="WebApp" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="FetchData.razor" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.WebApp PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>

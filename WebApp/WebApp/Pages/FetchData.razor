@@ -1,0 +1,101 @@
+﻿@page "/fetchdata"
+@inject HttpClient Http
+@inject IJSRuntime JSRuntime
+
+
+<h1>Weather forecast</h1>
+
+<p>This component demonstrates fetching data from the server.</p>
+
+@if (forecasts == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Temp. (C)</th>
+                <th>Temp. (F)</th>
+                <th>Summary</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (WeatherForecast forecast in forecasts)
+            {
+                <tr>
+                    @if (forecast.isEditing)
+                    {
+                        <td><input type="date" @bind="@forecast.Date"></td>
+                        <td><input type="text" @bind="@forecast.TemperatureC"></td>
+                        <td><input type="text" @bind="@forecast.TemperatureF"></td>
+                        <td><input type="text" @bind="@forecast.Summary"></td>
+                    }
+                    else
+                    {
+                        <td>@forecast.Date.ToShortDateString()</td>
+                        <td>@forecast.TemperatureC</td>
+                        <td>@forecast.TemperatureF</td>
+                        <td>@forecast.Summary</td>
+                    }
+
+                    <td><input type="button" value="Edit" @onclick="() => { EditForecast(forecast); }"></td>
+                    <td><input type="button" value="Delete" @onclick="() => { DeleteForecast(forecast); }"></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code {
+    private List<WeatherForecast> forecasts;
+
+    protected override async Task OnInitializedAsync()
+    {
+        forecasts = (await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json")).ToList();
+
+    }
+
+    public void DeleteForecast(WeatherForecast itemToDelete)
+    {
+        forecasts.Remove(itemToDelete);
+        ShowAlert("Data has been deleted.");
+    }
+
+    public void EditForecast(WeatherForecast itemToEdit)
+    {
+        itemToEdit.isEditing = !itemToEdit.isEditing;
+    }
+
+    private async Task ShowAlert(string msg)
+    {
+        // Use JSRuntime to invoke the JavaScript alert function
+        await JSRuntime.InvokeVoidAsync("alert", msg);
+    }
+
+    public class WeatherForecast
+    {
+        public DateTime Date { get; set; }
+
+        public int TemperatureC { get; set; }
+
+        public string Summary { get; set; }
+
+        public int TemperatureF
+        {
+            get
+            {
+                return 32 + (int)(TemperatureC / 0.5556);
+            }
+
+            set
+            {
+                TemperatureC = (value - 32) * 5 / 9;
+            }
+        }
+
+        public bool isEditing = false;
+    }
+}
