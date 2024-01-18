@@ -1,0 +1,104 @@
+﻿@page "/counter"
+@using Dapper
+@using MySql.Data.MySqlClient
+@rendermode InteractiveServer
+
+<PageTitle>Counter</PageTitle>
+
+<h1>Users</h1>
+
+@if (loaded)
+{
+    <div>
+    @foreach(User user in users)
+    {
+        <p>@user.name</p>
+    }
+    </div>
+}
+
+<button @onclick="IncrementPageDown">Previous Page</button>
+<button @onclick="IncrementPage">Next Page</button>
+
+@code
+{
+    private int currentCount = 0;
+
+    // Add MySQL connection related properties
+    private MySqlConnection dbConnection;
+    private readonly string connectionString = "Server=localhost;Database=testdb;User=root;Password=1234;Port=3306;";
+
+    public List<User> users = null;
+    public bool loaded = false;
+
+    public int currentPage = 0;
+    public int pageCount = 5;
+    public int itemsPerPage = 3;
+
+    // Initialization method
+    protected override async Task OnInitializedAsync()
+    {
+        // Initialize MySQL connection
+        dbConnection = new MySqlConnection(connectionString);
+        await dbConnection.OpenAsync(); // You may want to handle exceptions here
+
+        users = (await dbConnection.QueryAsync<User>(
+            "SELECT * FROM users ORDER BY name ASC LIMIT @start, @items",
+            new { start = currentPage * itemsPerPage, items = itemsPerPage }
+        )).ToList();
+
+        loaded = true;
+
+        //ReOrderDelayed();
+    }
+
+    private async Task RefreshPage()
+    {
+        users = (await dbConnection.QueryAsync<User>(
+            "SELECT * FROM users ORDER BY name ASC LIMIT @start, @items",
+            new { start = currentPage * itemsPerPage, items = itemsPerPage }
+        )).ToList();
+
+        StateHasChanged();
+
+    }
+
+    private async Task ReOrderDelayed()
+    {
+        await Task.Delay(2000);
+
+        users = users.OrderBy(x => x.name).ToList();
+
+        StateHasChanged();
+    }
+
+    private void IncrementPageDown()
+    {
+        currentPage--;
+        currentPage = Math.Clamp(currentPage, 0, pageCount);
+
+        RefreshPage();
+    }
+
+    private void IncrementPage()
+    {
+        currentPage++;
+        currentPage = Math.Clamp(currentPage, 0, pageCount);
+
+        RefreshPage();
+    }
+
+    // Dispose method to close the connection when the component is disposed
+    public void Dispose()
+    {
+        dbConnection?.Dispose();
+    }
+
+    public class User
+    {
+        public int id;
+        public string name;
+        public string email;
+        public string phone;
+    }
+}
