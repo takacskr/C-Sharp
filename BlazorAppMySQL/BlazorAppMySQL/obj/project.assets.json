@@ -1865,19 +1865,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\takac\\.nuget\\packages\\": {}
+    "C:\\Users\\takac\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\BlazorAppMySQL.csproj",
+      "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\BlazorAppMySQL.csproj",
       "projectName": "BlazorAppMySQL",
-      "projectPath": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\BlazorAppMySQL.csproj",
+      "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\BlazorAppMySQL.csproj",
       "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\",
+      "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\takac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

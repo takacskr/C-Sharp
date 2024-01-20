@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "mJkgM/I9NaIgoxZbCjJbcLWeij8cm7BeYWZXy0zIjWA=",
+  "Hash": "hQS47hif4d83bd3MFihGu7rz7fIrtK+5/PPhPJXf38k=",
   "Source": "BlazorAppMySQL",
   "BasePath": "_content/BlazorAppMySQL",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "BlazorAppMySQL\\wwwroot",
       "Source": "BlazorAppMySQL",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\",
       "BasePath": "_content/BlazorAppMySQL",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAppMySQL.styles.css",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAppMySQL.styles.css",
       "SourceId": "BlazorAppMySQL",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorAppMySQL",
       "RelativePath": "BlazorAppMySQL.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAppMySQL.styles.css"
+      "OriginalItemSpec": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAppMySQL.styles.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppMySQL.bundle.scp.css",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppMySQL.bundle.scp.css",
       "SourceId": "BlazorAppMySQL",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorAppMySQL",
       "RelativePath": "BlazorAppMySQL.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppMySQL.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppMySQL.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\app.css",
       "SourceId": "BlazorAppMySQL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\",
       "BasePath": "_content/BlazorAppMySQL",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorAppMySQL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\",
       "BasePath": "_content/BlazorAppMySQL",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorAppMySQL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\",
       "BasePath": "_content/BlazorAppMySQL",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\favicon.png",
       "SourceId": "BlazorAppMySQL",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\wwwroot\\",
       "BasePath": "_content/BlazorAppMySQL",
       "RelativePath": "favicon.png",
       "AssetKind": "All",
