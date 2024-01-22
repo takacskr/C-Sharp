@@ -1,0 +1,14 @@
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\bin\Debug\net8.0\GuessTheNumberApp.exe
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\bin\Debug\net8.0\GuessTheNumberApp.deps.json
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\bin\Debug\net8.0\GuessTheNumberApp.runtimeconfig.json
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\bin\Debug\net8.0\GuessTheNumberApp.dll
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\bin\Debug\net8.0\GuessTheNumberApp.pdb
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\obj\Debug\net8.0\GuessTheNumberApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\obj\Debug\net8.0\GuessTheNumberApp.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\obj\Debug\net8.0\GuessTheNumberApp.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\obj\Debug\net8.0\GuessTheNumberApp.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\obj\Debug\net8.0\GuessTheNumberApp.dll
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\obj\Debug\net8.0\refint\GuessTheNumberApp.dll
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\obj\Debug\net8.0\GuessTheNumberApp.pdb
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\obj\Debug\net8.0\GuessTheNumberApp.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\GuessTheNumberApp\GuessTheNumberApp\obj\Debug\net8.0\ref\GuessTheNumberApp.dll
