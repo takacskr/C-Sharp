@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\obj\Debug\net8.0\ConsoleApp23.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\obj\Debug\net8.0\ConsoleApp23.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\obj\Debug\net8.0\ConsoleApp23.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\obj\Debug\net8.0\ConsoleApp23.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\obj\Debug\net8.0\ConsoleApp23.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\bin\Debug\net8.0\ConsoleApp23.exe
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\bin\Debug\net8.0\ConsoleApp23.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\bin\Debug\net8.0\ConsoleApp23.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\bin\Debug\net8.0\ConsoleApp23.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\bin\Debug\net8.0\ConsoleApp23.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\obj\Debug\net8.0\ConsoleApp23.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\obj\Debug\net8.0\refint\ConsoleApp23.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\obj\Debug\net8.0\ConsoleApp23.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\obj\Debug\net8.0\ConsoleApp23.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp23\ConsoleApp23\obj\Debug\net8.0\ref\ConsoleApp23.dll

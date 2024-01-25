@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\obj\Debug\net8.0\ConsoleAppParametertomb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\obj\Debug\net8.0\ConsoleAppParametertomb.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\obj\Debug\net8.0\ConsoleAppParametertomb.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\obj\Debug\net8.0\ConsoleAppParametertomb.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\obj\Debug\net8.0\ConsoleAppParametertomb.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\bin\Debug\net8.0\ConsoleAppParametertomb.exe
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\bin\Debug\net8.0\ConsoleAppParametertomb.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\bin\Debug\net8.0\ConsoleAppParametertomb.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\bin\Debug\net8.0\ConsoleAppParametertomb.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\bin\Debug\net8.0\ConsoleAppParametertomb.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\obj\Debug\net8.0\ConsoleAppParametertomb.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\obj\Debug\net8.0\refint\ConsoleAppParametertomb.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\obj\Debug\net8.0\ConsoleAppParametertomb.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\obj\Debug\net8.0\ConsoleAppParametertomb.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleAppParametertomb\ConsoleAppParametertomb\obj\Debug\net8.0\ref\ConsoleAppParametertomb.dll

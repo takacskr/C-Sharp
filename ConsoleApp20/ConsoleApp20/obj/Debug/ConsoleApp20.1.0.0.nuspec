@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ConsoleApp20</id>
+    <version>1.0.0</version>
+    <authors>ConsoleApp20</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="cbe8179f73a07950eb4b94941fa1dba0bcc95c3f" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\bin\Debug\net8.0\ConsoleApp20.runtimeconfig.json" target="lib\net8.0\ConsoleApp20.runtimeconfig.json" />
+    <file src="C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\bin\Debug\net8.0\ConsoleApp20.dll" target="lib\net8.0\ConsoleApp20.dll" />
+  </files>
+</package>

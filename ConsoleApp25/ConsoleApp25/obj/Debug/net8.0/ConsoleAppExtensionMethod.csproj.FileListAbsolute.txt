@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleAppExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleAppExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleAppExtensionMethod.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleAppExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleAppExtensionMethod.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\bin\Debug\net8.0\ConsoleAppExtensionMethod.exe
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\bin\Debug\net8.0\ConsoleAppExtensionMethod.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\bin\Debug\net8.0\ConsoleAppExtensionMethod.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\bin\Debug\net8.0\ConsoleAppExtensionMethod.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\bin\Debug\net8.0\ConsoleAppExtensionMethod.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleAppExtensionMethod.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\refint\ConsoleAppExtensionMethod.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleAppExtensionMethod.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ConsoleAppExtensionMethod.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp25\ConsoleApp25\obj\Debug\net8.0\ref\ConsoleAppExtensionMethod.dll

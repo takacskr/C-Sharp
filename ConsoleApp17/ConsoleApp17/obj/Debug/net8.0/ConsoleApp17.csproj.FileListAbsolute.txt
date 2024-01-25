@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.exe
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\bin\Debug\net8.0\ConsoleApp17.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\refint\ConsoleApp17.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ConsoleApp17.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp17\ConsoleApp17\obj\Debug\net8.0\ref\ConsoleApp17.dll

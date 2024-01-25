@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\bin\Debug\net8.0\ConsoleApp26.exe
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\bin\Debug\net8.0\ConsoleApp26.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\bin\Debug\net8.0\ConsoleApp26.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\bin\Debug\net8.0\ConsoleApp26.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\bin\Debug\net8.0\ConsoleApp26.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\refint\ConsoleApp26.dll
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ConsoleApp26.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ConsoleApp26\ConsoleApp26\obj\Debug\net8.0\ref\ConsoleApp26.dll
