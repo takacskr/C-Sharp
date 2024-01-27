@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\bin\Debug\net8.0\Struct.exe
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\bin\Debug\net8.0\Struct.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\bin\Debug\net8.0\Struct.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\bin\Debug\net8.0\Struct.dll
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\bin\Debug\net8.0\Struct.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\obj\Debug\net8.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\obj\Debug\net8.0\Struct.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\obj\Debug\net8.0\Struct.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\obj\Debug\net8.0\Struct.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\obj\Debug\net8.0\Struct.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\obj\Debug\net8.0\Struct.dll
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\obj\Debug\net8.0\refint\Struct.dll
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\obj\Debug\net8.0\Struct.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\obj\Debug\net8.0\Struct.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Struct\Struct\obj\Debug\net8.0\ref\Struct.dll

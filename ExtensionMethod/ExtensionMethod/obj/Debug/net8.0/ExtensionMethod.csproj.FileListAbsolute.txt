@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.exe
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.dll
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\bin\Debug\net8.0\ExtensionMethod.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.dll
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\refint\ExtensionMethod.dll
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ExtensionMethod.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ExtensionMethod\ExtensionMethod\obj\Debug\net8.0\ref\ExtensionMethod.dll

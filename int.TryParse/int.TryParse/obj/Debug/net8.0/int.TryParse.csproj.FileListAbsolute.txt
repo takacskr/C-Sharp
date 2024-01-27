@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\bin\Debug\net8.0\int.TryParse.exe
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\bin\Debug\net8.0\int.TryParse.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\bin\Debug\net8.0\int.TryParse.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\bin\Debug\net8.0\int.TryParse.dll
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\bin\Debug\net8.0\int.TryParse.pdb
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\obj\Debug\net8.0\int.TryParse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\obj\Debug\net8.0\int.TryParse.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\obj\Debug\net8.0\int.TryParse.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\obj\Debug\net8.0\int.TryParse.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\obj\Debug\net8.0\int.TryParse.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\obj\Debug\net8.0\int.TryParse.dll
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\obj\Debug\net8.0\refint\int.TryParse.dll
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\obj\Debug\net8.0\int.TryParse.pdb
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\obj\Debug\net8.0\int.TryParse.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\int.TryParse\int.TryParse\obj\Debug\net8.0\ref\int.TryParse.dll

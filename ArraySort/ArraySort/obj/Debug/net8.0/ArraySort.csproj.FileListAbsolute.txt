@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\bin\Debug\net8.0\ArraySort.exe
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\bin\Debug\net8.0\ArraySort.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\bin\Debug\net8.0\ArraySort.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\bin\Debug\net8.0\ArraySort.dll
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\bin\Debug\net8.0\ArraySort.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.dll
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\obj\Debug\net8.0\refint\ArraySort.dll
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\obj\Debug\net8.0\ArraySort.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ArraySort\ArraySort\obj\Debug\net8.0\ref\ArraySort.dll
