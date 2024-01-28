@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\bin\Debug\net8.0\BinarySearchTree.exe
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\bin\Debug\net8.0\BinarySearchTree.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\bin\Debug\net8.0\BinarySearchTree.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\bin\Debug\net8.0\BinarySearchTree.dll
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\bin\Debug\net8.0\BinarySearchTree.pdb
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.dll
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\obj\Debug\net8.0\refint\BinarySearchTree.dll
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.pdb
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\obj\Debug\net8.0\BinarySearchTree.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\BinarySearchTree\BinarySearchTree\obj\Debug\net8.0\ref\BinarySearchTree.dll
