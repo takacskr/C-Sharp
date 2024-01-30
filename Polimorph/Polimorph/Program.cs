@@ -85,10 +85,13 @@ namespace Inheritance2
             bulldog.Eat();
 
             Animal[] animalArray = new Animal[2];
-            animalArray[0] = new Animal();
-            animalArray[1] = new Dog();
+            animalArray[0] = new Animal("Állatkirály");
+            animalArray[1] = new Dog("Sunny");
 
             animalArray[0].Eat();
+
+            /* Az Eat metódus végrehajtása során a megfelelő metódusfelüldefiniálás az objektum típusa alapján történik,
+            * és mivel mindkét elem Animal típusú, mindkét esetben az Animal osztály Eat metódusa hívódik meg. */
             animalArray[1].Eat();
 
         }
