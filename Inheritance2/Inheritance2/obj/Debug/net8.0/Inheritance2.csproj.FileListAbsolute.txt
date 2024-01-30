@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\bin\Debug\net8.0\Inheritance2.exe
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\bin\Debug\net8.0\Inheritance2.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\bin\Debug\net8.0\Inheritance2.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\bin\Debug\net8.0\Inheritance2.dll
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\bin\Debug\net8.0\Inheritance2.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\obj\Debug\net8.0\Inheritance2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\obj\Debug\net8.0\Inheritance2.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\obj\Debug\net8.0\Inheritance2.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\obj\Debug\net8.0\Inheritance2.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\obj\Debug\net8.0\Inheritance2.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\obj\Debug\net8.0\Inheritance2.dll
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\obj\Debug\net8.0\refint\Inheritance2.dll
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\obj\Debug\net8.0\Inheritance2.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\obj\Debug\net8.0\Inheritance2.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Inheritance2\Inheritance2\obj\Debug\net8.0\ref\Inheritance2.dll
