@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\bin\Debug\net8.0\sealedClass.exe
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\bin\Debug\net8.0\sealedClass.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\bin\Debug\net8.0\sealedClass.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\bin\Debug\net8.0\sealedClass.dll
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\bin\Debug\net8.0\sealedClass.pdb
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\obj\Debug\net8.0\sealedClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\obj\Debug\net8.0\sealedClass.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\obj\Debug\net8.0\sealedClass.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\obj\Debug\net8.0\sealedClass.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\obj\Debug\net8.0\sealedClass.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\obj\Debug\net8.0\sealedClass.dll
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\obj\Debug\net8.0\refint\sealedClass.dll
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\obj\Debug\net8.0\sealedClass.pdb
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\obj\Debug\net8.0\sealedClass.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\sealedClass\sealedClass\obj\Debug\net8.0\ref\sealedClass.dll
