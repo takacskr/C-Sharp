@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "85unUzDCmt8trc3HUHk3DiXKUABvVnTxJR/jxA596GK7FpB/Fn0oAXr1sBbsC17MNF+rIIBuPTN5BQNDFU2nKA==",
+  "dgSpecHash": "aR3TJjHsgiStMH6f0tZ4pLayInQS+ihftVZKjNIT8wRuY9/IGJfhyB8n5M4pbQjvaY92nhjudotc558mYEs18w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\takac\\source\\repos\\BlazorApp2\\BlazorApp2\\BlazorApp2.csproj",
+  "projectFilePath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp2\\BlazorApp2\\BlazorApp2.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
