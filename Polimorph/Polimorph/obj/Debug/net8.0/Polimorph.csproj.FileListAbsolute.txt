@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\obj\Debug\net8.0\Polimorph.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\obj\Debug\net8.0\Polimorph.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\obj\Debug\net8.0\Polimorph.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\obj\Debug\net8.0\Polimorph.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\obj\Debug\net8.0\Polimorph.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\bin\Debug\net8.0\Polimorph.exe
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\bin\Debug\net8.0\Polimorph.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\bin\Debug\net8.0\Polimorph.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\bin\Debug\net8.0\Polimorph.dll
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\bin\Debug\net8.0\Polimorph.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\obj\Debug\net8.0\Polimorph.dll
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\obj\Debug\net8.0\refint\Polimorph.dll
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\obj\Debug\net8.0\Polimorph.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\obj\Debug\net8.0\Polimorph.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Polimorph\Polimorph\obj\Debug\net8.0\ref\Polimorph.dll
