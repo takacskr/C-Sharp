@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\bin\Debug\net8.0\MyException.exe
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\bin\Debug\net8.0\MyException.deps.json
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\bin\Debug\net8.0\MyException.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\bin\Debug\net8.0\MyException.dll
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\bin\Debug\net8.0\MyException.pdb
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\obj\Debug\net8.0\MyException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\obj\Debug\net8.0\MyException.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\obj\Debug\net8.0\MyException.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\obj\Debug\net8.0\MyException.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\obj\Debug\net8.0\MyException.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\obj\Debug\net8.0\MyException.dll
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\obj\Debug\net8.0\refint\MyException.dll
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\obj\Debug\net8.0\MyException.pdb
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\obj\Debug\net8.0\MyException.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\MyException\MyException\obj\Debug\net8.0\ref\MyException.dll
