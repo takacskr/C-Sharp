@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\bin\Debug\net8.0\ConsoleApp35.exe
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\bin\Debug\net8.0\ConsoleApp35.deps.json
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\bin\Debug\net8.0\ConsoleApp35.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\bin\Debug\net8.0\ConsoleApp35.dll
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\bin\Debug\net8.0\ConsoleApp35.pdb
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\obj\Debug\net8.0\ConsoleApp35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\obj\Debug\net8.0\ConsoleApp35.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\obj\Debug\net8.0\ConsoleApp35.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\obj\Debug\net8.0\ConsoleApp35.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\obj\Debug\net8.0\ConsoleApp35.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\obj\Debug\net8.0\ConsoleApp35.dll
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\obj\Debug\net8.0\refint\ConsoleApp35.dll
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\obj\Debug\net8.0\ConsoleApp35.pdb
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\obj\Debug\net8.0\ConsoleApp35.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp35\ConsoleApp35\obj\Debug\net8.0\ref\ConsoleApp35.dll
