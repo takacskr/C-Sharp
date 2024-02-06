@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\bin\Debug\net8.0\IComparer-interface.exe
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\bin\Debug\net8.0\IComparer-interface.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\bin\Debug\net8.0\IComparer-interface.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\bin\Debug\net8.0\IComparer-interface.dll
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\bin\Debug\net8.0\IComparer-interface.pdb
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\obj\Debug\net8.0\IComparer-interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\obj\Debug\net8.0\IComparer-interface.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\obj\Debug\net8.0\IComparer-interface.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\obj\Debug\net8.0\IComparer-interface.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\obj\Debug\net8.0\IComparer-interface.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\obj\Debug\net8.0\IComparer-interface.dll
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\obj\Debug\net8.0\refint\IComparer-interface.dll
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\obj\Debug\net8.0\IComparer-interface.pdb
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\obj\Debug\net8.0\IComparer-interface.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\IComparer-interface\IComparer-interface\obj\Debug\net8.0\ref\IComparer-interface.dll
