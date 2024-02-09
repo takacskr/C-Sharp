@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\bin\Debug\net8.0\Anonymus-Method1.exe
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\bin\Debug\net8.0\Anonymus-Method1.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\bin\Debug\net8.0\Anonymus-Method1.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\bin\Debug\net8.0\Anonymus-Method1.dll
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\bin\Debug\net8.0\Anonymus-Method1.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\obj\Debug\net8.0\Anonymus-Method1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\obj\Debug\net8.0\Anonymus-Method1.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\obj\Debug\net8.0\Anonymus-Method1.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\obj\Debug\net8.0\Anonymus-Method1.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\obj\Debug\net8.0\Anonymus-Method1.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\obj\Debug\net8.0\Anonymus-Method1.dll
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\obj\Debug\net8.0\refint\Anonymus-Method1.dll
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\obj\Debug\net8.0\Anonymus-Method1.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\obj\Debug\net8.0\Anonymus-Method1.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Anonymus-Method1\Anonymus-Method1\obj\Debug\net8.0\ref\Anonymus-Method1.dll
