@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\bin\Debug\net8.0\Delegate3.exe
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\bin\Debug\net8.0\Delegate3.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\bin\Debug\net8.0\Delegate3.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\bin\Debug\net8.0\Delegate3.dll
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\bin\Debug\net8.0\Delegate3.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\obj\Debug\net8.0\Delegate3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\obj\Debug\net8.0\Delegate3.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\obj\Debug\net8.0\Delegate3.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\obj\Debug\net8.0\Delegate3.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\obj\Debug\net8.0\Delegate3.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\obj\Debug\net8.0\Delegate3.dll
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\obj\Debug\net8.0\refint\Delegate3.dll
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\obj\Debug\net8.0\Delegate3.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\obj\Debug\net8.0\Delegate3.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Delegate3\Delegate3\obj\Debug\net8.0\ref\Delegate3.dll

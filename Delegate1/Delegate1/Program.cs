@@ -8,8 +8,8 @@ namespace Delegate1
     /*
     A Transformer delegátumot definiáljuk, amely egy ref int típusú paraméterrel rendelkezik és nincs visszatérési értéke.
     A TransformerMethod egy statikus metódus a Program osztályban, amely megváltoztatja az átadott int típusú paramétert
-    önmagával szorzás révén. A TransformerMethod metódus referenciáját hozzárendeljük a Transformer delegátumhoz a array.
-    Transform(Program.TransformerMethod); sorban a Main metódusban.
+    önmagával szorzás révén. A TransformerMethod metódus referenciáját hozzárendeljük a Transformer delegátumhoz az
+    array.Transform(Program.TransformerMethod); sorban a Main metódusban.
 
     Delegátum meghívása:
     A Transform metódus meghívásakor a TransformerMethod metódus referenciája (delegátum) kerül átadásra.

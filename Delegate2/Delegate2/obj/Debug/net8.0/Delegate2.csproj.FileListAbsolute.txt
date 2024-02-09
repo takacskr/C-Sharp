@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\bin\Debug\net8.0\Delegate2.exe
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\bin\Debug\net8.0\Delegate2.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\bin\Debug\net8.0\Delegate2.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\bin\Debug\net8.0\Delegate2.dll
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\bin\Debug\net8.0\Delegate2.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\obj\Debug\net8.0\Delegate2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\obj\Debug\net8.0\Delegate2.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\obj\Debug\net8.0\Delegate2.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\obj\Debug\net8.0\Delegate2.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\obj\Debug\net8.0\Delegate2.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\obj\Debug\net8.0\Delegate2.dll
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\obj\Debug\net8.0\refint\Delegate2.dll
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\obj\Debug\net8.0\Delegate2.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\obj\Debug\net8.0\Delegate2.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Delegate2\Delegate2\obj\Debug\net8.0\ref\Delegate2.dll
