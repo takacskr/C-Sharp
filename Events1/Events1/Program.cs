@@ -1,13 +1,28 @@
-﻿class Test
+﻿using System.Reflection.Metadata;
+
+class Test
 {
     // Esemény delegált típusának definiálása
     // Ez egy delegált típus, amely meghatározza az esemény kezelője által elfogadott paramétereket
     // és visszatérési értéket
-    public delegate void EventHandlerDelegate(string message);
+    // Egy olyan delegált típus, amely egy metódus aláírását határozza meg, melynek egy string típusú paramétere van
+    // és nincs visszatérési értéke
+    /* A TestStatusChange esemény az EventHandlerDelegate típusú delegátumot reprezentálja. Ez azt jelenti, hogy az eseményre
+    feliratkozni csak olyan metódusokkal lehet, amelyek megfelelnek az EventHandlerDelegate delegátum aláírásának.
+    Ezen delegátum aláírása meghatározza, hogy az esemény kiváltásakor milyen paramétereket vár és milyen
+    visszatérési értékkel rendelkezik az eseménykezelő metódus. */
+    public delegate void EventHandlerDelegate(string message); // Ez a delegát meghatározza, az eseményre feliratkozó metódus(ok) formátumát
+
 
     // Az esemény deklarálása a delegált típus alapján
     // A TestStatusChange esemény egy olyan delegált típust használ,
     // amely egy string típusú paramétert vár
+    /* Tehát a TestStatusChange esemény egy olyan lehetőséget kínál más osztályoknak, hogy feliratkozzanak az eseményre,
+    és olyan metódusokat rendeljenek hozzá, amelyek megfelelnek az EventHandlerDelegate delegátum aláírásának.
+    Amikor az esemény kiváltódik, az összes feliratkozott metódus végrehajtódik a delegált aláírásában meghatározott
+    paraméterekkel. Ezáltal az eseménykezelés egy egyszerű és hatékony módszere lehet a kommunikációnak és az események
+    kezelésének különböző részei között a programban. */
+
     public event EventHandlerDelegate TestStatusChange;
 
     // Privát adattag az osztályban
@@ -32,7 +47,7 @@
     {
         // Az eseményekkel rendelkező objektumoknak lehetőségük van regisztrálni eseménykezelő metódusokat az eseményre
         // Ellenőrzés, hogy van-e regisztrált eseménykezelő.
-        // Ha nincs regisztrált eseménykezelő, az esemény null értéket fog tartalmazni
+        // Ha nincs regisztrált eseménykezelő metódus, az esemény null értéket fog tartalmazni
         if (TestStatusChange != null)
         {
             // Az esemény kiváltása és az üzenet továbbítása az eseménykezelőknek
