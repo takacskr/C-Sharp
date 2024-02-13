@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\List3\List3\bin\Debug\net8.0\List3.exe
+C:\Users\takac\source\repos\C-Sharp\List3\List3\bin\Debug\net8.0\List3.deps.json
+C:\Users\takac\source\repos\C-Sharp\List3\List3\bin\Debug\net8.0\List3.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\List3\List3\bin\Debug\net8.0\List3.dll
+C:\Users\takac\source\repos\C-Sharp\List3\List3\bin\Debug\net8.0\List3.pdb
+C:\Users\takac\source\repos\C-Sharp\List3\List3\obj\Debug\net8.0\List3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\List3\List3\obj\Debug\net8.0\List3.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\List3\List3\obj\Debug\net8.0\List3.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\List3\List3\obj\Debug\net8.0\List3.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\List3\List3\obj\Debug\net8.0\List3.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\List3\List3\obj\Debug\net8.0\List3.dll
+C:\Users\takac\source\repos\C-Sharp\List3\List3\obj\Debug\net8.0\refint\List3.dll
+C:\Users\takac\source\repos\C-Sharp\List3\List3\obj\Debug\net8.0\List3.pdb
+C:\Users\takac\source\repos\C-Sharp\List3\List3\obj\Debug\net8.0\List3.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\List3\List3\obj\Debug\net8.0\ref\List3.dll

@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\bin\Debug\net8.0\StatikusTagok.exe
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\bin\Debug\net8.0\StatikusTagok.deps.json
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\bin\Debug\net8.0\StatikusTagok.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\bin\Debug\net8.0\StatikusTagok.dll
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\bin\Debug\net8.0\StatikusTagok.pdb
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\obj\Debug\net8.0\StatikusTagok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\obj\Debug\net8.0\StatikusTagok.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\obj\Debug\net8.0\StatikusTagok.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\obj\Debug\net8.0\StatikusTagok.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\obj\Debug\net8.0\StatikusTagok.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\obj\Debug\net8.0\StatikusTagok.dll
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\obj\Debug\net8.0\refint\StatikusTagok.dll
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\obj\Debug\net8.0\StatikusTagok.pdb
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\obj\Debug\net8.0\StatikusTagok.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\StatikusTagok\StatikusTagok\obj\Debug\net8.0\ref\StatikusTagok.dll

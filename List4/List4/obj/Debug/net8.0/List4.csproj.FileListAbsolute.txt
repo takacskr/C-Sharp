@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\List4\List4\bin\Debug\net8.0\List4.exe
+C:\Users\takac\source\repos\C-Sharp\List4\List4\bin\Debug\net8.0\List4.deps.json
+C:\Users\takac\source\repos\C-Sharp\List4\List4\bin\Debug\net8.0\List4.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\List4\List4\bin\Debug\net8.0\List4.dll
+C:\Users\takac\source\repos\C-Sharp\List4\List4\bin\Debug\net8.0\List4.pdb
+C:\Users\takac\source\repos\C-Sharp\List4\List4\obj\Debug\net8.0\List4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\List4\List4\obj\Debug\net8.0\List4.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\List4\List4\obj\Debug\net8.0\List4.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\List4\List4\obj\Debug\net8.0\List4.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\List4\List4\obj\Debug\net8.0\List4.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\List4\List4\obj\Debug\net8.0\List4.dll
+C:\Users\takac\source\repos\C-Sharp\List4\List4\obj\Debug\net8.0\refint\List4.dll
+C:\Users\takac\source\repos\C-Sharp\List4\List4\obj\Debug\net8.0\List4.pdb
+C:\Users\takac\source\repos\C-Sharp\List4\List4\obj\Debug\net8.0\List4.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\List4\List4\obj\Debug\net8.0\ref\List4.dll
