@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\List6\List6\bin\Debug\net8.0\List6.exe
+C:\Users\takac\source\repos\C-Sharp\List6\List6\bin\Debug\net8.0\List6.deps.json
+C:\Users\takac\source\repos\C-Sharp\List6\List6\bin\Debug\net8.0\List6.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\List6\List6\bin\Debug\net8.0\List6.dll
+C:\Users\takac\source\repos\C-Sharp\List6\List6\bin\Debug\net8.0\List6.pdb
+C:\Users\takac\source\repos\C-Sharp\List6\List6\obj\Debug\net8.0\List6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\List6\List6\obj\Debug\net8.0\List6.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\List6\List6\obj\Debug\net8.0\List6.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\List6\List6\obj\Debug\net8.0\List6.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\List6\List6\obj\Debug\net8.0\List6.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\List6\List6\obj\Debug\net8.0\List6.dll
+C:\Users\takac\source\repos\C-Sharp\List6\List6\obj\Debug\net8.0\refint\List6.dll
+C:\Users\takac\source\repos\C-Sharp\List6\List6\obj\Debug\net8.0\List6.pdb
+C:\Users\takac\source\repos\C-Sharp\List6\List6\obj\Debug\net8.0\List6.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\List6\List6\obj\Debug\net8.0\ref\List6.dll

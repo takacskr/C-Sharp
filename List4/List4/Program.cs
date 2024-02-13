@@ -15,7 +15,12 @@
             Console.WriteLine("The first even number in the list: {0}",
                 list.Find(x => x % 2 == 0));
 
-            List<int> evenList = list.FindAll(x => x % 2 == 0);
+            // Az anonim függvényt közvetlenül adjuk át a FindAll metódusnak paraméterként,
+            // így a FindAll metódus tudja, hogy milyen feltétellel kell kiválogatni az elemeket a listából.
+            List<int> evenList = list.FindAll(delegate (int item)
+            {
+                return item % 2 == 0;
+            });
 
             Console.WriteLine("All even number in the list: ");
 
