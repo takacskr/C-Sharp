@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\bin\Debug\net8.0\ReadOnlyCollection.exe
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\bin\Debug\net8.0\ReadOnlyCollection.deps.json
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\bin\Debug\net8.0\ReadOnlyCollection.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\bin\Debug\net8.0\ReadOnlyCollection.dll
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\bin\Debug\net8.0\ReadOnlyCollection.pdb
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\obj\Debug\net8.0\ReadOnlyCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\obj\Debug\net8.0\ReadOnlyCollection.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\obj\Debug\net8.0\ReadOnlyCollection.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\obj\Debug\net8.0\ReadOnlyCollection.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\obj\Debug\net8.0\ReadOnlyCollection.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\obj\Debug\net8.0\ReadOnlyCollection.dll
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\obj\Debug\net8.0\refint\ReadOnlyCollection.dll
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\obj\Debug\net8.0\ReadOnlyCollection.pdb
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\obj\Debug\net8.0\ReadOnlyCollection.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\ReadOnlyCollection\ReadOnlyCollection\obj\Debug\net8.0\ref\ReadOnlyCollection.dll
