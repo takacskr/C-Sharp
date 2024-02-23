@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\bin\Debug\net8.0\Lambda6.exe
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\bin\Debug\net8.0\Lambda6.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\bin\Debug\net8.0\Lambda6.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\bin\Debug\net8.0\Lambda6.dll
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\bin\Debug\net8.0\Lambda6.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\obj\Debug\net8.0\Lambda6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\obj\Debug\net8.0\Lambda6.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\obj\Debug\net8.0\Lambda6.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\obj\Debug\net8.0\Lambda6.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\obj\Debug\net8.0\Lambda6.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\obj\Debug\net8.0\Lambda6.dll
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\obj\Debug\net8.0\refint\Lambda6.dll
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\obj\Debug\net8.0\Lambda6.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\obj\Debug\net8.0\Lambda6.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Lambda6\Lambda6\obj\Debug\net8.0\ref\Lambda6.dll

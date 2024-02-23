@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\bin\Debug\net8.0\Lambda-Action1.exe
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\bin\Debug\net8.0\Lambda-Action1.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\bin\Debug\net8.0\Lambda-Action1.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\bin\Debug\net8.0\Lambda-Action1.dll
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\bin\Debug\net8.0\Lambda-Action1.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\obj\Debug\net8.0\Lambda-Action1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\obj\Debug\net8.0\Lambda-Action1.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\obj\Debug\net8.0\Lambda-Action1.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\obj\Debug\net8.0\Lambda-Action1.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\obj\Debug\net8.0\Lambda-Action1.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\obj\Debug\net8.0\Lambda-Action1.dll
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\obj\Debug\net8.0\refint\Lambda-Action1.dll
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\obj\Debug\net8.0\Lambda-Action1.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\obj\Debug\net8.0\Lambda-Action1.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Lambda-Action1\Lambda-Action1\obj\Debug\net8.0\ref\Lambda-Action1.dll

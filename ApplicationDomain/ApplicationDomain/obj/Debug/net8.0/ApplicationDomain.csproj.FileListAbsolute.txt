@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\bin\Debug\net8.0\ApplicationDomain.exe
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\bin\Debug\net8.0\ApplicationDomain.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\bin\Debug\net8.0\ApplicationDomain.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\bin\Debug\net8.0\ApplicationDomain.dll
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\bin\Debug\net8.0\ApplicationDomain.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\obj\Debug\net8.0\ApplicationDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\obj\Debug\net8.0\ApplicationDomain.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\obj\Debug\net8.0\ApplicationDomain.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\obj\Debug\net8.0\ApplicationDomain.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\obj\Debug\net8.0\ApplicationDomain.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\obj\Debug\net8.0\ApplicationDomain.dll
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\obj\Debug\net8.0\refint\ApplicationDomain.dll
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\obj\Debug\net8.0\ApplicationDomain.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\obj\Debug\net8.0\ApplicationDomain.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ApplicationDomain\ApplicationDomain\obj\Debug\net8.0\ref\ApplicationDomain.dll

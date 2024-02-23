@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\Lambda4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{277D177C-D460-4DA1-9D72-6D8A25354B8B}|Lambda4\\Lambda4.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\lambda4\\lambda4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{277D177C-D460-4DA1-9D72-6D8A25354B8B}|Lambda4\\Lambda4.csproj|solutionrelative:lambda4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\Lambda4\\Lambda4\\Program.cs",
+              "RelativeDocumentMoniker": "Lambda4\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\Lambda4\\Lambda4\\Program.cs",
+              "RelativeToolTip": "Lambda4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T10:49:28.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
