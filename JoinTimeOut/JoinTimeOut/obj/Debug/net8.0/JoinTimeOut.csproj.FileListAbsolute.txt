@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\bin\Debug\net8.0\JoinTimeOut.exe
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\bin\Debug\net8.0\JoinTimeOut.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\bin\Debug\net8.0\JoinTimeOut.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\bin\Debug\net8.0\JoinTimeOut.dll
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\bin\Debug\net8.0\JoinTimeOut.pdb
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\obj\Debug\net8.0\JoinTimeOut.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\obj\Debug\net8.0\JoinTimeOut.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\obj\Debug\net8.0\JoinTimeOut.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\obj\Debug\net8.0\JoinTimeOut.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\obj\Debug\net8.0\JoinTimeOut.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\obj\Debug\net8.0\JoinTimeOut.dll
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\obj\Debug\net8.0\refint\JoinTimeOut.dll
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\obj\Debug\net8.0\JoinTimeOut.pdb
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\obj\Debug\net8.0\JoinTimeOut.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\JoinTimeOut\JoinTimeOut\obj\Debug\net8.0\ref\JoinTimeOut.dll

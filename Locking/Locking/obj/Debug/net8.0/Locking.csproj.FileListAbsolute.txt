@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\bin\Debug\net8.0\Locking.exe
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\bin\Debug\net8.0\Locking.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\bin\Debug\net8.0\Locking.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\bin\Debug\net8.0\Locking.dll
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\bin\Debug\net8.0\Locking.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\obj\Debug\net8.0\Locking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\obj\Debug\net8.0\Locking.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\obj\Debug\net8.0\Locking.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\obj\Debug\net8.0\Locking.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\obj\Debug\net8.0\Locking.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\obj\Debug\net8.0\Locking.dll
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\obj\Debug\net8.0\refint\Locking.dll
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\obj\Debug\net8.0\Locking.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\obj\Debug\net8.0\Locking.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Locking\Locking\obj\Debug\net8.0\ref\Locking.dll
