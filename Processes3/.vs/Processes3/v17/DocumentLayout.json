@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\Processes3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33FCEF2C-C9D0-4BAC-972A-F151371E1896}|Processes3\\Processes3.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\processes3\\processes3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33FCEF2C-C9D0-4BAC-972A-F151371E1896}|Processes3\\Processes3.csproj|solutionrelative:processes3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\Processes3\\Processes3\\Program.cs",
+              "RelativeDocumentMoniker": "Processes3\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\Processes3\\Processes3\\Program.cs",
+              "RelativeToolTip": "Processes3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T11:26:51.44Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
