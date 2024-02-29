@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\obj\Debug\net8.0\Thread.Sleep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\obj\Debug\net8.0\Thread.Sleep.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\obj\Debug\net8.0\Thread.Sleep.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\obj\Debug\net8.0\Thread.Sleep.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\obj\Debug\net8.0\Thread.Sleep.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\bin\Debug\net8.0\Thread.Sleep.exe
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\bin\Debug\net8.0\Thread.Sleep.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\bin\Debug\net8.0\Thread.Sleep.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\bin\Debug\net8.0\Thread.Sleep.dll
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\bin\Debug\net8.0\Thread.Sleep.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\obj\Debug\net8.0\Thread.Sleep.dll
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\obj\Debug\net8.0\refint\Thread.Sleep.dll
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\obj\Debug\net8.0\Thread.Sleep.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\obj\Debug\net8.0\Thread.Sleep.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Thread.Sleep\Thread.Sleep\obj\Debug\net8.0\ref\Thread.Sleep.dll

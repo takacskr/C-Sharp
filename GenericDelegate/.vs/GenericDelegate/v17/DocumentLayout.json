@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\GenericDelegate\\",
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\GenericDelegate\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B78EFDAE-BEDF-4D9C-A3C8-7095728996B0}|GenericDelegate\\GenericDelegate.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\genericdelegate\\genericdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{B78EFDAE-BEDF-4D9C-A3C8-7095728996B0}|GenericDelegate\\GenericDelegate.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\genericdelegate\\genericdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B78EFDAE-BEDF-4D9C-A3C8-7095728996B0}|GenericDelegate\\GenericDelegate.csproj|solutionrelative:genericdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,15 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\GenericDelegate\\GenericDelegate\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\GenericDelegate\\GenericDelegate\\Program.cs",
               "RelativeDocumentMoniker": "GenericDelegate\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\GenericDelegate\\GenericDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\GenericDelegate\\GenericDelegate\\Program.cs",
               "RelativeToolTip": "GenericDelegate\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+=======
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAoAAAAFAAAA",
+>>>>>>> b8b7812629e9cf50a4c039a96bcf9b1991f51d67
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-17T20:29:13.047Z",
               "EditorCaption": ""

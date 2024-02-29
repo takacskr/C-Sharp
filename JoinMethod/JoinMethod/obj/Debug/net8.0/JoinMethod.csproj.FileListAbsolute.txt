@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\bin\Debug\net8.0\JoinMethod.exe
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\bin\Debug\net8.0\JoinMethod.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\bin\Debug\net8.0\JoinMethod.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\bin\Debug\net8.0\JoinMethod.dll
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\bin\Debug\net8.0\JoinMethod.pdb
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\obj\Debug\net8.0\JoinMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\obj\Debug\net8.0\JoinMethod.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\obj\Debug\net8.0\JoinMethod.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\obj\Debug\net8.0\JoinMethod.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\obj\Debug\net8.0\JoinMethod.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\obj\Debug\net8.0\JoinMethod.dll
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\obj\Debug\net8.0\refint\JoinMethod.dll
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\obj\Debug\net8.0\JoinMethod.pdb
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\obj\Debug\net8.0\JoinMethod.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\JoinMethod\JoinMethod\obj\Debug\net8.0\ref\JoinMethod.dll

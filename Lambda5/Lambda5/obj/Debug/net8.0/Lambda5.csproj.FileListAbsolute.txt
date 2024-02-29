@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\bin\Debug\net8.0\Lambda5.exe
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\bin\Debug\net8.0\Lambda5.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\bin\Debug\net8.0\Lambda5.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\bin\Debug\net8.0\Lambda5.dll
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\bin\Debug\net8.0\Lambda5.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\obj\Debug\net8.0\Lambda5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\obj\Debug\net8.0\Lambda5.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\obj\Debug\net8.0\Lambda5.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\obj\Debug\net8.0\Lambda5.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\obj\Debug\net8.0\Lambda5.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\obj\Debug\net8.0\Lambda5.dll
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\obj\Debug\net8.0\refint\Lambda5.dll
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\obj\Debug\net8.0\Lambda5.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\obj\Debug\net8.0\Lambda5.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Lambda5\Lambda5\obj\Debug\net8.0\ref\Lambda5.dll

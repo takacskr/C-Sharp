@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\AsyncDelegate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C51C7731-480D-46AF-8F29-694560A35699}|AsyncDelegate\\AsyncDelegate.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\asyncdelegate\\asyncdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C51C7731-480D-46AF-8F29-694560A35699}|AsyncDelegate\\AsyncDelegate.csproj|solutionrelative:asyncdelegate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\AsyncDelegate\\AsyncDelegate\\Program.cs",
+              "RelativeDocumentMoniker": "AsyncDelegate\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\AsyncDelegate\\AsyncDelegate\\Program.cs",
+              "RelativeToolTip": "AsyncDelegate\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T09:14:46.512Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

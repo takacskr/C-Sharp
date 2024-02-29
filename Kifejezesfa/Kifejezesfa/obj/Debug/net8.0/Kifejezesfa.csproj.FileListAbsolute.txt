@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\bin\Debug\net8.0\Kifejezesfa.exe
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\bin\Debug\net8.0\Kifejezesfa.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\bin\Debug\net8.0\Kifejezesfa.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\bin\Debug\net8.0\Kifejezesfa.dll
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\bin\Debug\net8.0\Kifejezesfa.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\obj\Debug\net8.0\Kifejezesfa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\obj\Debug\net8.0\Kifejezesfa.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\obj\Debug\net8.0\Kifejezesfa.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\obj\Debug\net8.0\Kifejezesfa.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\obj\Debug\net8.0\Kifejezesfa.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\obj\Debug\net8.0\Kifejezesfa.dll
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\obj\Debug\net8.0\refint\Kifejezesfa.dll
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\obj\Debug\net8.0\Kifejezesfa.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\obj\Debug\net8.0\Kifejezesfa.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Kifejezesfa\Kifejezesfa\obj\Debug\net8.0\ref\Kifejezesfa.dll

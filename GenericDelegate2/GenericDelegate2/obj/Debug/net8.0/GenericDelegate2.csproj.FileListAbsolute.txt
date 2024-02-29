@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\bin\Debug\net8.0\GenericDelegate2.exe
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\bin\Debug\net8.0\GenericDelegate2.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\bin\Debug\net8.0\GenericDelegate2.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\bin\Debug\net8.0\GenericDelegate2.dll
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\bin\Debug\net8.0\GenericDelegate2.pdb
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\obj\Debug\net8.0\GenericDelegate2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\obj\Debug\net8.0\GenericDelegate2.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\obj\Debug\net8.0\GenericDelegate2.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\obj\Debug\net8.0\GenericDelegate2.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\obj\Debug\net8.0\GenericDelegate2.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\obj\Debug\net8.0\GenericDelegate2.dll
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\obj\Debug\net8.0\refint\GenericDelegate2.dll
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\obj\Debug\net8.0\GenericDelegate2.pdb
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\obj\Debug\net8.0\GenericDelegate2.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\GenericDelegate2\GenericDelegate2\obj\Debug\net8.0\ref\GenericDelegate2.dll

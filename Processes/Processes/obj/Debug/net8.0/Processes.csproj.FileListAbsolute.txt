@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\bin\Debug\net8.0\Processes.exe
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\bin\Debug\net8.0\Processes.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\bin\Debug\net8.0\Processes.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\bin\Debug\net8.0\Processes.dll
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\bin\Debug\net8.0\Processes.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\obj\Debug\net8.0\Processes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\obj\Debug\net8.0\Processes.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\obj\Debug\net8.0\Processes.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\obj\Debug\net8.0\Processes.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\obj\Debug\net8.0\Processes.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\obj\Debug\net8.0\Processes.dll
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\obj\Debug\net8.0\refint\Processes.dll
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\obj\Debug\net8.0\Processes.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\obj\Debug\net8.0\Processes.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Processes\Processes\obj\Debug\net8.0\ref\Processes.dll

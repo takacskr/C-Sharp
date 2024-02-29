@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\bin\Debug\net8.0\Lambda4.exe
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\bin\Debug\net8.0\Lambda4.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\bin\Debug\net8.0\Lambda4.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\bin\Debug\net8.0\Lambda4.dll
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\bin\Debug\net8.0\Lambda4.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\obj\Debug\net8.0\Lambda4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\obj\Debug\net8.0\Lambda4.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\obj\Debug\net8.0\Lambda4.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\obj\Debug\net8.0\Lambda4.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\obj\Debug\net8.0\Lambda4.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\obj\Debug\net8.0\Lambda4.dll
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\obj\Debug\net8.0\refint\Lambda4.dll
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\obj\Debug\net8.0\Lambda4.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\obj\Debug\net8.0\Lambda4.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Lambda4\Lambda4\obj\Debug\net8.0\ref\Lambda4.dll
