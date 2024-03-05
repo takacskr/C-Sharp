@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\bin\Debug\net8.0\AsyncAwaitDelegate.exe
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\bin\Debug\net8.0\AsyncAwaitDelegate.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\bin\Debug\net8.0\AsyncAwaitDelegate.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\bin\Debug\net8.0\AsyncAwaitDelegate.dll
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\bin\Debug\net8.0\AsyncAwaitDelegate.pdb
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\obj\Debug\net8.0\AsyncAwaitDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\obj\Debug\net8.0\AsyncAwaitDelegate.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\obj\Debug\net8.0\AsyncAwaitDelegate.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\obj\Debug\net8.0\AsyncAwaitDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\obj\Debug\net8.0\AsyncAwaitDelegate.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\obj\Debug\net8.0\AsyncAwaitDelegate.dll
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\obj\Debug\net8.0\refint\AsyncAwaitDelegate.dll
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\obj\Debug\net8.0\AsyncAwaitDelegate.pdb
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\obj\Debug\net8.0\AsyncAwaitDelegate.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\AsyncAwaitDelegate\AsyncAwaitDelegate\obj\Debug\net8.0\ref\AsyncAwaitDelegate.dll

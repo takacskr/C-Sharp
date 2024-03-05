@@ -8,7 +8,7 @@ namespace JoinMethod
                             // A Main metódus az elsődleges, fő szál
         static void Main() // A Main metódus a hívó szál, ő hívja meg a Join() metódust
         {
-            /*
+            /* Szinkronizáció:
              * A másik szál, amelyet a program létrehoz és meghív, az a t nevű új szál,
              * amelyet a Thread osztályból hozunk létre a Start() metódus meghívásával.
              * Ez a másodlagos szál, amely a Thread.Sleep(2000) metódust végrehajtja
