@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\bin\Debug\net8.0\ParalelInvoke.exe
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\bin\Debug\net8.0\ParalelInvoke.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\bin\Debug\net8.0\ParalelInvoke.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\bin\Debug\net8.0\ParalelInvoke.dll
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\bin\Debug\net8.0\ParalelInvoke.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\obj\Debug\net8.0\ParalelInvoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\obj\Debug\net8.0\ParalelInvoke.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\obj\Debug\net8.0\ParalelInvoke.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\obj\Debug\net8.0\ParalelInvoke.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\obj\Debug\net8.0\ParalelInvoke.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\obj\Debug\net8.0\ParalelInvoke.dll
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\obj\Debug\net8.0\refint\ParalelInvoke.dll
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\obj\Debug\net8.0\ParalelInvoke.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\obj\Debug\net8.0\ParalelInvoke.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ParalelInvoke\ParalelInvoke\obj\Debug\net8.0\ref\ParalelInvoke.dll

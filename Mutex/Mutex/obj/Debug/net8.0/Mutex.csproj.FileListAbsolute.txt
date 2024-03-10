@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\obj\Debug\net8.0\Mutex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\obj\Debug\net8.0\Mutex.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\obj\Debug\net8.0\Mutex.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\obj\Debug\net8.0\Mutex.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\obj\Debug\net8.0\Mutex.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\bin\Debug\net8.0\Mutex.exe
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\bin\Debug\net8.0\Mutex.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\bin\Debug\net8.0\Mutex.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\bin\Debug\net8.0\Mutex.dll
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\bin\Debug\net8.0\Mutex.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\obj\Debug\net8.0\Mutex.dll
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\obj\Debug\net8.0\refint\Mutex.dll
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\obj\Debug\net8.0\Mutex.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\obj\Debug\net8.0\Mutex.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Mutex\Mutex\obj\Debug\net8.0\ref\Mutex.dll

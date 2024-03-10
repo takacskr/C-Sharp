@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ParhuzamosCiklusok1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{082676C1-E3DA-4F4C-BFE6-DE54B4D020B7}|ParhuzamosCiklusok1\\ParhuzamosCiklusok1.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\parhuzamosciklusok1\\parhuzamosciklusok1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{082676C1-E3DA-4F4C-BFE6-DE54B4D020B7}|ParhuzamosCiklusok1\\ParhuzamosCiklusok1.csproj|solutionrelative:parhuzamosciklusok1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ParhuzamosCiklusok1\\ParhuzamosCiklusok1\\Program.cs",
+              "RelativeDocumentMoniker": "ParhuzamosCiklusok1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ParhuzamosCiklusok1\\ParhuzamosCiklusok1\\Program.cs",
+              "RelativeToolTip": "ParhuzamosCiklusok1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-08T17:13:41.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

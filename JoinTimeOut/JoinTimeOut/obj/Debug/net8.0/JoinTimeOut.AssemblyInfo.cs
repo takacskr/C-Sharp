@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JoinTimeOut")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86ffa0b187a040b48d2ab0aa07daf5e79d20d601")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b76ce15cf4569f5c6fcff4427d9f302d8101863")]
 [assembly: System.Reflection.AssemblyProductAttribute("JoinTimeOut")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JoinTimeOut")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

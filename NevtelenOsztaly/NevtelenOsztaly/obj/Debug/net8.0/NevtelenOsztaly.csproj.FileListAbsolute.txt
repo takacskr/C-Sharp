@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\bin\Debug\net8.0\NevtelenOsztaly.exe
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\bin\Debug\net8.0\NevtelenOsztaly.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\bin\Debug\net8.0\NevtelenOsztaly.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\bin\Debug\net8.0\NevtelenOsztaly.dll
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\bin\Debug\net8.0\NevtelenOsztaly.pdb
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\obj\Debug\net8.0\NevtelenOsztaly.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\obj\Debug\net8.0\NevtelenOsztaly.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\obj\Debug\net8.0\NevtelenOsztaly.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\obj\Debug\net8.0\NevtelenOsztaly.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\obj\Debug\net8.0\NevtelenOsztaly.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\obj\Debug\net8.0\NevtelenOsztaly.dll
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\obj\Debug\net8.0\refint\NevtelenOsztaly.dll
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\obj\Debug\net8.0\NevtelenOsztaly.pdb
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\obj\Debug\net8.0\NevtelenOsztaly.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\NevtelenOsztaly\NevtelenOsztaly\obj\Debug\net8.0\ref\NevtelenOsztaly.dll

@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\bin\Debug\net8.0\ThreadLocking.exe
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\bin\Debug\net8.0\ThreadLocking.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\bin\Debug\net8.0\ThreadLocking.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\bin\Debug\net8.0\ThreadLocking.dll
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\bin\Debug\net8.0\ThreadLocking.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\obj\Debug\net8.0\ThreadLocking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\obj\Debug\net8.0\ThreadLocking.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\obj\Debug\net8.0\ThreadLocking.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\obj\Debug\net8.0\ThreadLocking.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\obj\Debug\net8.0\ThreadLocking.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\obj\Debug\net8.0\ThreadLocking.dll
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\obj\Debug\net8.0\refint\ThreadLocking.dll
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\obj\Debug\net8.0\ThreadLocking.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\obj\Debug\net8.0\ThreadLocking.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ThreadLocking\ThreadLocking\obj\Debug\net8.0\ref\ThreadLocking.dll
