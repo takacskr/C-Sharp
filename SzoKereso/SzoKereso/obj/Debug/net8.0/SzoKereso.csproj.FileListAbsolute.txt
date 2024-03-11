@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\bin\Debug\net8.0\SzoKereso.exe
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\bin\Debug\net8.0\SzoKereso.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\bin\Debug\net8.0\SzoKereso.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\bin\Debug\net8.0\SzoKereso.dll
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\bin\Debug\net8.0\SzoKereso.pdb
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\obj\Debug\net8.0\SzoKereso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\obj\Debug\net8.0\SzoKereso.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\obj\Debug\net8.0\SzoKereso.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\obj\Debug\net8.0\SzoKereso.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\obj\Debug\net8.0\SzoKereso.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\obj\Debug\net8.0\SzoKereso.dll
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\obj\Debug\net8.0\refint\SzoKereso.dll
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\obj\Debug\net8.0\SzoKereso.pdb
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\obj\Debug\net8.0\SzoKereso.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\SzoKereso\SzoKereso\obj\Debug\net8.0\ref\SzoKereso.dll

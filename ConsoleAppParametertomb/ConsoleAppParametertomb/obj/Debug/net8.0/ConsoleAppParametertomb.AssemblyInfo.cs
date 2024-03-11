@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleAppParametertomb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbe8179f73a07950eb4b94941fa1dba0bcc95c3f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8b7812629e9cf50a4c039a96bcf9b1991f51d67")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleAppParametertomb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleAppParametertomb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

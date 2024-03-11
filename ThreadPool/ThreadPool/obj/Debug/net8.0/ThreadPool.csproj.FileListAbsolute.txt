@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\bin\Debug\net8.0\ThreadPool.exe
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\bin\Debug\net8.0\ThreadPool.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\bin\Debug\net8.0\ThreadPool.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\bin\Debug\net8.0\ThreadPool.dll
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\bin\Debug\net8.0\ThreadPool.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\obj\Debug\net8.0\ThreadPool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\obj\Debug\net8.0\ThreadPool.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\obj\Debug\net8.0\ThreadPool.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\obj\Debug\net8.0\ThreadPool.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\obj\Debug\net8.0\ThreadPool.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\obj\Debug\net8.0\ThreadPool.dll
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\obj\Debug\net8.0\refint\ThreadPool.dll
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\obj\Debug\net8.0\ThreadPool.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\obj\Debug\net8.0\ThreadPool.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ThreadPool\ThreadPool\obj\Debug\net8.0\ref\ThreadPool.dll

@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\bin\Debug\net8.0\ParhuzamosCiklusok2.exe
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\bin\Debug\net8.0\ParhuzamosCiklusok2.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\bin\Debug\net8.0\ParhuzamosCiklusok2.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\bin\Debug\net8.0\ParhuzamosCiklusok2.dll
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\bin\Debug\net8.0\ParhuzamosCiklusok2.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\obj\Debug\net8.0\ParhuzamosCiklusok2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\obj\Debug\net8.0\ParhuzamosCiklusok2.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\obj\Debug\net8.0\ParhuzamosCiklusok2.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\obj\Debug\net8.0\ParhuzamosCiklusok2.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\obj\Debug\net8.0\ParhuzamosCiklusok2.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\obj\Debug\net8.0\ParhuzamosCiklusok2.dll
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\obj\Debug\net8.0\refint\ParhuzamosCiklusok2.dll
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\obj\Debug\net8.0\ParhuzamosCiklusok2.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\obj\Debug\net8.0\ParhuzamosCiklusok2.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ParhuzamosCiklusok2\ParhuzamosCiklusok2\obj\Debug\net8.0\ref\ParhuzamosCiklusok2.dll

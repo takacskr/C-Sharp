@@ -24,7 +24,11 @@
               "RelativeDocumentMoniker": "AsyncDelegate\\Program.cs",
               "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\AsyncDelegate\\AsyncDelegate\\Program.cs",
               "RelativeToolTip": "AsyncDelegate\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AQIAAAgAAAAAAAAAAAAQwCQAAAAaAAAA",
+=======
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwB8AAABNAAAA",
+>>>>>>> 03df0447dbee9b3417532354bd5c1bb1552b5164
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-23T09:14:46.512Z",
               "EditorCaption": ""

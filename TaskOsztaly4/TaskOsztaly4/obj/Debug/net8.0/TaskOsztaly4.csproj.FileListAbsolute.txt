@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\bin\Debug\net8.0\TaskOsztaly4.exe
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\bin\Debug\net8.0\TaskOsztaly4.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\bin\Debug\net8.0\TaskOsztaly4.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\bin\Debug\net8.0\TaskOsztaly4.dll
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\bin\Debug\net8.0\TaskOsztaly4.pdb
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\obj\Debug\net8.0\TaskOsztaly4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\obj\Debug\net8.0\TaskOsztaly4.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\obj\Debug\net8.0\TaskOsztaly4.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\obj\Debug\net8.0\TaskOsztaly4.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\obj\Debug\net8.0\TaskOsztaly4.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\obj\Debug\net8.0\TaskOsztaly4.dll
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\obj\Debug\net8.0\refint\TaskOsztaly4.dll
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\obj\Debug\net8.0\TaskOsztaly4.pdb
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\obj\Debug\net8.0\TaskOsztaly4.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\TaskOsztaly4\TaskOsztaly4\obj\Debug\net8.0\ref\TaskOsztaly4.dll
