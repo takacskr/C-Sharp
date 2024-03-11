@@ -34,7 +34,6 @@ class Program
         // Kiírunk egy üzenetet a konzolra.
         Console.WriteLine("BlaBla...");
 
-        // Várunk, hogy a felhasználó leüt egy billentyűt a kilépéshez.
         Console.ReadKey();
     }
 }

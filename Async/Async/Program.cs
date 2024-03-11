@@ -19,13 +19,13 @@ class Program
         return x * x;
     }
 
-    static async Task Main(string[] args)
+    static async Task Main()
     {
         // Kiírjuk, hogy a Main metódus elindult
         Console.WriteLine("Main metódus elindult a szálban...");
 
         // Aszinkron módon elindítjuk a Square metódust egy háttérszálon
-        Task<int> squareTask = Task.Run(() => Square(12));
+        Task<int> squareTask = Task.Run( () => Square(12) );
 
         // Várunk egy kicsit, hogy a háttérszál elinduljon és befejeződjön
         await Task.Delay(50);

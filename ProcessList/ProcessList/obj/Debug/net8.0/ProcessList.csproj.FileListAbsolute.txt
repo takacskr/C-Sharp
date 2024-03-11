@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\bin\Debug\net8.0\ProcessList.exe
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\bin\Debug\net8.0\ProcessList.deps.json
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\bin\Debug\net8.0\ProcessList.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\bin\Debug\net8.0\ProcessList.dll
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\bin\Debug\net8.0\ProcessList.pdb
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\obj\Debug\net8.0\ProcessList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\obj\Debug\net8.0\ProcessList.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\obj\Debug\net8.0\ProcessList.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\obj\Debug\net8.0\ProcessList.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\obj\Debug\net8.0\ProcessList.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\obj\Debug\net8.0\ProcessList.dll
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\obj\Debug\net8.0\refint\ProcessList.dll
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\obj\Debug\net8.0\ProcessList.pdb
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\obj\Debug\net8.0\ProcessList.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\ProcessList\ProcessList\obj\Debug\net8.0\ref\ProcessList.dll

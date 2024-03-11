@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\bin\Debug\net8.0\CurrentThread.exe
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\bin\Debug\net8.0\CurrentThread.deps.json
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\bin\Debug\net8.0\CurrentThread.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\bin\Debug\net8.0\CurrentThread.dll
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\bin\Debug\net8.0\CurrentThread.pdb
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.dll
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\obj\Debug\net8.0\refint\CurrentThread.dll
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.pdb
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\obj\Debug\net8.0\CurrentThread.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\CurrentThread\CurrentThread\obj\Debug\net8.0\ref\CurrentThread.dll

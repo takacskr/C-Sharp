@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\bin\Debug\net8.0\Threads-Interlocked.exe
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\bin\Debug\net8.0\Threads-Interlocked.deps.json
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\bin\Debug\net8.0\Threads-Interlocked.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\bin\Debug\net8.0\Threads-Interlocked.dll
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\bin\Debug\net8.0\Threads-Interlocked.pdb
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\obj\Debug\net8.0\Threads-Interlocked.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\obj\Debug\net8.0\Threads-Interlocked.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\obj\Debug\net8.0\Threads-Interlocked.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\obj\Debug\net8.0\Threads-Interlocked.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\obj\Debug\net8.0\Threads-Interlocked.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\obj\Debug\net8.0\Threads-Interlocked.dll
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\obj\Debug\net8.0\refint\Threads-Interlocked.dll
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\obj\Debug\net8.0\Threads-Interlocked.pdb
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\obj\Debug\net8.0\Threads-Interlocked.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\Threads-Interlocked\Threads-Interlocked\obj\Debug\net8.0\ref\Threads-Interlocked.dll

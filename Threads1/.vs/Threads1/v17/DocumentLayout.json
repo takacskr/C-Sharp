@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\Threads1\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Threads1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BBCF91E8-E5A1-410F-BEDA-9A7A38E99D64}|Threads1\\Threads1.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\threads1\\threads1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BBCF91E8-E5A1-410F-BEDA-9A7A38E99D64}|Threads1\\Threads1.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\threads1\\threads1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBCF91E8-E5A1-410F-BEDA-9A7A38E99D64}|Threads1\\Threads1.csproj|solutionrelative:threads1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\Threads1\\Threads1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Threads1\\Threads1\\Program.cs",
               "RelativeDocumentMoniker": "Threads1\\Program.cs",
-              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\Threads1\\Threads1\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Threads1\\Threads1\\Program.cs",
               "RelativeToolTip": "Threads1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-22T17:17:56.648Z",
               "EditorCaption": ""
