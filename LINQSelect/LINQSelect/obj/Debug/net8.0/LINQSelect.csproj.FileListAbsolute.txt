@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\bin\Debug\net8.0\LINQSelect.exe
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\bin\Debug\net8.0\LINQSelect.deps.json
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\bin\Debug\net8.0\LINQSelect.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\bin\Debug\net8.0\LINQSelect.dll
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\bin\Debug\net8.0\LINQSelect.pdb
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\obj\Debug\net8.0\LINQSelect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\obj\Debug\net8.0\LINQSelect.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\obj\Debug\net8.0\LINQSelect.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\obj\Debug\net8.0\LINQSelect.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\obj\Debug\net8.0\LINQSelect.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\obj\Debug\net8.0\LINQSelect.dll
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\obj\Debug\net8.0\refint\LINQSelect.dll
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\obj\Debug\net8.0\LINQSelect.pdb
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\obj\Debug\net8.0\LINQSelect.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\LINQSelect\LINQSelect\obj\Debug\net8.0\ref\LINQSelect.dll

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\LINQ1\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\LINQ1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{011E114D-342C-4BE4-8BD5-73E12D510A78}|LINQ1\\LINQ1.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\linq1\\linq1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{011E114D-342C-4BE4-8BD5-73E12D510A78}|LINQ1\\LINQ1.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\linq1\\linq1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{011E114D-342C-4BE4-8BD5-73E12D510A78}|LINQ1\\LINQ1.csproj|solutionrelative:linq1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\LINQ1\\LINQ1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\LINQ1\\LINQ1\\Program.cs",
               "RelativeDocumentMoniker": "LINQ1\\Program.cs",
-              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\LINQ1\\LINQ1\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\LINQ1\\LINQ1\\Program.cs",
               "RelativeToolTip": "LINQ1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-10T13:52:13.539Z",
               "EditorCaption": ""

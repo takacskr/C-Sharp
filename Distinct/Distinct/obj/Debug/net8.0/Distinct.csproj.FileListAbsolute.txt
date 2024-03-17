@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\bin\Debug\net8.0\Distinct.exe
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\bin\Debug\net8.0\Distinct.deps.json
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\bin\Debug\net8.0\Distinct.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\bin\Debug\net8.0\Distinct.dll
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\bin\Debug\net8.0\Distinct.pdb
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\obj\Debug\net8.0\Distinct.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\obj\Debug\net8.0\Distinct.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\obj\Debug\net8.0\Distinct.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\obj\Debug\net8.0\Distinct.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\obj\Debug\net8.0\Distinct.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\obj\Debug\net8.0\Distinct.dll
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\obj\Debug\net8.0\refint\Distinct.dll
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\obj\Debug\net8.0\Distinct.pdb
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\obj\Debug\net8.0\Distinct.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\Distinct\Distinct\obj\Debug\net8.0\ref\Distinct.dll

@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\bin\Debug\net8.0\Projekcio1.exe
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\bin\Debug\net8.0\Projekcio1.deps.json
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\bin\Debug\net8.0\Projekcio1.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\bin\Debug\net8.0\Projekcio1.dll
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\bin\Debug\net8.0\Projekcio1.pdb
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\obj\Debug\net8.0\Projekcio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\obj\Debug\net8.0\Projekcio1.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\obj\Debug\net8.0\Projekcio1.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\obj\Debug\net8.0\Projekcio1.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\obj\Debug\net8.0\Projekcio1.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\obj\Debug\net8.0\Projekcio1.dll
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\obj\Debug\net8.0\refint\Projekcio1.dll
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\obj\Debug\net8.0\Projekcio1.pdb
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\obj\Debug\net8.0\Projekcio1.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\Projekcio1\Projekcio1\obj\Debug\net8.0\ref\Projekcio1.dll

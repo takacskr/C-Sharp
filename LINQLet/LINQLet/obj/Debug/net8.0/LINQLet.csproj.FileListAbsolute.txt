@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\bin\Debug\net8.0\LINQLet.exe
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\bin\Debug\net8.0\LINQLet.deps.json
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\bin\Debug\net8.0\LINQLet.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\bin\Debug\net8.0\LINQLet.dll
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\bin\Debug\net8.0\LINQLet.pdb
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\obj\Debug\net8.0\LINQLet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\obj\Debug\net8.0\LINQLet.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\obj\Debug\net8.0\LINQLet.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\obj\Debug\net8.0\LINQLet.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\obj\Debug\net8.0\LINQLet.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\obj\Debug\net8.0\LINQLet.dll
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\obj\Debug\net8.0\refint\LINQLet.dll
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\obj\Debug\net8.0\LINQLet.pdb
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\obj\Debug\net8.0\LINQLet.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\LINQLet\LINQLet\obj\Debug\net8.0\ref\LINQLet.dll

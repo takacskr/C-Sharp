@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\bin\Debug\net8.0\LINQProjekcio.exe
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\bin\Debug\net8.0\LINQProjekcio.deps.json
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\bin\Debug\net8.0\LINQProjekcio.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\bin\Debug\net8.0\LINQProjekcio.dll
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\bin\Debug\net8.0\LINQProjekcio.pdb
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\obj\Debug\net8.0\LINQProjekcio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\obj\Debug\net8.0\LINQProjekcio.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\obj\Debug\net8.0\LINQProjekcio.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\obj\Debug\net8.0\LINQProjekcio.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\obj\Debug\net8.0\LINQProjekcio.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\obj\Debug\net8.0\LINQProjekcio.dll
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\obj\Debug\net8.0\refint\LINQProjekcio.dll
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\obj\Debug\net8.0\LINQProjekcio.pdb
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\obj\Debug\net8.0\LINQProjekcio.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\LINQProjekcio\LINQProjekcio\obj\Debug\net8.0\ref\LINQProjekcio.dll

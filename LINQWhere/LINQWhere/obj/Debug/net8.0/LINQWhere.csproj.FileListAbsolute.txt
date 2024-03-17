@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\bin\Debug\net8.0\LINQWhere.exe
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\bin\Debug\net8.0\LINQWhere.deps.json
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\bin\Debug\net8.0\LINQWhere.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\bin\Debug\net8.0\LINQWhere.dll
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\bin\Debug\net8.0\LINQWhere.pdb
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\obj\Debug\net8.0\LINQWhere.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\obj\Debug\net8.0\LINQWhere.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\obj\Debug\net8.0\LINQWhere.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\obj\Debug\net8.0\LINQWhere.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\obj\Debug\net8.0\LINQWhere.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\obj\Debug\net8.0\LINQWhere.dll
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\obj\Debug\net8.0\refint\LINQWhere.dll
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\obj\Debug\net8.0\LINQWhere.pdb
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\obj\Debug\net8.0\LINQWhere.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\LINQWhere\LINQWhere\obj\Debug\net8.0\ref\LINQWhere.dll
