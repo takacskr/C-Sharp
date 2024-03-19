@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\bin\Debug\net8.0\LINQToLookup.exe
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\bin\Debug\net8.0\LINQToLookup.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\bin\Debug\net8.0\LINQToLookup.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\bin\Debug\net8.0\LINQToLookup.dll
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\bin\Debug\net8.0\LINQToLookup.pdb
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\obj\Debug\net8.0\LINQToLookup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\obj\Debug\net8.0\LINQToLookup.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\obj\Debug\net8.0\LINQToLookup.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\obj\Debug\net8.0\LINQToLookup.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\obj\Debug\net8.0\LINQToLookup.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\obj\Debug\net8.0\LINQToLookup.dll
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\obj\Debug\net8.0\refint\LINQToLookup.dll
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\obj\Debug\net8.0\LINQToLookup.pdb
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\obj\Debug\net8.0\LINQToLookup.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\LINQToLookup\LINQToLookup\obj\Debug\net8.0\ref\LINQToLookup.dll

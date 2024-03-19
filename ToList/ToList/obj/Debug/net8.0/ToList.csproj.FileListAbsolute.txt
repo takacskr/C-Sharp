@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\bin\Debug\net8.0\ToList.exe
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\bin\Debug\net8.0\ToList.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\bin\Debug\net8.0\ToList.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\bin\Debug\net8.0\ToList.dll
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\bin\Debug\net8.0\ToList.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\obj\Debug\net8.0\ToList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\obj\Debug\net8.0\ToList.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\obj\Debug\net8.0\ToList.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\obj\Debug\net8.0\ToList.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\obj\Debug\net8.0\ToList.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\obj\Debug\net8.0\ToList.dll
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\obj\Debug\net8.0\refint\ToList.dll
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\obj\Debug\net8.0\ToList.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\obj\Debug\net8.0\ToList.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ToList\ToList\obj\Debug\net8.0\ref\ToList.dll

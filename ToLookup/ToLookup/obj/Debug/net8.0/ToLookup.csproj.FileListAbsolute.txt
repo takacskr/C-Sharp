@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\obj\Debug\net8.0\ToLookup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\obj\Debug\net8.0\ToLookup.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\obj\Debug\net8.0\ToLookup.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\obj\Debug\net8.0\ToLookup.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\obj\Debug\net8.0\ToLookup.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\bin\Debug\net8.0\ToLookup.exe
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\bin\Debug\net8.0\ToLookup.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\bin\Debug\net8.0\ToLookup.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\bin\Debug\net8.0\ToLookup.dll
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\bin\Debug\net8.0\ToLookup.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\obj\Debug\net8.0\ToLookup.dll
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\obj\Debug\net8.0\refint\ToLookup.dll
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\obj\Debug\net8.0\ToLookup.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\obj\Debug\net8.0\ToLookup.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ToLookup\ToLookup\obj\Debug\net8.0\ref\ToLookup.dll

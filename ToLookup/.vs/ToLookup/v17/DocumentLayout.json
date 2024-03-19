@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ToLookup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1731899D-D291-4AA5-9CBF-64FF0B224250}|ToLookup\\ToLookup.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\tolookup\\tolookup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1731899D-D291-4AA5-9CBF-64FF0B224250}|ToLookup\\ToLookup.csproj|solutionrelative:tolookup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ToLookup\\ToLookup\\Program.cs",
+              "RelativeDocumentMoniker": "ToLookup\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ToLookup\\ToLookup\\Program.cs",
+              "RelativeToolTip": "ToLookup\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwB4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:16:46.071Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
