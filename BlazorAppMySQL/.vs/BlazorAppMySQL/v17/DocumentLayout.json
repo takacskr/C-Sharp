@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E28DAE-E820-42A7-AFDF-BB13E98063C4}|BlazorAppMySQL\\BlazorAppMySQL.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorappmysql\\blazorappmysql\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E28DAE-E820-42A7-AFDF-BB13E98063C4}|BlazorAppMySQL\\BlazorAppMySQL.csproj|solutionrelative:blazorappmysql\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0E28DAE-E820-42A7-AFDF-BB13E98063C4}|BlazorAppMySQL\\BlazorAppMySQL.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorappmysql\\blazorappmysql\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F0E28DAE-E820-42A7-AFDF-BB13E98063C4}|BlazorAppMySQL\\BlazorAppMySQL.csproj|solutionrelative:blazorappmysql\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorAppMySQL\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorAppMySQL\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T15:58:41.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorAppMySQL\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQL\\BlazorAppMySQL\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorAppMySQL\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T08:52:12.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

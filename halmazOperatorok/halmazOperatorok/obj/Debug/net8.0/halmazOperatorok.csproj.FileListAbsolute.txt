@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\bin\Debug\net8.0\halmazOperatorok.exe
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\bin\Debug\net8.0\halmazOperatorok.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\bin\Debug\net8.0\halmazOperatorok.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\bin\Debug\net8.0\halmazOperatorok.dll
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\bin\Debug\net8.0\halmazOperatorok.pdb
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\obj\Debug\net8.0\halmazOperatorok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\obj\Debug\net8.0\halmazOperatorok.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\obj\Debug\net8.0\halmazOperatorok.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\obj\Debug\net8.0\halmazOperatorok.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\obj\Debug\net8.0\halmazOperatorok.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\obj\Debug\net8.0\halmazOperatorok.dll
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\obj\Debug\net8.0\refint\halmazOperatorok.dll
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\obj\Debug\net8.0\halmazOperatorok.pdb
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\obj\Debug\net8.0\halmazOperatorok.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\halmazOperatorok\halmazOperatorok\obj\Debug\net8.0\ref\halmazOperatorok.dll

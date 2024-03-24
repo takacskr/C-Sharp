@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\obj\Debug\net8.0\ElementOperators1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\obj\Debug\net8.0\ElementOperators1.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\obj\Debug\net8.0\ElementOperators1.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\obj\Debug\net8.0\ElementOperators1.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\obj\Debug\net8.0\ElementOperators1.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\bin\Debug\net8.0\ElementOperators1.exe
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\bin\Debug\net8.0\ElementOperators1.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\bin\Debug\net8.0\ElementOperators1.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\bin\Debug\net8.0\ElementOperators1.dll
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\bin\Debug\net8.0\ElementOperators1.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\obj\Debug\net8.0\ElementOperators1.dll
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\obj\Debug\net8.0\refint\ElementOperators1.dll
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\obj\Debug\net8.0\ElementOperators1.pdb
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\obj\Debug\net8.0\ElementOperators1.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\ElementOperators1\ElementOperators1\obj\Debug\net8.0\ref\ElementOperators1.dll

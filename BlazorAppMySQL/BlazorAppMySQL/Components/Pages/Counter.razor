@@ -3,22 +3,39 @@
 @using MySql.Data.MySqlClient
 @rendermode InteractiveServer
 
-<PageTitle>Counter</PageTitle>
+<PageTitle>Users</PageTitle>
 
 <h1>Users</h1>
 
 @if (loaded)
 {
-    <div>
-    @foreach(User user in users)
-    {
-        <p>@user.name</p>
-    }
-    </div>
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (User user in users)
+            {
+                <tr>
+                    <td>@user.name</td>
+                    <td>@user.email</td>
+                    <td>@user.phone</td>
+                    <td>
+                        <button class="btn btn-danger" @onclick="() => DeleteUser(user)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
 }
 
-<button @onclick="IncrementPageDown">Previous Page</button>
-<button @onclick="IncrementPage">Next Page</button>
+<button @onclick="IncrementPageDown" class="btn btn-primary">Previous Page</button>
+<button @onclick="IncrementPage" class="btn btn-primary">Next Page</button>
 
 @code
 {
@@ -40,14 +57,7 @@
         dbConnection = new MySqlConnection(connectionString);
         await dbConnection.OpenAsync(); // You may want to handle exceptions here
 
-        users = (await dbConnection.QueryAsync<User>(
-            "SELECT * FROM users ORDER BY name ASC LIMIT @start, @items",
-            new { start = currentPage * itemsPerPage, items = itemsPerPage }
-        )).ToList();
-
-        loaded = true;
-
-        //ReOrderDelayed();
+        await RefreshPage();
     }
 
     private async Task RefreshPage()
@@ -57,15 +67,7 @@
             new { start = currentPage * itemsPerPage, items = itemsPerPage }
         )).ToList();
 
-        StateHasChanged();
-
-    }
-
-    private async Task ReOrderDelayed()
-    {
-        await Task.Delay(2000);
-
-        users = users.OrderBy(x => x.name).ToList();
+        loaded = true;
 
         StateHasChanged();
     }
@@ -84,6 +86,12 @@
         currentPage = Math.Clamp(currentPage, 0, pageCount);
 
         RefreshPage();
+    }
+
+    private async Task DeleteUser(User user)
+    {
+        await dbConnection.ExecuteAsync("DELETE FROM users WHERE id = @Id", new { Id = user.id });
+        await RefreshPage();
     }
 
     // Dispose method to close the connection when the component is disposed

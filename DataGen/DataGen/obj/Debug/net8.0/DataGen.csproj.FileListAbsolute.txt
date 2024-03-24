@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\bin\Debug\net8.0\DataGen.exe
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\bin\Debug\net8.0\DataGen.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\bin\Debug\net8.0\DataGen.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\bin\Debug\net8.0\DataGen.dll
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\bin\Debug\net8.0\DataGen.pdb
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\obj\Debug\net8.0\DataGen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\obj\Debug\net8.0\DataGen.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\obj\Debug\net8.0\DataGen.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\obj\Debug\net8.0\DataGen.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\obj\Debug\net8.0\DataGen.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\obj\Debug\net8.0\DataGen.dll
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\obj\Debug\net8.0\refint\DataGen.dll
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\obj\Debug\net8.0\DataGen.pdb
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\obj\Debug\net8.0\DataGen.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\DataGen\DataGen\obj\Debug\net8.0\ref\DataGen.dll

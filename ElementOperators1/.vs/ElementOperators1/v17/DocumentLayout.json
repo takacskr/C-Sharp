@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ElementOperators1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F81A8AF4-5039-4EB8-9948-DEA1142DD4AB}|ElementOperators1\\ElementOperators1.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\elementoperators1\\elementoperators1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F81A8AF4-5039-4EB8-9948-DEA1142DD4AB}|ElementOperators1\\ElementOperators1.csproj|solutionrelative:elementoperators1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ElementOperators1\\ElementOperators1\\Program.cs",
+              "RelativeDocumentMoniker": "ElementOperators1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ElementOperators1\\ElementOperators1\\Program.cs",
+              "RelativeToolTip": "ElementOperators1\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwBYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-20T09:01:50.541Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
