@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorAppMySQL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3df74ca61903beda329c04d2de1de346b8f5a80")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89a311078a8396d5b78d031e2d79c00ebb46c165")]
->>>>>>> 25163bec7f46371748c312cbe1cce983c812dd3c
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7700c3763d71b58d18c338ceda63a7c1f5714c5c")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorAppMySQL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorAppMySQL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
