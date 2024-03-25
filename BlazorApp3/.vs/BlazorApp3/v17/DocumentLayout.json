@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorapp3\\blazorapp3\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorapp3\\blazorapp3\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorapp3\\blazorapp3\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp3\\BlazorApp3\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp3\\BlazorApp3\\Pages\\Home.razor",
+              "RelativeToolTip": "BlazorApp3\\Pages\\Home.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T10:10:15.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp3\\BlazorApp3\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp3\\BlazorApp3\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorApp3\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-22T10:10:11.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp3\\BlazorApp3\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorApp3\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp3\\BlazorApp3\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorApp3\\Pages\\Weather.razor",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T17:29:38.938Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

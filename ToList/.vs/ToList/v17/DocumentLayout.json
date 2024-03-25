@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ToList\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87257589-51AD-4337-85D1-B90E25E6C0B0}|ToList\\ToList.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\tolist\\tolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87257589-51AD-4337-85D1-B90E25E6C0B0}|ToList\\ToList.csproj|solutionrelative:tolist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ToList\\ToList\\Program.cs",
+              "RelativeDocumentMoniker": "ToList\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ToList\\ToList\\Program.cs",
+              "RelativeToolTip": "ToList\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:24:01.874Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

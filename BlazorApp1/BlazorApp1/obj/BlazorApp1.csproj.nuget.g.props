@@ -19,8 +19,14 @@
     <Import Project="$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly\8.0.0\build\net8.0\Microsoft.AspNetCore.Components.WebAssembly.props" Condition="Exists('$(NuGetPackageRoot)microsoft.aspnetcore.components.webassembly\8.0.0\build\net8.0\Microsoft.AspNetCore.Components.WebAssembly.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+<<<<<<< HEAD
     <PkgMicrosoft_NET_Sdk_WebAssembly_Pack Condition=" '$(PkgMicrosoft_NET_Sdk_WebAssembly_Pack)' == '' ">C:\Users\takac\.nuget\packages\microsoft.net.sdk.webassembly.pack\8.0.3</PkgMicrosoft_NET_Sdk_WebAssembly_Pack>
     <PkgMicrosoft_NET_ILLink_Tasks Condition=" '$(PkgMicrosoft_NET_ILLink_Tasks)' == '' ">C:\Users\takac\.nuget\packages\microsoft.net.illink.tasks\8.0.3</PkgMicrosoft_NET_ILLink_Tasks>
     <PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer)' == '' ">C:\Users\takac\.nuget\packages\microsoft.aspnetcore.components.webassembly.devserver\8.0.0</PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer>
+=======
+    <PkgMicrosoft_NET_Sdk_WebAssembly_Pack Condition=" '$(PkgMicrosoft_NET_Sdk_WebAssembly_Pack)' == '' ">C:\Users\Sugár\.nuget\packages\microsoft.net.sdk.webassembly.pack\8.0.3</PkgMicrosoft_NET_Sdk_WebAssembly_Pack>
+    <PkgMicrosoft_NET_ILLink_Tasks Condition=" '$(PkgMicrosoft_NET_ILLink_Tasks)' == '' ">C:\Users\Sugár\.nuget\packages\microsoft.net.illink.tasks\8.0.3</PkgMicrosoft_NET_ILLink_Tasks>
+    <PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer Condition=" '$(PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer)' == '' ">C:\Users\Sugár\.nuget\packages\microsoft.aspnetcore.components.webassembly.devserver\8.0.0</PkgMicrosoft_AspNetCore_Components_WebAssembly_DevServer>
+>>>>>>> 25163bec7f46371748c312cbe1cce983c812dd3c
   </PropertyGroup>
 </Project>

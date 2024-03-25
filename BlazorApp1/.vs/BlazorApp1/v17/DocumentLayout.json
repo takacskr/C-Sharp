@@ -1,5 +1,6 @@
 {
   "Version": 1,
+<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp1\\",
   "Documents": [
     {
@@ -13,6 +14,17 @@
     {
       "AbsoluteMoniker": "D:0:0:{BA52682F-6ADD-4D62-AC84-BD56D11BE7FD}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorapp1\\blazorapp1\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA52682F-6ADD-4D62-AC84-BD56D11BE7FD}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA52682F-6ADD-4D62-AC84-BD56D11BE7FD}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorapp1\\blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA52682F-6ADD-4D62-AC84-BD56D11BE7FD}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA52682F-6ADD-4D62-AC84-BD56D11BE7FD}|BlazorApp1\\BlazorApp1.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorapp1\\blazorapp1\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BA52682F-6ADD-4D62-AC84-BD56D11BE7FD}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> 25163bec7f46371748c312cbe1cce983c812dd3c
     }
   ],
   "DocumentGroupContainers": [
@@ -25,6 +37,7 @@
           "SelectedChildIndex": 2,
           "Children": [
             {
+<<<<<<< HEAD
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Component.razor",
@@ -48,11 +61,28 @@
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-22T22:08:48.369Z",
+=======
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp1\\BlazorApp1\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp1\\BlazorApp1\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorApp1\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-21T17:27:24.446Z",
+>>>>>>> 25163bec7f46371748c312cbe1cce983c812dd3c
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp1\\BlazorApp1\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "BlazorApp1\\Pages\\Counter.razor",
@@ -61,6 +91,16 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-22T22:08:43.12Z",
+=======
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "RelativeDocumentMoniker": "BlazorApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp1\\BlazorApp1\\Program.cs",
+              "RelativeToolTip": "BlazorApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T10:34:26.55Z",
+>>>>>>> 25163bec7f46371748c312cbe1cce983c812dd3c
               "EditorCaption": ""
             }
           ]

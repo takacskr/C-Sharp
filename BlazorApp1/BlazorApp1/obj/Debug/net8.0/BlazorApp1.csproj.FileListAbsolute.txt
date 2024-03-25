@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\Users\takac\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.csproj.AssemblyReference.cache
 C:\Users\takac\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\takac\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.AssemblyInfoInputs.cache
@@ -5,3 +6,12 @@ C:\Users\takac\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\Blazo
 C:\Users\takac\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.csproj.CoreCompileInputs.cache
 C:\Users\takac\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.MvcApplicationPartsAssemblyInfo.cache
 C:\Users\takac\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.sourcelink.json
+=======
+C:\Users\Sugár\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.csproj.AssemblyReference.cache
+C:\Users\Sugár\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sugár\source\repos\C-Sharp\BlazorApp1\BlazorApp1\obj\Debug\net8.0\BlazorApp1.sourcelink.json
+>>>>>>> 25163bec7f46371748c312cbe1cce983c812dd3c

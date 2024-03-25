@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\bin\Debug\net8.0\LINQOsszetettKulcsok.exe
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\bin\Debug\net8.0\LINQOsszetettKulcsok.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\bin\Debug\net8.0\LINQOsszetettKulcsok.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\bin\Debug\net8.0\LINQOsszetettKulcsok.dll
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\bin\Debug\net8.0\LINQOsszetettKulcsok.pdb
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\obj\Debug\net8.0\LINQOsszetettKulcsok.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\obj\Debug\net8.0\LINQOsszetettKulcsok.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\obj\Debug\net8.0\LINQOsszetettKulcsok.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\obj\Debug\net8.0\LINQOsszetettKulcsok.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\obj\Debug\net8.0\LINQOsszetettKulcsok.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\obj\Debug\net8.0\LINQOsszetettKulcsok.dll
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\obj\Debug\net8.0\refint\LINQOsszetettKulcsok.dll
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\obj\Debug\net8.0\LINQOsszetettKulcsok.pdb
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\obj\Debug\net8.0\LINQOsszetettKulcsok.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\LINQOsszetettKulcsok\LINQOsszetettKulcsok\obj\Debug\net8.0\ref\LINQOsszetettKulcsok.dll

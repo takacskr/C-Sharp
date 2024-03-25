@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\LINQToLookup\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C40C039-D08C-4521-8E2E-302C37814102}|LINQToLookup\\LINQToLookup.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\linqtolookup\\linqtolookup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C40C039-D08C-4521-8E2E-302C37814102}|LINQToLookup\\LINQToLookup.csproj|solutionrelative:linqtolookup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\LINQToLookup\\LINQToLookup\\Program.cs",
+              "RelativeDocumentMoniker": "LINQToLookup\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\LINQToLookup\\LINQToLookup\\Program.cs",
+              "RelativeToolTip": "LINQToLookup\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAewBcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T17:39:34.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

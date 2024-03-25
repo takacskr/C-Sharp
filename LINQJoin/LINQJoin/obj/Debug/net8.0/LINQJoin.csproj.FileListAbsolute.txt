@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\bin\Debug\net8.0\LINQJoin.exe
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\bin\Debug\net8.0\LINQJoin.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\bin\Debug\net8.0\LINQJoin.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\bin\Debug\net8.0\LINQJoin.dll
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\bin\Debug\net8.0\LINQJoin.pdb
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\obj\Debug\net8.0\LINQJoin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\obj\Debug\net8.0\LINQJoin.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\obj\Debug\net8.0\LINQJoin.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\obj\Debug\net8.0\LINQJoin.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\obj\Debug\net8.0\LINQJoin.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\obj\Debug\net8.0\LINQJoin.dll
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\obj\Debug\net8.0\refint\LINQJoin.dll
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\obj\Debug\net8.0\LINQJoin.pdb
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\obj\Debug\net8.0\LINQJoin.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\LINQJoin\LINQJoin\obj\Debug\net8.0\ref\LINQJoin.dll

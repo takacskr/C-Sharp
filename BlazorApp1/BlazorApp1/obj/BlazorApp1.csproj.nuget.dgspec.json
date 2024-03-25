@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
         "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp1\\BlazorApp1\\obj\\",
+=======
+    "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "projectName": "BlazorApp1",
+        "projectPath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorApp1\\BlazorApp1\\BlazorApp1.csproj",
+        "packagesPath": "C:\\Users\\Sugár\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorApp1\\BlazorApp1\\obj\\",
+>>>>>>> 25163bec7f46371748c312cbe1cce983c812dd3c
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

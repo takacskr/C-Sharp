@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\konverziosOperatorok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB853A0B-530F-48A0-A363-65CE07D66121}|konverziosOperatorok\\konverziosOperatorok.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\konverziosoperatorok\\konverziosoperatorok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB853A0B-530F-48A0-A363-65CE07D66121}|konverziosOperatorok\\konverziosOperatorok.csproj|solutionrelative:konverziosoperatorok\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\konverziosOperatorok\\konverziosOperatorok\\Program.cs",
+              "RelativeDocumentMoniker": "konverziosOperatorok\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\konverziosOperatorok\\konverziosOperatorok\\Program.cs",
+              "RelativeToolTip": "konverziosOperatorok\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBIAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T15:05:38.663Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
