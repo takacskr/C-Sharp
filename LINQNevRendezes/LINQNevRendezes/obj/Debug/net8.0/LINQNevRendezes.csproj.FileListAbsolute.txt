@@ -1,0 +1,14 @@
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\obj\Debug\net8.0\LINQNevRendezes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\obj\Debug\net8.0\LINQNevRendezes.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\obj\Debug\net8.0\LINQNevRendezes.AssemblyInfo.cs
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\obj\Debug\net8.0\LINQNevRendezes.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\bin\Debug\net8.0\LINQNevRendezes.exe
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\bin\Debug\net8.0\LINQNevRendezes.deps.json
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\bin\Debug\net8.0\LINQNevRendezes.runtimeconfig.json
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\bin\Debug\net8.0\LINQNevRendezes.dll
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\bin\Debug\net8.0\LINQNevRendezes.pdb
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\obj\Debug\net8.0\LINQNevRendezes.dll
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\obj\Debug\net8.0\refint\LINQNevRendezes.dll
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\obj\Debug\net8.0\LINQNevRendezes.pdb
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\obj\Debug\net8.0\LINQNevRendezes.genruntimeconfig.cache
+C:\Users\takac\source\repos\LINQNevRendezes\LINQNevRendezes\obj\Debug\net8.0\ref\LINQNevRendezes.dll

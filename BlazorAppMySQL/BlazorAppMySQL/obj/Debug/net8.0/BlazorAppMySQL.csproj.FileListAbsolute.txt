@@ -105,9 +105,9 @@ C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQL\BlazorAppMySQL\obj\Debug\net8
 C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQL\BlazorAppMySQL\obj\Debug\net8.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
 C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQL\BlazorAppMySQL\obj\Debug\net8.0\scopedcss\bundle\BlazorAppMySQL.styles.css
 C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQL\BlazorAppMySQL\obj\Debug\net8.0\scopedcss\projectbundle\BlazorAppMySQL.bundle.scp.css
-C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQL\BlazorAppMySQL\obj\Debug\net8.0\BlazorAppMySQL.csproj.CopyComplete
 C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQL\BlazorAppMySQL\obj\Debug\net8.0\BlazorAppMySQL.dll
 C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQL\BlazorAppMySQL\obj\Debug\net8.0\refint\BlazorAppMySQL.dll
 C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQL\BlazorAppMySQL\obj\Debug\net8.0\BlazorAppMySQL.pdb
 C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQL\BlazorAppMySQL\obj\Debug\net8.0\BlazorAppMySQL.genruntimeconfig.cache
 C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQL\BlazorAppMySQL\obj\Debug\net8.0\ref\BlazorAppMySQL.dll
+C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQL\BlazorAppMySQL\obj\Debug\net8.0\BlazorAp.0D4AEE7B.Up2Date
