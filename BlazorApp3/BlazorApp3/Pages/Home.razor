@@ -60,3 +60,9 @@
 @code {
     private string inputText;
 }
+
+<button class="btn btn-primary"
+        disabled="@(currentCount > 10)"
+        @onclick="IncrementCount">
+    Click me
+</button>
