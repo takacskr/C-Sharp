@@ -1,7 +1,6 @@
 ﻿@page "/counter"
 @using Dapper
 @using MySql.Data.MySqlClient
-@rendermode InteractiveServer
 
 <PageTitle>Users</PageTitle>
 
@@ -67,7 +66,8 @@
             new { start = currentPage * itemsPerPage, items = itemsPerPage }
         )).ToList();
 
-<<<<<<< HEAD
+        loaded = true;
+
         StateHasChanged();
     }
 
@@ -76,9 +76,7 @@
         await Task.Delay(2000);
 
         users = users.OrderBy(x => x.name).ToList();
-=======
         loaded = true;
->>>>>>> 25163bec7f46371748c312cbe1cce983c812dd3c
 
         StateHasChanged();
     }
