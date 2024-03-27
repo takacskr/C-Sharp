@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQLMod\\BlazorAppMySQLMod\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppMySQLMod.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorAppMySQLMod.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQLMod\\BlazorAppMySQLMod\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQLMod\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQLMod\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\takac\\source\\repos\\BlazorAppMySQLMod\\BlazorAppMySQLMod\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorAppMySQLMod.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorAppMySQLMod.props",
+      "PackagePath": "build\\BlazorAppMySQLMod.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorAppMySQLMod.props",
+      "PackagePath": "buildMultiTargeting\\BlazorAppMySQLMod.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorAppMySQLMod.props",
+      "PackagePath": "buildTransitive\\BlazorAppMySQLMod.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
