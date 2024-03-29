@@ -1,0 +1,132 @@
+﻿@page "/counter"
+@using Dapper
+@using MySql.Data.MySqlClient
+@rendermode InteractiveServer
+
+<PageTitle>Users</PageTitle>
+
+<h1>Users</h1>
+
+@if (loaded)
+{
+    @if (currentPage != 0)
+    {
+        <button @onclick="IncrementPageDown" class="btn btn-primary">Previous Page</button>
+    }
+    else
+    {
+        <button @onclick="IncrementPageDown" class="btn btn-primary" disabled>Previous Page</button>
+    }
+
+    <span>&nbsp;</span>
+
+    @if (currentPage != pageCount - 1)
+    {
+        <button @onclick="IncrementPage" class="btn btn-primary">Next Page</button>
+    }
+    else
+    {
+        <button @onclick="IncrementPage" class="btn btn-primary" disabled>Next Page</button>
+    }
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (User user in users)
+            {
+                <tr>
+                    <td>@user.name</td>
+                    <td>@user.email</td>
+                    <td>@user.phone</td>
+                    <td>
+                        <button class="btn btn-danger" @onclick="() => DeleteUser(user)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@code
+{
+    // Add MySQL connection related properties
+    private MySqlConnection dbConnection;
+    private readonly string connectionString = "Server=localhost;Database=testdb;User=root;Password=1234;Port=3306;";
+
+    public List<User> users = null;
+    public bool loaded = false;
+
+    public int currentPage = 0;
+    public int itemsPerPage = 3;
+    public int totalUsersCount;
+    public int pageCount = 0; // => (int)Math.Ceiling((double)totalUsersCount / itemsPerPage);
+
+    // Initialization method
+    protected override async Task OnInitializedAsync()
+    {
+        // Initialize MySQL connection
+        dbConnection = new MySqlConnection(connectionString);
+        await dbConnection.OpenAsync(); // You may want to handle exceptions here
+
+        await RefreshPage();
+    }
+
+    private async Task RefreshPage()
+    {
+        totalUsersCount = await dbConnection.ExecuteScalarAsync<int>("SELECT COUNT(*) FROM users");
+
+        users = (await dbConnection.QueryAsync<User>(
+            "SELECT * FROM users ORDER BY name ASC LIMIT @start, @items",
+            new { start = currentPage * itemsPerPage, items = itemsPerPage }
+        )).ToList();
+
+        pageCount = (int)Math.Ceiling((double)totalUsersCount / itemsPerPage);
+
+        loaded = true;
+
+        StateHasChanged();
+    }
+
+    private async Task IncrementPageDown()
+    {
+        currentPage--;
+        currentPage = Math.Max(currentPage, 0);
+
+        await RefreshPage();
+    }
+
+    private async Task IncrementPage()
+    {
+        currentPage++;
+        currentPage = Math.Min(currentPage, pageCount - 1);
+
+        await RefreshPage();
+    }
+
+    private async Task DeleteUser(User user)
+    {
+        await dbConnection.ExecuteAsync("DELETE FROM users WHERE id = @Id", new { Id = user.id });
+        await RefreshPage();
+    }
+
+    // Dispose method to close the connection when the component is disposed
+    public void Dispose()
+    {
+        dbConnection?.Dispose();
+    }
+
+    public class User
+    {
+        public int id;
+        public string name;
+        public string email;
+        public string phone;
+    }
+}

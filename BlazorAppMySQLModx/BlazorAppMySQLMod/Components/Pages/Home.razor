@@ -1,0 +1,135 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+<br />
+
+@code
+{
+    List<int> list = new List<int>() { 10, 18, 98, 64, 55, 63, 72, 42 };
+}
+
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">#</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            @foreach (int item in list)
+            {
+                <td>@item</td>
+            }
+        </tr>
+    </tbody>
+</table>
+
+
+<nav class="navbar navbar-expand-lg bg-body-tertiary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="#">Navbar</a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="#">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Link</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                        Dropdown
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" href="#">Action</a></li>
+                        <li><a class="dropdown-item" href="#">Another action</a></li>
+                        <li><hr class="dropdown-divider"></li>
+                        <li><a class="dropdown-item" href="#">Something else here</a></li>
+                    </ul>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+                </li>
+            </ul>
+            <form class="d-flex" role="search">
+                <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
+                <button class="btn btn-outline-success" type="submit">Search</button>
+            </form>
+        </div>
+    </div>
+</nav>
+
+<br />
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+            <ul class="nav nav-pills nav-fill gap-2 p-1 small bg-primary rounded-5 shadow-sm" id="pillNav2" role="tablist" style="--bs-nav-link-color: var(--bs-white); --bs-nav-pills-link-active-color: var(--bs-primary); --bs-nav-pills-link-active-bg: var(--bs-white);">
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link active rounded-5" id="home-tab2" data-bs-toggle="tab" type="button" role="tab" aria-selected="true">Home</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link rounded-5" id="profile-tab2" data-bs-toggle="tab" type="button" role="tab" aria-selected="false">Profile</button>
+                </li>
+                <li class="nav-item" role="presentation">
+                    <button class="nav-link rounded-5" id="contact-tab2" data-bs-toggle="tab" type="button" role="tab" aria-selected="false">Contact</button>
+                </li>
+            </ul>
+        </div>
+        <div class="col">
+            <div class="accordion" id="fruitsAccordion">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingApple">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseApple" aria-expanded="true" aria-controls="collapseApple">
+                            Apple
+                        </button>
+                    </h2>
+                    <div id="collapseApple" class="accordion-collapse collapse show" aria-labelledby="headingApple" data-bs-parent="#fruitsAccordion">
+                        <div class="accordion-body">
+                            The apple is a round fruit with red, green, or yellow skin and a crisp, juicy flesh. It is one of the most widely cultivated fruits worldwide.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingOrange">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOrange" aria-expanded="false" aria-controls="collapseOrange">
+                            Orange
+                        </button>
+                    </h2>
+                    <div id="collapseOrange" class="accordion-collapse collapse" aria-labelledby="headingOrange" data-bs-parent="#fruitsAccordion">
+                        <div class="accordion-body">
+                            The orange is a citrus fruit with a round shape and a bright orange skin. It has a sweet and tangy flavor and is known for its high vitamin C content.
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="headingBanana">
+                        <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseBanana" aria-expanded="false" aria-controls="collapseBanana">
+                            Banana
+                        </button>
+                    </h2>
+                    <div id="collapseBanana" class="accordion-collapse collapse" aria-labelledby="headingBanana" data-bs-parent="#fruitsAccordion">
+                        <div class="accordion-body">
+                            The banana is an elongated, curved fruit with a soft, sweet flesh and a yellow or green skin. It is a good source of potassium and dietary fiber.
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <form>
+                <div class="mb-3"><label class="form-label" for="name">Name</label><input id="name" class="form-control" type="text" name="name" data-bs-theme="light" /></div>
+                <div class="mb-3"><label class="form-label" for="subject">Subject</label><input id="subject" class="form-control" type="text" name="subject" data-bs-theme="light" /></div>
+                <div class="mb-3"><label class="form-label" for="email">Email</label><input id="email" class="form-control" type="email" name="email" data-bs-theme="light" /></div>
+                <div class="mb-3"><label class="form-label" for="message">Message</label><textarea id="message" class="form-control" name="message" data-bs-theme="light"></textarea></div>
+                <div class="mb-3"><button class="btn btn-primary" type="submit">Send</button></div>
+            </form>
+        </div>
+    </div>
+</div>
