@@ -1,6 +1,6 @@
 ﻿/* Az this indexer az egyik kulcsfontosságú elem az C# nyelvben, amely lehetővé teszi
- * az objektumokhoz tartozó adatok indexelését, hasonlóan egy tömbhöz vagy listahez.
- * Az indexer lehetőséget nyújt arra, hogy az objektumot úgy viselkedjen, mintha egy tömb lenne,
+ * az objektumokhoz tartozó adatok indexelését, hasonlóan egy tömbhöz vagy listához.
+ * Az indexer lehetőséget nyújt arra, hogy az objektumo úgy viselkedjen, mintha egy tömb lenne,
  * azaz különböző indexeken elérhetővé teszi az adatokat.
  * Ez a módszer lehetővé teszi az adatokhoz való hozzáférést és azok módosítását az objektumon belül
  * indexelés segítségével, ami sok esetben kényelmes és olvasható kód írását teszi lehetővé. */
