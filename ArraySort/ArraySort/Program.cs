@@ -1,6 +1,6 @@
-﻿/* Az this indexer az egyik kulcsfontosságú elem az C# nyelvben, amely lehetővé teszi
+﻿/* A this indexer az egyik kulcsfontosságú elem az C# nyelvben, amely lehetővé teszi
  * az objektumokhoz tartozó adatok indexelését, hasonlóan egy tömbhöz vagy listához.
- * Az indexer lehetőséget nyújt arra, hogy az objektumo úgy viselkedjen, mintha egy tömb lenne,
+ * Az indexer lehetőséget nyújt arra, hogy az objektum úgy viselkedjen, mintha egy tömb lenne,
  * azaz különböző indexeken elérhetővé teszi az adatokat.
  * Ez a módszer lehetővé teszi az adatokhoz való hozzáférést és azok módosítását az objektumon belül
  * indexelés segítségével, ami sok esetben kényelmes és olvasható kód írását teszi lehetővé. */
@@ -9,9 +9,9 @@ namespace ConsoleApp34
 {
     class Array
     {
-        private int[] array; // Az adattag, amely tárolja a tömb elemeit.
+        private int[] array; // Az adattag, amely tárolja a tömb elemeit
 
-        // Konstruktor létrehozza a tömböt a megadott hosszúsággal.
+        // A konstruktor létrehozza a tömböt a megadott hosszúsággal
         public Array(int length)
         {
             array = new int[length];
@@ -19,7 +19,7 @@ namespace ConsoleApp34
 
         // az Array osztály egy indexerrel van ellátva, amely egyetlen
         // egész számot (idx) vár paraméterként, és visszaadja vagy beállítja
-        // az array adattagban tárolt tömb megfelelő indexű elemét.
+        // az array adattagban tárolt tömb megfelelő indexű elemét
 
         // Indexer, lehetővé teszi az elemek lekérdezését és beállítását a tömbben.
         // Az elem indexét várja és visszaadja az adott indexű elem értékét
@@ -29,19 +29,19 @@ namespace ConsoleApp34
             set { array[idx] = value; }
         }
 
-        // Property, amely visszaadja a tömb hosszát.
+        // Property, amely visszaadja a tömb hosszát
         public int Length
         {
             get { return array.Length; }
         }
 
-        // Rendezés a QuickSort algoritmussal.
+        // Rendezés a QuickSort algoritmussal
         public void Sort()
         {
             QuickSort(0, array.Length - 1);
         }
 
-        // Privát metódus a QuickSort algoritmus megvalósítására.
+        // Privát metódus a QuickSort algoritmus megvalósítására
         private void QuickSort(int left, int right)
         {
             int pivot = array[left];
