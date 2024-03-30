@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp2\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA7F8F73-3606-4D1E-9296-6D5533819EC7}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorapp2\\blazorapp2\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{BA7F8F73-3606-4D1E-9296-6D5533819EC7}|BlazorApp2\\BlazorApp2.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorapp2\\blazorapp2\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{BA7F8F73-3606-4D1E-9296-6D5533819EC7}|BlazorApp2\\BlazorApp2.csproj|solutionrelative:blazorapp2\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -14,21 +14,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Weather.razor",
-              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp2\\BlazorApp2\\Components\\Pages\\Weather.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp2\\BlazorApp2\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "BlazorApp2\\Components\\Pages\\Weather.razor",
-              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorApp2\\BlazorApp2\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp2\\BlazorApp2\\Components\\Pages\\Weather.razor",
               "RelativeToolTip": "BlazorApp2\\Components\\Pages\\Weather.razor",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACkAAAAYAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-20T18:18:02.596Z",
               "EditorCaption": ""

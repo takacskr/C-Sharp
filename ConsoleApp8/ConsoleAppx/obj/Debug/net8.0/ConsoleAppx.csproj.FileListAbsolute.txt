@@ -1,0 +1,14 @@
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\bin\Debug\net8.0\ConsoleAppx.exe
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\bin\Debug\net8.0\ConsoleAppx.deps.json
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\bin\Debug\net8.0\ConsoleAppx.runtimeconfig.json
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\bin\Debug\net8.0\ConsoleAppx.dll
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\bin\Debug\net8.0\ConsoleAppx.pdb
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\obj\Debug\net8.0\ConsoleAppx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\obj\Debug\net8.0\ConsoleAppx.AssemblyInfoInputs.cache
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\obj\Debug\net8.0\ConsoleAppx.AssemblyInfo.cs
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\obj\Debug\net8.0\ConsoleAppx.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\obj\Debug\net8.0\ConsoleAppx.dll
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\obj\Debug\net8.0\refint\ConsoleAppx.dll
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\obj\Debug\net8.0\ConsoleAppx.pdb
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\obj\Debug\net8.0\ConsoleAppx.genruntimeconfig.cache
+C:\Users\takac\source\ConsoleAppx\ConsoleAppx\obj\Debug\net8.0\ref\ConsoleAppx.dll

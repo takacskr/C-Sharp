@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\ConsoleAppx\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EC72B46-9981-4D30-85F2-884FE59D2738}|ConsoleAppx\\ConsoleAppx.csproj|c:\\users\\takac\\source\\consoleappx\\consoleappx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EC72B46-9981-4D30-85F2-884FE59D2738}|ConsoleAppx\\ConsoleAppx.csproj|solutionrelative:consoleappx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\ConsoleAppx\\ConsoleAppx\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleAppx\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\ConsoleAppx\\ConsoleAppx\\Program.cs",
+              "RelativeToolTip": "ConsoleAppx\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T20:34:34.919Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yslvseZx7SwpoUk1OeCDfG453n2EWrPU9eHX4eTUjDKgBZ5yqQsl8r2oqhbbm/nLcLGWYjmfw2zWFiO3CGKQ2g==",
+  "dgSpecHash": "AG3++bGJCVL66vtOcS2hOoMKOVkxDN4sGtLNdKtdKbD6BnHJ29rrNgalF5I1fqvl9Bo7pu2XlsYxJXo70i+EXA==",
   "success": true,
-  "projectFilePath": "/Users/takacskr/Documents/projects/csharp/ConsoleApp/ConsoleApp/ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp\\ConsoleApp\\ConsoleApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\takac\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.17\\microsoft.windowsdesktop.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\takac\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.17\\microsoft.netcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\takac\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.17\\microsoft.aspnetcore.app.ref.7.0.17.nupkg.sha512",
+    "C:\\Users\\takac\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.17\\microsoft.netcore.app.host.win-x64.7.0.17.nupkg.sha512"
+  ],
   "logs": []
 }
