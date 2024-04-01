@@ -1,0 +1,14 @@
+C:\Users\takac\source\out\out\bin\Debug\net8.0\out.exe
+C:\Users\takac\source\out\out\bin\Debug\net8.0\out.deps.json
+C:\Users\takac\source\out\out\bin\Debug\net8.0\out.runtimeconfig.json
+C:\Users\takac\source\out\out\bin\Debug\net8.0\out.dll
+C:\Users\takac\source\out\out\bin\Debug\net8.0\out.pdb
+C:\Users\takac\source\out\out\obj\Debug\net8.0\out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\out\out\obj\Debug\net8.0\out.AssemblyInfoInputs.cache
+C:\Users\takac\source\out\out\obj\Debug\net8.0\out.AssemblyInfo.cs
+C:\Users\takac\source\out\out\obj\Debug\net8.0\out.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\out\out\obj\Debug\net8.0\out.dll
+C:\Users\takac\source\out\out\obj\Debug\net8.0\refint\out.dll
+C:\Users\takac\source\out\out\obj\Debug\net8.0\out.pdb
+C:\Users\takac\source\out\out\obj\Debug\net8.0\out.genruntimeconfig.cache
+C:\Users\takac\source\out\out\obj\Debug\net8.0\ref\out.dll
