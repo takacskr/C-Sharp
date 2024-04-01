@@ -4,7 +4,10 @@
     {
         public void TestInit(out Test t)
         {
-            t = new Test() { s = "Hello!" };
+            t = new Test()
+                {
+                    s = "Hello!"
+                };
         }
     }
 
@@ -16,13 +19,12 @@
     {
         static void Main(string[] args)
         {
-            Init init = new();
-            Test test;
+            Init i = new ();
 
-            // A metódus meghívásával kerül bele a szöveg a test objektum s változójába
+            // A metódus meghívásával kerül bele a szöveg a "test" objektum "s" változójába
             // mert az out referenciát ad át
-            init.TestInit(out test);
-            Console.WriteLine(test.s);
+            i.TestInit(out Test t);
+            Console.WriteLine(t.s);
         }
     }
 }

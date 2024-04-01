@@ -3,13 +3,14 @@
 class Book
 {
     private int _year;
-    public int Isbn { get; set; }
 
     public int Year
     {
         get { return CalculateYearsAgo(_year); }
         set { _year = value; }
     }
+
+    public int Isbn { get; set; }
 
     public string Title { get; set; }
 
@@ -33,6 +34,15 @@ class Book
 
 class AnotherBook : Book
 {
+    /*
+     * Az AnotherBook osztály konstruktora a base kulcsszóval hívja meg az ősosztály,
+     * azaz a Book osztály konstruktorát. A base(isbn, year, title) részletesen megadja
+     * az isbn, year és title paramétereket az ősosztály konstruktorának meghívásakor.
+     * 
+     *  a : base() rész a Book osztály konstruktorának meghívását jelenti az adott paraméterekkel.
+     *  Ezáltal az AnotherBook konstruktora azonosítja az isbn, year és title adattagokat
+     *  az ősosztályban, és inicializálja azokat a megadott értékekkel.
+     */
     public AnotherBook(int isbn, int year, string title) : base(isbn, year, title)
     {
     }

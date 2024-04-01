@@ -10,16 +10,16 @@ namespace ConsoleApp14
         public Person() { }
 
         // Privát adattag a név tárolására
-        private string name;
+        private string _name;
 
         // Name tulajdonság definíciója
         public string Name
         {
             // Getter: A név lekérdezése
-            get { return name; }
+            get { return _name; }
 
             // Setter: A név beállítása
-            set { name = value; }
+            set { _name = value; }
         }
     }
 

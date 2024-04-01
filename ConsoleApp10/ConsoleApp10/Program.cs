@@ -10,6 +10,9 @@ Ezután a Dog(string name, int age) konstruktor beállítja a _age adattagot a k
 Ez az osztály lehetővé teszi a kódnak, hogy különböző módokon hozzon létre Dog objektumokat.
 Ha csak a névét ismerjük, akkor csak az első konstruktort kell használnunk, de ha a korát
 is ismerjük, akkor használhatjuk a második konstruktort, és csak meg kell adnunk mind a névét, mind a korát.
+
+Az objektum inicializálása során a konstruktorokat hívjuk meg, 
+míg a property-k a létrehozott objektumon belül az adatmezőkhöz vezető elérési pontokként működnek.
  */
 
 namespace ConsoleApp10

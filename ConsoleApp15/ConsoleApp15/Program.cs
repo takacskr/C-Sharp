@@ -1,18 +1,18 @@
 ﻿public class Diak
 {
     // Adattag (field)
-    private string nev;
+    private string _nev;
 
     // Property a név lekérdezésére és beállítására
     public string Nev
     {
-        get { return nev; }
+        get { return _nev; }
         set
         {
             // Példa validáció
             if (!string.IsNullOrEmpty(value))
             {
-                nev = value;
+                _nev = value;
             }
             else
             {

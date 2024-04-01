@@ -23,7 +23,10 @@ class Dog
         this._age = age;
     }
 
-    // Másoló konstruktor
+    /* Ez a másoló konstruktor egy "Dog" objektumot vár paraméterként,
+     * majd ebből a másik Dog objektumból inicializálja az aktuális objektumot.
+     * Ez azt jelenti, hogy a másik "Dog" objektum tulajdonságait átmásoljuk az aktuális objektumba.
+     * */
     public Dog(Dog otherDog) : this(otherDog._name, otherDog._age) { }
 
     // Új tulajdonság, amely visszaadja a formázott adatokat
