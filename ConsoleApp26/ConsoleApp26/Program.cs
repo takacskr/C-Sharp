@@ -1,6 +1,4 @@
 ﻿using System;
-using System.Runtime.CompilerServices;
-using System.Xml.Linq;
 
 namespace ConsoleApp26
 {
@@ -27,7 +25,7 @@ namespace ConsoleApp26
     {
         static void Main(string[] args)
         {
-            Person person = new(name: "Pityu", age: 38);
+            Person person = new Person(name: "Pityu", age: 28);
 
             person.DisplayData();
         }

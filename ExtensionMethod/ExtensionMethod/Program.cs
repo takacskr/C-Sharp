@@ -15,7 +15,7 @@ class Program
     static void Main()
     {
         string szoveg = "Hello World";
-        string fordított = szoveg.Reverse();
-        Console.WriteLine("Fordított szöveg: " + fordított); // "dlroW olleH"
+        string forditott = szoveg.Reverse();
+        Console.WriteLine("Fordított szöveg: " + forditott); // "dlroW olleH"
     }
 }

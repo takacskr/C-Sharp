@@ -5,10 +5,10 @@ class Program
 {
     static void Main()
     {
-        string phoneNumber1 = "+36 (30) 345 678";
-        string phoneNumber2 = "+36 (20) 123-456";
+        string phoneNumber1 = "+36 (30) 345 6788";
+        string phoneNumber2 = "+36 (20) 123-4567";
 
-        string pattern = @"^\+\d{2} \(\d{2}\) \d{3} \d{3}$";
+        string pattern = @"^\+\d{2} \(\d{2}\) \d{3} \d{4}$";
 
         if (Regex.IsMatch(phoneNumber1, pattern))
         {

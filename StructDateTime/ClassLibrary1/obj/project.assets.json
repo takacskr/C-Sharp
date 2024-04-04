@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net8.0": {}
+    "net8.0": {
+      "CalculateLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CalculateLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CalculateLibrary.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "CalculateLibrary/1.0.0": {
+      "type": "project",
+      "path": "../ClassLibrary2/CalculateLibrary.csproj",
+      "msbuildProject": "../ClassLibrary2/CalculateLibrary.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net8.0": []
+    "net8.0": [
+      "CalculateLibrary >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Sugár\\.nuget\\packages\\": {}
@@ -33,13 +52,22 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\StructDateTime\\ClassLibrary2\\CalculateLibrary.csproj": {
+              "projectPath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\StructDateTime\\ClassLibrary2\\CalculateLibrary.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +89,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

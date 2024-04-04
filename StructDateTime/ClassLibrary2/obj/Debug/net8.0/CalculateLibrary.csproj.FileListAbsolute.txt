@@ -1,0 +1,12 @@
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\bin\Debug\net8.0\CalculateLibrary.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\bin\Debug\net8.0\CalculateLibrary.dll
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\bin\Debug\net8.0\CalculateLibrary.pdb
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\CalculateLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\CalculateLibrary.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\CalculateLibrary.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\CalculateLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\CalculateLibrary.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\CalculateLibrary.dll
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\refint\CalculateLibrary.dll
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\CalculateLibrary.pdb
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\ref\CalculateLibrary.dll

@@ -1,0 +1,12 @@
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.dll
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\bin\Debug\net8.0\ClassLibrary2.pdb
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.dll
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\refint\ClassLibrary2.dll
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\ClassLibrary2.pdb
+C:\Users\Sugár\source\repos\C-Sharp\StructDateTime\ClassLibrary2\obj\Debug\net8.0\ref\ClassLibrary2.dll

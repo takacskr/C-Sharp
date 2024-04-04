@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.exe
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.dll
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\bin\Debug\net8.0\TryCatchFinally.pdb
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.dll
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\obj\Debug\net8.0\refint\TryCatchFinally.dll
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.pdb
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\obj\Debug\net8.0\TryCatchFinally.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\TryCatchFinally\TryCatchFinally\obj\Debug\net8.0\ref\TryCatchFinally.dll

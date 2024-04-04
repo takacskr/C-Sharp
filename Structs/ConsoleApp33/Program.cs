@@ -22,8 +22,8 @@ namespace TestApp
         }
         public Point(int x, int y)
         {
-            this.x = x;
-            this.y = y;
+            this.X = x;
+            this.Y = y;
         }
     }
     struct Line
@@ -46,9 +46,17 @@ namespace TestApp
         static void Main(string[] args)
         {
             Line l = new Line();
-            l.A = new Point(10, 10);
-            l.B = new Point(20, 20);
-            l.A = new Point(5, 10);
+
+            l.A = new Point(10, 13);
+            Console.WriteLine($"l.A.X, l.A.Y = {l.A.X}, {l.A.Y}");
+
+            l.B = new Point(20, 24);
+            Console.WriteLine($"l.B.X, l.B.Y = {l.B.X}, {l.B.Y}");
+
+            l.A = new Point(5, 15);
+            Console.WriteLine($"l.A.X, l.A.Y = {l.A.X}, {l.A.Y}");
+
+
             Console.ReadKey();
         }
     }

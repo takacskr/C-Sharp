@@ -22,7 +22,7 @@
             Init i = new ();
 
             // A metódus meghívásával kerül bele a szöveg a "test" objektum "s" változójába
-            // mert az out referenciát ad át
+            // mert az "out" referenciát ad át
             i.TestInit(out Test t);
             Console.WriteLine(t.s);
         }

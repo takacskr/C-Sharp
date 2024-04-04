@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        string szamSzoveg = "123";
+        string szamSzoveg = "123%";
 
         // int.Parse() használata
         try
@@ -16,9 +16,16 @@ class Program
         {
             Console.WriteLine("Hiba történt az int.Parse() konverzió során.");
         }
+        finally
+        {
+            // Ez a blokk mindig végrehajtódik, függetlenül attól, hogy volt-e kivétel vagy sem.
+            // Ideális hely az erőforrások felszabadítására vagy tisztítási műveletek végrehajtására.
+            Console.WriteLine("A finally blokk végrehajtódott.");
+        }
 
         // int.TryParse() használata
         int eredmeny;
+
         if (int.TryParse(szamSzoveg, out eredmeny))
         {
             Console.WriteLine("Az int.TryParse() által konvertált szám: " + eredmeny);

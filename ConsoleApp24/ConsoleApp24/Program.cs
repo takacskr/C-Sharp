@@ -5,7 +5,8 @@ namespace ConsoleApp24
     class Person
     {
         // Ha egy paraméternek értéket adunk a konstruktorban,
-        // akkor nem szükséges utólag megadni ezt argumentumként
+        // akkor nem szükséges utólag megadni ezt argumentumként,
+        // tehát nem jelez hibát a fordító
 
         public Person(string firstName, string lastName, string job = "N/A")
         {

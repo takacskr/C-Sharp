@@ -52,8 +52,6 @@ namespace GuessANumber
                 } while (continueTheGame);
 
                 Console.ReadKey();
-            } else if{
-
             }
         }
     }

@@ -5,25 +5,27 @@ namespace ConsoleApp27
 {
     class Names
     {
-        /* Az ArrayList az System.Collections névtérből származik,
+        /* Az ArrayList a System.Collections névtérből származik,
         és egy dinamikus méretű, indexelhető kollekciót nyújt.
-        Az ArrayList objektumokat tárol és hozzáférésüket
-        indexekkel lehet megadni. */
+        Az ArrayList objektumokat tárol azokhoz indexen keresztül
+        lehet hozzáférni */
+
+        // ADATMEZŐ
         private ArrayList nameList;
 
+        // KONSTRUKTOR
         public Names()
         {
-            // Az ArrayList objektumokat tárolhat és azokhoz
-            // indexen keresztül hozzáférhet
-
             // Inicializáljuk a nameList adattagot egy új ArrayList objektummal
             nameList = new ArrayList();
+
             nameList.Add("István");
             nameList.Add("Szandra");
             nameList.Add("Béla");
             nameList.Add("Balázs");
         }
 
+        //  METÓDUS
         public int Cnt
         {
             get { return nameList.Count; }
@@ -32,6 +34,8 @@ namespace ConsoleApp27
         // a this[int idx] indexelhető tulajdonság lehetővé teszi számunkra,
         // hogy a Names osztályt úgy használjuk, mintha egy tömb vagy lista lenne,
         // és az osztály elemeire indexeléssel hivatkozhatunk
+
+        // INDEXELŐ PROPERTY
         public string this[int idx]
         {
             get
@@ -43,11 +47,27 @@ namespace ConsoleApp27
 
                 return null;
             }
+
+            set
+            {
+                if (idx >= 0 && idx < nameList.Count)
+                {
+                    nameList[idx] = value;
+                }
+                else if (idx == nameList.Count) // Ha az index az utolsó elem után van, hozzáadhatunk egy új elemet
+                {
+                    nameList.Add(value);
+                }
+                // Egyébként nem teszünk semmit, mert az index érvénytelen
+            }
         }
+
     }
+
     internal class Program
     {
-        static void Main(string[] args)
+        // A PROGRAM FŐ BELÉPÉSI PONTJA A MAIN FÜGGVÉNY
+        static void Main()
         {
             Names n = new Names();
 

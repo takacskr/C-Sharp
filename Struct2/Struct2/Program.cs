@@ -1,12 +1,17 @@
 ﻿public struct Coordinate
 {
-    public int X { get; }
-    public int Y { get; }
+    public int x;
+    public int X
+    {
+        get { return x; }
+        set { x = value; }
+    }
+    public int Y { get; set; }
 
     public Coordinate(int x, int y)
     {
-        X = x;
-        Y = y;
+        this.X = x;
+        this.Y = y;
     }
 }
 

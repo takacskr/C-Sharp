@@ -14,7 +14,15 @@
           "StructDateTime.dll": {}
         }
       },
+      "CalculateLibrary/1.0.0": {
+        "runtime": {
+          "CalculateLibrary.dll": {}
+        }
+      },
       "ClassLibrary1/1.0.0": {
+        "dependencies": {
+          "CalculateLibrary": "1.0.0"
+        },
         "runtime": {
           "ClassLibrary1.dll": {}
         }
@@ -23,6 +31,11 @@
   },
   "libraries": {
     "StructDateTime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CalculateLibrary/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

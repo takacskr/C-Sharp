@@ -1,5 +1,6 @@
 ﻿using System;
 using MyLibrary; // az osztálykönyvtár névtere
+using CalculateLibrary;
 
 namespace TestApp
 {
@@ -8,7 +9,7 @@ namespace TestApp
         static public void Main(string[] args)
         {
             ClassLib.PrintHello();
-            Console.ReadKey();
+            Console.WriteLine(Calculate.Multiple(4, 5));
         }
     }
 }

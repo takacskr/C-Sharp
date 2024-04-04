@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\ClassLibrary2\CalculateLibrary.csproj" />
+  </ItemGroup>
+
 </Project>
