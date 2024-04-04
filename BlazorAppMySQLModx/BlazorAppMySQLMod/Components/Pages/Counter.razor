@@ -52,6 +52,31 @@
             }
         </tbody>
     </table>
+
+    <h2>Add New User</h2>
+
+    <form @onsubmit="AddNewUser">
+        <div class="mb-3">
+            <label for="name" class="form-label">Name</label>
+            <input type="text" class="form-control" id="name" @bind="newUser.name">
+        </div>
+        <div class="mb-3">
+            <label for="email" class="form-label">Email</label>
+            <input type="email" class="form-control" id="email" @bind="newUser.email">
+        </div>
+        <div class="mb-3">
+            <label for="phone" class="form-label">Phone</label>
+            <input type="text" class="form-control" id="phone" @bind="newUser.phone">
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
+    @if (showAlert)
+    {
+        <div class="alert alert-@alertType" role="alert">
+            @alertMessage
+        </div>
+    }
 }
 
 @code
@@ -67,6 +92,11 @@
     public int itemsPerPage = 3;
     public int totalUsersCount;
     public int pageCount = 0; // => (int)Math.Ceiling((double)totalUsersCount / itemsPerPage);
+
+    public User newUser = new User();
+    public bool showAlert = false;
+    public string alertMessage = "";
+    public string alertType = "";
 
     // Initialization method
     protected override async Task OnInitializedAsync()
@@ -114,6 +144,32 @@
     {
         await dbConnection.ExecuteAsync("DELETE FROM users WHERE id = @Id", new { Id = user.id });
         await RefreshPage();
+    }
+
+    private async Task AddNewUser()
+    {
+        try
+        {
+            await dbConnection.ExecuteAsync("INSERT INTO users (name, email, phone) VALUES (@Name, @Email, @Phone)",
+                new { Name = newUser.name, Email = newUser.email, Phone = newUser.phone });
+
+            alertMessage = "User added successfully";
+            alertType = "success";
+        }
+        catch (Exception ex)
+        {
+            alertMessage = "Error adding user: " + ex.Message;
+            alertType = "danger";
+        }
+        finally
+        {
+            showAlert = true;
+            StateHasChanged();
+            await Task.Delay(3000); // Display the alert for 3 seconds
+            showAlert = false;
+            StateHasChanged();
+            newUser = new User(); // Clear the form after submission
+        }
     }
 
     // Dispose method to close the connection when the component is disposed
