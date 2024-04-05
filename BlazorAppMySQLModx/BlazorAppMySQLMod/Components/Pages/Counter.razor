@@ -53,30 +53,44 @@
         </tbody>
     </table>
 
-    <h2>Add New User</h2>
 
-    <form @onsubmit="AddNewUser">
-        <div class="mb-3">
-            <label for="name" class="form-label">Name</label>
-            <input type="text" class="form-control" id="name" @bind="newUser.name">
+    <form @onsubmit="AddNewUser" id="addNewUserForm" class="card p-3 bg-light" novalidate>
+        <div class="input-group">
+            <div class="form-floating col-4">
+                <input @bind="newUser.name" type="text" id="nameInput" class="form-control" placeholder="Név" required>
+                <label for="nameInput" class="form-label">Név</label>
+                <div class="invalid-feedback">
+                    Kérlek írd be a nevet
+                </div>
+            </div>
+            <div class="form-floating col-4">
+                    <input @bind="newUser.email" type="email" name="email" class="form-control" id="emailInput"
+                       placeholder="valami@valami.hu" required>
+                <label for="emailInput" class="form-label">Email cím</label>
+                <div class="invalid-feedback">
+                    Kérlek írd be az email címet
+                </div>
+            </div>
+            <div class="form-floating col-4">
+            <input @bind="newUser.phone" type="phone" name="phone" class="form-control" id="phoneInput"
+                        placeholder="valami@valami.hu" required>
+                <label for="phoneInput" class="form-label">Telefonszám</label>
+                <div class="invalid-feedback">
+                    Kérlek írd be a telefonszámot
+                </div>
+            </div>
         </div>
-        <div class="mb-3">
-            <label for="email" class="form-label">Email</label>
-            <input type="email" class="form-control" id="email" @bind="newUser.email">
+        @if (showAlert)
+        {
+            <div class="alert alert-@alertType" role="alert">
+                @alertMessage
+            </div>
+        }
+        <div>
+            <button type="submit" class="btn btn-primary my-3">OK</button>
         </div>
-        <div class="mb-3">
-            <label for="phone" class="form-label">Phone</label>
-            <input type="text" class="form-control" id="phone" @bind="newUser.phone">
-        </div>
-        <button type="submit" class="btn btn-primary">Submit</button>
     </form>
 
-    @if (showAlert)
-    {
-        <div class="alert alert-@alertType" role="alert">
-            @alertMessage
-        </div>
-    }
 }
 
 @code

@@ -36,7 +36,7 @@
               "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\Pages\\Counter.razor",
               "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Pages\\Counter.razor",
               "RelativeToolTip": "BlazorAppMySQLMod\\Components\\Pages\\Counter.razor",
-              "ViewState": "AQIAABcAAAAAAAAAAAAowC8AAAAYAAAA",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAowJsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-29T15:54:34.969Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "BlazorAppMySQLMod\\Components\\Pages\\Home.razor",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAACgAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T18:48:34.719Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-26T18:48:34.719Z"
             }
           ]
         }
