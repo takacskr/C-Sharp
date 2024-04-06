@@ -55,30 +55,22 @@
     </table>
 
 
-    <form @onsubmit="AddNewUser" id="addNewUserForm" class="card p-3 bg-light" novalidate>
+    <form @onsubmit="AddNewUser" id="addNewUserForm" class="card p-3 bg-light">
         <div class="input-group">
             <div class="form-floating col-4">
-                <input @bind="newUser.Name" type="text" id="nameInput" class="form-control" placeholder="Name" required>
+                <input @bind="newUser.Name" type="text" id="nameInput" class="form-control"
+                       placeholder="Name" required>
                 <label for="nameInput" class="form-label">Name</label>
-                <div class="invalid-feedback">
-                    Please enter the name
-                </div>
             </div>
             <div class="form-floating col-4">
                 <input @bind="newUser.Email" type="email" name="email" class="form-control" id="emailInput"
                        placeholder="something@something.com" required>
                 <label for="emailInput" class="form-label">Email</label>
-                <div class="invalid-feedback">
-                    Please enter the email
-                </div>
             </div>
             <div class="form-floating col-4">
                 <input @bind="newUser.Phone" type="phone" name="phone" class="form-control" id="phoneInput"
                        placeholder="123-456-7890" required>
                 <label for="phoneInput" class="form-label">Phone</label>
-                <div class="invalid-feedback">
-                    Please enter the phone number
-                </div>
             </div>
         </div>
         @if (showAlert)
@@ -206,3 +198,4 @@
         public string Phone { get; set; }
     }
 }
+

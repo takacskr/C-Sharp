@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\obj\Debug\net8.0\C-Sharp-base.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\obj\Debug\net8.0\C-Sharp-base.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\obj\Debug\net8.0\C-Sharp-base.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\obj\Debug\net8.0\C-Sharp-base.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\obj\Debug\net8.0\C-Sharp-base.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\bin\Debug\net8.0\C-Sharp-base.exe
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\bin\Debug\net8.0\C-Sharp-base.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\bin\Debug\net8.0\C-Sharp-base.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\bin\Debug\net8.0\C-Sharp-base.dll
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\bin\Debug\net8.0\C-Sharp-base.pdb
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\obj\Debug\net8.0\C-Sharp-base.dll
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\obj\Debug\net8.0\refint\C-Sharp-base.dll
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\obj\Debug\net8.0\C-Sharp-base.pdb
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\obj\Debug\net8.0\C-Sharp-base.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\C-Sharp-base\obj\Debug\net8.0\ref\C-Sharp-base.dll
