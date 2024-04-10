@@ -14,6 +14,8 @@ namespace List3
 
             list.Sort();
 
+            // Kereshetünk az elemek között a "BinarySearch" metódussal,
+            // amely a keresett objektum indexét aadja vissza
             Console.WriteLine(list[list.BinarySearch("körte")]);
         }
     }

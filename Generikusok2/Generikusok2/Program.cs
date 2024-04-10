@@ -1,4 +1,7 @@
-﻿namespace Generikusok2
+﻿using System;
+using System.Collections.Generic;
+
+namespace Generikusok2
 {
     class Stack<T>
     {

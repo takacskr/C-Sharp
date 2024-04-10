@@ -2,7 +2,7 @@
 {
     internal class Program
     {
-        static public void Swap<T>(ref T x, ref T y)
+        public static void Swap<T>(ref T x, ref T y)
         {
             T temp = x;
             x = y;

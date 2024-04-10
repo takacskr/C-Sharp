@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Generikusok2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72adaba21888cd1df67e4a015e39d603fa9378d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a2991b4267bd59201ab2ec196620c49097c10cf")]
 [assembly: System.Reflection.AssemblyProductAttribute("Generikusok2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Generikusok2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
