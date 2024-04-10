@@ -1,7 +1,4 @@
 ﻿using System;
-using System.Reflection.Metadata;
-using System.Xml.Linq;
-using static Delegate1.Array;
 
 namespace Delegate1
 {

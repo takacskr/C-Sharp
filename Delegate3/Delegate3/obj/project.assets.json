@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Sugár\\.nuget\\packages\\": {}
+    "C:\\Users\\takac\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\Delegate3\\Delegate3\\Delegate3.csproj",
+      "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Delegate3\\Delegate3\\Delegate3.csproj",
       "projectName": "Delegate3",
-      "projectPath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\Delegate3\\Delegate3\\Delegate3.csproj",
-      "packagesPath": "C:\\Users\\Sugár\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\Delegate3\\Delegate3\\obj\\",
+      "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Delegate3\\Delegate3\\Delegate3.csproj",
+      "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Delegate3\\Delegate3\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Sugár\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\takac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -40,6 +45,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -61,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

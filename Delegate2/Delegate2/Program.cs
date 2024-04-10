@@ -1,4 +1,4 @@
-﻿using System.Security.Cryptography.X509Certificates;
+﻿using System;
 
 namespace Delegate2
 {
@@ -34,6 +34,8 @@ namespace Delegate2
             Test x = new Test();
             Test y = new Test();
 
+            // Mindkét Test objektum ugyanazt a metódust tartalmazza, de azok hivatkozása különböző,
+            // mivel különböző objektumokra mutatnak. Ezért az összehasonlítás False értéket ad vissza
             t1 += x.Method;
             t2 += y.Method;
 
