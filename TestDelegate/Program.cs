@@ -24,7 +24,7 @@
 
 class Program
 {
-    static public void TransformerMethod(ref int item)
+    public static void TransformerMethod(ref int item)
     {
         item *= item;
     }

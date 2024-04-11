@@ -3,6 +3,11 @@
 namespace Delegate1
 {
     /*
+    AZ ARRAY OSZTÁLY CSAK A RECEPT, AMI ALAPJÁN A PROGRAM OSZTÁLYBAN FEJTJÜK KI A METÓDUSOKAT KONKRÉTAN!
+
+    A delegátum típus egy olyan típus C#-ban, amely lehetővé teszi a függvények hivatkozását és átvitelét paraméterként
+    más függvényeknek vagy azok visszatérési értékének.
+
     A Transformer delegátumot definiáljuk, amely egy ref int típusú paraméterrel rendelkezik és nincs visszatérési értéke.
     A TransformerMethod egy statikus metódus a Program osztályban, amely megváltoztatja az átadott int típusú paramétert
     önmagával szorzás révén. A TransformerMethod metódus referenciáját hozzárendeljük a Transformer delegátumhoz az
@@ -30,15 +35,15 @@ namespace Delegate1
         // Privát tömb az Array osztályban
         private int[] array;
 
+        // Hossz tulajdonság a tömbhöz
+        public int Length { get; set; }
+
         // Konstruktor, létrehozza az Array osztályt a megadott hosszúsággal
         public Array(int length)
         {
             Length = length;
             array = new int[Length];
         }
-
-        // Hossz tulajdonság a tömbhöz
-        public int Length { get; set; }
 
         // Indexelő tulajdonság az Array osztályban
         // Az Array osztálynak van egy indexelő tulajdonsága (this[int idx]), amely lehetővé teszi az osztálynak,
@@ -74,13 +79,13 @@ namespace Delegate1
     class Program
     {
         // Metódus, amely egy egész számot megváltoztat önmagával szorzás révén
-        static public void TransformerMethod(ref int item)
+        public static void TransformerMethod(ref int item)
         {
             item *= item;
         }
 
         // Fő metódus
-        static void Main(string[] args)
+        static void Main()
         {
             // Létrehozunk egy új Array példányt 10 elemmel
             Array array = new Array(10);

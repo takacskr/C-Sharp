@@ -25,13 +25,13 @@ namespace TestApp
         // CatMethod metódus definiálása, ami egy Cat típusú objektumot hoz létre és visszaadja
         static public Cat CatMethod() { return new Cat(); }
 
-        static void Main(string[] args)
+        static void Main()
         {
             // GetAnimal delegátum példányosítása és AnimalMethod metódusra állítása
             // Itt létrehozunk egy GetAnimal típusú delegátum példányt AnimalMethod metódus referenciájával
             GetAnimal ga = AnimalMethod;
 
-            // ga delegátum meghívása és az eredmény elmentése az 'a' változóban
+            // ga delegátum meghívása és az eredmény elmentése az 'a' változóban:
             // Ez meghívja a ga delegátumot, ami valójában a AnimalMethod-ra mutat,
             // és elmenti az eredményt az a változóban
             Animal a = ga();
