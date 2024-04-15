@@ -1,6 +1,7 @@
 ﻿class Array
 {
     public delegate void Transformer(ref int item);
+
     private int[] array;
     public Array(int length)
     {
