@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQGroupBy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+897ae63ab87fc6aa69995d9926ad1d0870fb5c4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQGroupBy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQGroupBy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

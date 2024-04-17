@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\StructDateTime\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41F4A411-26CA-4573-B45C-01CF33829849}|ClassLibrary2\\CalculateLibrary.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\structdatetime\\classlibrary2\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41F4A411-26CA-4573-B45C-01CF33829849}|ClassLibrary2\\CalculateLibrary.csproj|solutionrelative:classlibrary2\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{90BB3FBA-3ADD-4F97-B90D-5EC1B14F9CE8}|StructDateTime\\StructDateTime.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\structdatetime\\structdatetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90BB3FBA-3ADD-4F97-B90D-5EC1B14F9CE8}|StructDateTime\\StructDateTime.csproj|solutionrelative:structdatetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C27997BD-BC56-4517-9E5B-B64F82DD0030}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\structdatetime\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C27997BD-BC56-4517-9E5B-B64F82DD0030}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90BB3FBA-3ADD-4F97-B90D-5EC1B14F9CE8}|StructDateTime\\StructDateTime.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\structdatetime\\structdatetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{90BB3FBA-3ADD-4F97-B90D-5EC1B14F9CE8}|StructDateTime\\StructDateTime.csproj|solutionrelative:structdatetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41F4A411-26CA-4573-B45C-01CF33829849}|ClassLibrary2\\CalculateLibrary.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\structdatetime\\classlibrary2\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F4A411-26CA-4573-B45C-01CF33829849}|ClassLibrary2\\CalculateLibrary.csproj|solutionrelative:classlibrary2\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +30,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Calculate.cs",
               "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\StructDateTime\\ClassLibrary2\\Calculate.cs",
               "RelativeDocumentMoniker": "ClassLibrary2\\Calculate.cs",
               "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\StructDateTime\\ClassLibrary2\\Calculate.cs",
               "RelativeToolTip": "ClassLibrary2\\Calculate.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAWwBUAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-04T10:53:06.691Z",
               "EditorCaption": ""
@@ -49,21 +49,23 @@
               "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
               "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\StructDateTime\\ClassLibrary1\\Class1.cs",
               "RelativeToolTip": "ClassLibrary1\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-26T16:47:07.715Z"
+              "WhenOpened": "2024-01-26T16:47:07.715Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\StructDateTime\\StructDateTime\\Program.cs",
               "RelativeDocumentMoniker": "StructDateTime\\Program.cs",
               "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\StructDateTime\\StructDateTime\\Program.cs",
               "RelativeToolTip": "StructDateTime\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAewBAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-01-26T15:39:06.387Z"
+              "WhenOpened": "2024-01-26T15:39:06.387Z",
+              "EditorCaption": ""
             }
           ]
         }

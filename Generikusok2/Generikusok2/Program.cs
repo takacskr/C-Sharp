@@ -8,6 +8,7 @@ namespace Generikusok2
         T[] t;
         int pointer;
         readonly int size;
+
         public Stack(int capacity)
         {
             t = new T[capacity];
@@ -22,6 +23,8 @@ namespace Generikusok2
             }
             t[pointer++] = item;
         }
+
+        // The Pop() method removes the last element
         public object Pop()
         {
             if (pointer-- >= 0)

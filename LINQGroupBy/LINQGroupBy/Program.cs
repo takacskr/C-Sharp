@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text.RegularExpressions;
 
 namespace LinqOrderby
 {
@@ -28,7 +27,7 @@ namespace LinqOrderby
                           orderby namegroup.Key
                           select namegroup;
 
-            foreach (var group in result2)
+            foreach (var group in result1)
             {
                 Console.WriteLine(group.Key);
 

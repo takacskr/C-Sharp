@@ -1,6 +1,6 @@
 ﻿using System;
-using MyLibrary; // az osztálykönyvtár névtere
-using CalculateLibrary;
+using MyLibrary; // a használt osztálykönyvtár névtere
+using CalculateLibrary; // a használt osztálykönyvtár névtere
 
 namespace TestApp
 {
@@ -9,7 +9,11 @@ namespace TestApp
         static public void Main(string[] args)
         {
             ClassLib.PrintHello();
-            Console.WriteLine(Calculate.Multiple(4, 5));
+
+            // We msut declare a variable for the result
+            int result;
+            Calculate.Multiple(4, 5, out result);
+            Console.WriteLine(result);
         }
     }
 }

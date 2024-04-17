@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StructDateTime")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a89448822e0053962a42e8cbef25074c37f137e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+897ae63ab87fc6aa69995d9926ad1d0870fb5c4c")]
 [assembly: System.Reflection.AssemblyProductAttribute("StructDateTime")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StructDateTime")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
