@@ -36,7 +36,7 @@ class AnotherBook : Book
 {
     /*
      * Az AnotherBook osztály konstruktora a base kulcsszóval hívja meg az ősosztály,
-     * azaz a Book osztály konstruktorát. A base(isbn, year, title) részletesen megadja
+     * azaz a Book osztály konstruktorát. A "base(isbn, year, title)" részletesen megadja
      * az isbn, year és title paramétereket az ősosztály konstruktorának meghívásakor.
      * 
      *  a : base() rész a Book osztály konstruktorának meghívását jelenti az adott paraméterekkel.

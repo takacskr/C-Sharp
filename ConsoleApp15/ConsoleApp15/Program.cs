@@ -3,7 +3,7 @@
     // Adattag (field)
     private string _nev;
 
-    // Property a név lekérdezésére és beállítására
+    // Tulajdonság (property) a név lekérdezésére és beállítására
     public string Nev
     {
         get { return _nev; }

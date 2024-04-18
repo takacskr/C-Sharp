@@ -5,8 +5,11 @@ namespace ConsoleApp12
     class Dog
     {
         private int _age;
-        
-        public string Name { get; set; }
+
+        //  private set:
+        //  Az osztályon kívülről nem lehet közvetlenül beállítani az Name tulajdonságot.
+        //  Az érték csak az osztályon belül módosítható.
+        public string Name { get; private set; }
 
         public int Age
         {
@@ -14,6 +17,8 @@ namespace ConsoleApp12
             set { _age = value; }
         }
 
+        // Mivel kezdőértéket adtam meg a paramétereknek, így bármelyik kihagyható,
+        // a fordító nem fog hibát jelezni
         public Dog(string name = "", int age = 0)
         {
             Name = name;
@@ -25,8 +30,10 @@ namespace ConsoleApp12
         static void Main(string[] args)
         {
             Dog dog = new Dog("Füli", 2);
-            Console.WriteLine(dog.Name);
-            Console.WriteLine(dog.Age);
+            Dog dog2 = new Dog("Morzsi");
+
+            Console.WriteLine($"A kutya neve: {dog.Name}, A kutya kora: {dog.Age}");
+            Console.WriteLine($"A kutya neve: {dog2.Name}, A kutya kora: {dog2.Age}");
         }
     }
 }

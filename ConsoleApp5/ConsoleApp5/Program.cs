@@ -46,7 +46,7 @@ namespace ConsoleApp5
             {
                 // Ha igen, visszaállítjuk a tömbre mutató referenciát
                 array = (int[][])weakReference.Target;
-                Console.WriteLine("A WeakReference még mindig hivatkozik - visszaállítjuk a tömbre mutató referenciát!");
+                Console.WriteLine("A WeakReference még mindig hivatkozik a tömbre - visszaállítjuk a tömbre mutató referenciát!");
             }
             // Megjegyzés: A WeakReference használatakor ügyelni kell arra, hogy a Target ne legyen null,
             // mivel ez azt jelentené, hogy az eredeti objektum már eltávolításra került
