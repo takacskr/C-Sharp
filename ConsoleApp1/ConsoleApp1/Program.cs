@@ -14,7 +14,8 @@ namespace ConsoleApp1
         // Külső osztály konstruktora
         public Outer()
         {
-            // Inicializáljuk a 'child' változót egy új 'Inner' objektummal, és átadjuk neki az aktuális 'Outer' objektumot ('this')
+            // Inicializáljuk a 'child' változót egy új 'Inner' objektummal,
+            // és átadjuk neki az aktuális 'Outer' objektumot ('this')
             child = new Inner(this);
         }
 
