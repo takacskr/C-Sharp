@@ -17,7 +17,7 @@ namespace TestApp
     {
         static void Main(string[] args)
         {
-            Init i = new ();
+            Init i = new();
             i.TestInit(out Test t);
             Console.WriteLine(t.s); // Hello!
             Console.ReadKey();

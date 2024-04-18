@@ -27,13 +27,13 @@ class Program
     static void Main()
     {
         // Példányosítás
-        Diak diak = new Diak();
+        Diak diak = new();
 
         // Property használata
-        diak.Nev = "John Doe";  // A setter meghívása
-        Console.WriteLine("Diák neve: " + diak.Nev);  // A getter meghívása
+        diak.Nev = "John Doe";  // A Setter meghívása
+        Console.WriteLine("Diák neve: " + diak.Nev);  // A Getter meghívása
 
         // Érvénytelen név beállítása
-        diak.Nev = "";  // A setter érvénytelen név esetén hibát jelez
+        diak.Nev = "";  // A Setter érvénytelen név esetén hibát jelez
     }
 }

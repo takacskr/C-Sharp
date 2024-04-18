@@ -11,7 +11,7 @@ namespace TestApp
         public void TestMethod(Test t)
         {
             // EZÉRT NEM ÍRÓDIK ÁT AZ EREDETI _x VÁLTOZÓ ÉRTÉKE!
-            // A t változó most egy új Test objektumra mutat.
+            // A t változó most egy ÚJ Test objektumra mutat.
             t = new Test();
 
             // Az új objektum _x értékét beállítjuk 11-re.

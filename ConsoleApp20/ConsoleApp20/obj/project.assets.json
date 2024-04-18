@@ -8,24 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\takac\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Sugár\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp20\\ConsoleApp20\\ConsoleAppSwap.csproj",
+      "projectUniqueName": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\ConsoleApp20\\ConsoleApp20\\ConsoleAppSwap.csproj",
       "projectName": "ConsoleAppSwap",
-      "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp20\\ConsoleApp20\\ConsoleAppSwap.csproj",
-      "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp20\\ConsoleApp20\\obj\\",
+      "projectPath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\ConsoleApp20\\ConsoleApp20\\ConsoleAppSwap.csproj",
+      "packagesPath": "C:\\Users\\Sugár\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\ConsoleApp20\\ConsoleApp20\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\takac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Sugár\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -71,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
