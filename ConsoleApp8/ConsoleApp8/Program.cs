@@ -2,13 +2,16 @@
 {
     class Dog
     {
-        string name;
-        int age;
+        private string _name;
+        private int _age;
+
+        string Name { get; set; }
+        int Age { get; set; }
 
         public Dog(string name, int age)
         {
-            this.name = name;
-            this.age = age;
+            this.Name = name;
+            this.Age = age;
         }
 
         public void Eat()

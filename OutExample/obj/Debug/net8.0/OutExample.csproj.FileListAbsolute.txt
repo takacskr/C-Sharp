@@ -1,0 +1,14 @@
+C:\Users\takac\source\OutExample\bin\Debug\net8.0\OutExample.exe
+C:\Users\takac\source\OutExample\bin\Debug\net8.0\OutExample.deps.json
+C:\Users\takac\source\OutExample\bin\Debug\net8.0\OutExample.runtimeconfig.json
+C:\Users\takac\source\OutExample\bin\Debug\net8.0\OutExample.dll
+C:\Users\takac\source\OutExample\bin\Debug\net8.0\OutExample.pdb
+C:\Users\takac\source\OutExample\obj\Debug\net8.0\OutExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\OutExample\obj\Debug\net8.0\OutExample.AssemblyInfoInputs.cache
+C:\Users\takac\source\OutExample\obj\Debug\net8.0\OutExample.AssemblyInfo.cs
+C:\Users\takac\source\OutExample\obj\Debug\net8.0\OutExample.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\OutExample\obj\Debug\net8.0\OutExample.dll
+C:\Users\takac\source\OutExample\obj\Debug\net8.0\refint\OutExample.dll
+C:\Users\takac\source\OutExample\obj\Debug\net8.0\OutExample.pdb
+C:\Users\takac\source\OutExample\obj\Debug\net8.0\OutExample.genruntimeconfig.cache
+C:\Users\takac\source\OutExample\obj\Debug\net8.0\ref\OutExample.dll

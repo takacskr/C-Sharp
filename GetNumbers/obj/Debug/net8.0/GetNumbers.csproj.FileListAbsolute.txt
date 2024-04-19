@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\obj\Debug\net8.0\GetNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\obj\Debug\net8.0\GetNumbers.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\obj\Debug\net8.0\GetNumbers.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\obj\Debug\net8.0\GetNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\obj\Debug\net8.0\GetNumbers.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\bin\Debug\net8.0\GetNumbers.exe
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\bin\Debug\net8.0\GetNumbers.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\bin\Debug\net8.0\GetNumbers.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\bin\Debug\net8.0\GetNumbers.dll
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\bin\Debug\net8.0\GetNumbers.pdb
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\obj\Debug\net8.0\GetNumbers.dll
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\obj\Debug\net8.0\refint\GetNumbers.dll
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\obj\Debug\net8.0\GetNumbers.pdb
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\obj\Debug\net8.0\GetNumbers.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\GetNumbers\obj\Debug\net8.0\ref\GetNumbers.dll

@@ -6,13 +6,13 @@ namespace OutKW
     {
         static void Main(string[] args)
         {
-            Calculate(out int result);
+            Calculate(10, 8, out int result);
             Console.WriteLine($"Az eredmény: {result}");
         }
 
-        static void Calculate(out int result)
+        static void Calculate(int a, int b, out int result)
         {
-            result = 10;
+            result = a + b;
         }
     }
 }

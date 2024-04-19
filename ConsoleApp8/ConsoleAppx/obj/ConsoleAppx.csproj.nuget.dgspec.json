@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\takac\\source\\ConsoleAppx\\ConsoleAppx\\ConsoleAppx.csproj": {}
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp8\\ConsoleAppx\\ConsoleAppx.csproj": {}
   },
   "projects": {
-    "C:\\Users\\takac\\source\\ConsoleAppx\\ConsoleAppx\\ConsoleAppx.csproj": {
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp8\\ConsoleAppx\\ConsoleAppx.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\takac\\source\\ConsoleAppx\\ConsoleAppx\\ConsoleAppx.csproj",
+        "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp8\\ConsoleAppx\\ConsoleAppx.csproj",
         "projectName": "ConsoleAppx",
-        "projectPath": "C:\\Users\\takac\\source\\ConsoleAppx\\ConsoleAppx\\ConsoleAppx.csproj",
+        "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp8\\ConsoleAppx\\ConsoleAppx.csproj",
         "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\takac\\source\\ConsoleAppx\\ConsoleAppx\\obj\\",
+        "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp8\\ConsoleAppx\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

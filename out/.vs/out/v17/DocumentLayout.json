@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\out\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\out\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7720F0D9-FD10-4C79-A8B4-1F0089E1A7FA}|out\\out.csproj|c:\\users\\takac\\source\\out\\out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7720F0D9-FD10-4C79-A8B4-1F0089E1A7FA}|out\\out.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\out\\out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7720F0D9-FD10-4C79-A8B4-1F0089E1A7FA}|out\\out.csproj|solutionrelative:out\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\out\\out\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\out\\out\\Program.cs",
               "RelativeDocumentMoniker": "out\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\out\\out\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\out\\out\\Program.cs",
               "RelativeToolTip": "out\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

@@ -3,10 +3,16 @@
 namespace Delegate1
 {
     /*
-    A Transformer delegátumot definiáljuk, amely egy ref int típusú paraméterrel rendelkezik és nincs visszatérési értéke.
+    AZ ARRAY OSZTÁLY CSAK A SABLON, AMI ALAPJÁN A PROGRAM OSZTÁLYBAN FEJTJÜK KI A METÓDUSOKAT KONKRÉTAN!
+
+    A delegátum típus egy olyan típus C#-ban, amely lehetővé teszi
+    a függvények hivatkozását és átvitelét paraméterként más függvényeknek
+    vagy azok visszatérési értékének: A Transformer delegátumot definiáljuk,
+    amely egy ref int típusú paraméterrel rendelkezik és nincs visszatérési értéke.
+
     A TransformerMethod egy statikus metódus a Program osztályban, amely megváltoztatja az átadott int típusú paramétert
     önmagával szorzás révén. A TransformerMethod metódus referenciáját hozzárendeljük a Transformer delegátumhoz az
-    array.Transform(Program.TransformerMethod); sorban a Main metódusban.
+    "array.Transform(Program.TransformerMethod);" sorban a Main metódusban.
 
     Delegátum meghívása:
     A Transform metódus meghívásakor a TransformerMethod metódus referenciája (delegátum) kerül átadásra.
@@ -16,6 +22,7 @@ namespace Delegate1
     Metódusok közvetlen hívása:
     A Main metódusban két ciklussal feltöltjük és kiírjuk a tömb elemeit.
     A Console.WriteLine(array[i]); sorban közvetlenül hívjuk meg a Console.WriteLine metódust a tömb elemeinek kiírásához.
+
     Összességében tehát a delegátumot egy statikus metódus referenciájával töltjük fel, majd ezt a delegátumot használjuk a tömb
     transzformálására. A metódusokat közvetlenül hívjuk meg a tömb elemeinek feltöltéséhez és kiírásához a Main metódusban.
      */
@@ -30,15 +37,15 @@ namespace Delegate1
         // Privát tömb az Array osztályban
         private int[] array;
 
+        // Hossz tulajdonság a tömbhöz
+        public int Length { get; set; }
+
         // Konstruktor, létrehozza az Array osztályt a megadott hosszúsággal
         public Array(int length)
         {
             Length = length;
             array = new int[Length];
         }
-
-        // Hossz tulajdonság a tömbhöz
-        public int Length { get; set; }
 
         // Indexelő tulajdonság az Array osztályban
         // Az Array osztálynak van egy indexelő tulajdonsága (this[int idx]), amely lehetővé teszi az osztálynak,
@@ -65,7 +72,7 @@ namespace Delegate1
             // Végigmegyünk a tömbön és meghívjuk a Transformer delegátumot mindegyik elemre
             for (int i = 0; i < array.Length; ++i)
             {
-                t(ref array[i]);
+                t(ref array[i]); // == TransformerMethod, item *= item
             }
         }
     }
@@ -74,13 +81,13 @@ namespace Delegate1
     class Program
     {
         // Metódus, amely egy egész számot megváltoztat önmagával szorzás révén
-        static public void TransformerMethod(ref int item)
+        public static void TransformerMethod(ref int item)
         {
             item *= item;
         }
 
         // Fő metódus
-        static void Main(string[] args)
+        static void Main()
         {
             // Létrehozunk egy új Array példányt 10 elemmel
             Array array = new Array(10);

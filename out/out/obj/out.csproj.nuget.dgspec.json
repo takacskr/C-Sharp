@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\takac\\source\\out\\out\\out.csproj": {}
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\out\\out\\out.csproj": {}
   },
   "projects": {
-    "C:\\Users\\takac\\source\\out\\out\\out.csproj": {
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\out\\out\\out.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\takac\\source\\out\\out\\out.csproj",
+        "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\out\\out\\out.csproj",
         "projectName": "out",
-        "projectPath": "C:\\Users\\takac\\source\\out\\out\\out.csproj",
+        "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\out\\out\\out.csproj",
         "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\takac\\source\\out\\out\\obj\\",
+        "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\out\\out\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -64,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

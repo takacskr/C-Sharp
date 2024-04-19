@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\DataGen\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\DataGen\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D72914CB-6ED4-4FCB-A7B9-E3ABB7EC6B79}|DataGen\\DataGen.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\datagen\\datagen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D72914CB-6ED4-4FCB-A7B9-E3ABB7EC6B79}|DataGen\\DataGen.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\datagen\\datagen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D72914CB-6ED4-4FCB-A7B9-E3ABB7EC6B79}|DataGen\\DataGen.csproj|solutionrelative:datagen\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\DataGen\\DataGen\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\DataGen\\DataGen\\Program.cs",
               "RelativeDocumentMoniker": "DataGen\\Program.cs",
-              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\DataGen\\DataGen\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\DataGen\\DataGen\\Program.cs",
               "RelativeToolTip": "DataGen\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABRAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-20T17:14:32.54Z",
               "EditorCaption": ""

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\ConsoleAppx\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3EC72B46-9981-4D30-85F2-884FE59D2738}|ConsoleAppx\\ConsoleAppx.csproj|c:\\users\\takac\\source\\consoleappx\\consoleappx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3EC72B46-9981-4D30-85F2-884FE59D2738}|ConsoleAppx\\ConsoleAppx.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\consoleapp8\\consoleappx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3EC72B46-9981-4D30-85F2-884FE59D2738}|ConsoleAppx\\ConsoleAppx.csproj|solutionrelative:consoleappx\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,15 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\ConsoleAppx\\ConsoleAppx\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp8\\ConsoleAppx\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppx\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\ConsoleAppx\\ConsoleAppx\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp8\\ConsoleAppx\\Program.cs",
               "RelativeToolTip": "ConsoleAppx\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
