@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\takac\\source\\repos\\C-Sharp\\Generikusok2\\Generikusok2\\Generikusok2.csproj": {}
+    "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\Generikusok2\\Generikusok2\\Generikusok2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\takac\\source\\repos\\C-Sharp\\Generikusok2\\Generikusok2\\Generikusok2.csproj": {
+    "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\Generikusok2\\Generikusok2\\Generikusok2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Generikusok2\\Generikusok2\\Generikusok2.csproj",
+        "projectUniqueName": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\Generikusok2\\Generikusok2\\Generikusok2.csproj",
         "projectName": "Generikusok2",
-        "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Generikusok2\\Generikusok2\\Generikusok2.csproj",
-        "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Generikusok2\\Generikusok2\\obj\\",
+        "projectPath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\Generikusok2\\Generikusok2\\Generikusok2.csproj",
+        "packagesPath": "C:\\Users\\Sugár\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\Generikusok2\\Generikusok2\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\takac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Sugár\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -2,6 +2,7 @@
 
 namespace ConsoleApp6
 {
+    // Implementáljuk az IDisposable interfészt
     class DisposableClass : IDisposable
     {
         private bool disposed = false;

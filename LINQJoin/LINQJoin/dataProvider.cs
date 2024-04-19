@@ -83,7 +83,7 @@ namespace LINQJoin
                     ProductID = 2,
                     OrderDate = DateTime.Now.AddDays(-2),
                     DeliverDate = DateTime.Now.AddDays(3),
-                    Note = ""
+                    Note = "Everything was ok"
                 }
             };
         }

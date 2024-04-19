@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp19\\",
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ConsoleApp19\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7F1315C5-46E1-4C78-B0B0-A6FC850347C9}|ConsoleApp19\\ConsoleApp19.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\consoleapp19\\consoleapp19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7F1315C5-46E1-4C78-B0B0-A6FC850347C9}|ConsoleApp19\\ConsoleApp19.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\consoleapp19\\consoleapp19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F1315C5-46E1-4C78-B0B0-A6FC850347C9}|ConsoleApp19\\ConsoleApp19.csproj|solutionrelative:consoleapp19\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp19\\ConsoleApp19\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ConsoleApp19\\ConsoleApp19\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp19\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp19\\ConsoleApp19\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ConsoleApp19\\ConsoleApp19\\Program.cs",
               "RelativeToolTip": "ConsoleApp19\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-01T16:52:22.23Z",
               "EditorCaption": ""

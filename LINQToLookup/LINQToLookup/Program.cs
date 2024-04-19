@@ -21,7 +21,7 @@ namespace LINQToLookup
                 new Person { Name = "Pintér Ferenc", Age = 33 }
             };
 
-            // ageGroups: adott kulcshoz tartozó elemeket tárolja
+            // ageGroups: adott kulcshoz tartozó elemeket tárolja. Egy kulcshoz több érték is tartozhat.
             ILookup<int, Person> ageGroups = people.ToLookup(person => person.Age);
 
             foreach (IGrouping<int, Person> ageGroup in ageGroups)

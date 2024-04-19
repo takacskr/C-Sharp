@@ -1,56 +1,39 @@
 ﻿using System;
+<<<<<<< HEAD
 
 /*
  * Program to get 10 numbers from the user and count the negativ and positive numbers.
  */
+=======
+>>>>>>> 55d4553cd3125abb218336274f977bbe4911ee23
 
 namespace CountNumbers
 {
     public class Numbers
     {
-        private int _positive;
-        private int _negative;
+        public int Positive { get; private set; }
+        public int Negative { get; private set; }
 
-        public int Positive
+        public void AddNumber(int number)
         {
-            get { return _positive; }
-            set { _positive = value; }
-        }
-
-        public int Negative
-        {
-            get { return _negative; }
-            set { _negative = value; }
-        }
-
-        public Numbers()
-        {
-            Positive = 0;
-            Negative = 0;
-        }
-
-        public void GetANumber(int item)
-        {
-            if (item < 0)
+            if (number < 0)
             {
                 Negative++;
             }
-
-            else if (item > 0)
+            else if (number > 0)
             {
                 Positive++;
             }
         }
-        
     }
+
     class Program
     {
-        public static void Main(string[] args)
+        static void Main(string[] args)
         {
-            int[] array = new int[10];
-
             Numbers numbers = new Numbers();
 
+<<<<<<< HEAD
             Console.WriteLine("Kérem adjon meg 10 db számot (lehet pozitív és negatív is!");
             
             for (int i = 0; i < 10; i++)
@@ -66,11 +49,20 @@ namespace CountNumbers
                     Console.WriteLine("Hiba! Csak számérték adható meg!", ex.Message);
                 }
 
-            }
-
-            foreach (int item in array)
+=======
+            try
             {
-                numbers.GetANumber(item);
+                for (int i = 0; i < 10; i++)
+                {
+                    Console.Write($"Enter number {i + 1}: ");
+                    int number = int.Parse(Console.ReadLine());
+                    numbers.AddNumber(number);
+                }
+>>>>>>> 55d4553cd3125abb218336274f977bbe4911ee23
+            }
+            catch (FormatException)
+            {
+                Console.WriteLine("Invalid input. Please enter valid numbers.");
             }
 
             Console.WriteLine($"Positive numbers: {numbers.Positive}");

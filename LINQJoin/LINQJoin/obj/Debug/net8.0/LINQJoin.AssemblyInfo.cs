@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQJoin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3df74ca61903beda329c04d2de1de346b8f5a80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9d21a1b621afa576ff176238dbce5905475a367")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQJoin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQJoin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

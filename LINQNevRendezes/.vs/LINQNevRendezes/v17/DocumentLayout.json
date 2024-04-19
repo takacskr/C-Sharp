@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\LINQNevRendezes\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\LINQNevRendezes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6D396AD1-B5FB-40CA-B638-1E865598AC82}|LINQNevRendezes\\LINQNevRendezes.csproj|c:\\users\\takac\\source\\repos\\linqnevrendezes\\linqnevrendezes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6D396AD1-B5FB-40CA-B638-1E865598AC82}|LINQNevRendezes\\LINQNevRendezes.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\linqnevrendezes\\linqnevrendezes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6D396AD1-B5FB-40CA-B638-1E865598AC82}|LINQNevRendezes\\LINQNevRendezes.csproj|solutionrelative:linqnevrendezes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\LINQNevRendezes\\LINQNevRendezes\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\LINQNevRendezes\\LINQNevRendezes\\Program.cs",
               "RelativeDocumentMoniker": "LINQNevRendezes\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\LINQNevRendezes\\LINQNevRendezes\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\LINQNevRendezes\\LINQNevRendezes\\Program.cs",
               "RelativeToolTip": "LINQNevRendezes\\Program.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBgAAAAoAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-18T15:58:24.207Z",
               "EditorCaption": ""

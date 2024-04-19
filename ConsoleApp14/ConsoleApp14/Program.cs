@@ -30,7 +30,7 @@ namespace ConsoleApp14
         static void Main(string[] args)
         {
             // Person osztály példányosítása és inicializálása
-            Person person = new Person()
+            Person person = new()
             {
                 // A Name tulajdonság beállítása "István" értékre
                 Name = "István"

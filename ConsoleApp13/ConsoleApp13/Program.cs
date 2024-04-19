@@ -14,7 +14,8 @@ namespace ConsoleApp13
         // Konstruktor, ahol inicializáljuk a belső osztályt
         public Outer()
         {
-            // Konstruktor: létrehozunk egy belső osztály példányt és hozzárendeljük a child változóhoz
+            // Létrehozunk egy belső osztály példányt és hozzárendeljük a child változóhoz
+            // A child változóra mutató referenciát elmenti az Outer osztály példányában
             child = new Inner(this);
         }
 
