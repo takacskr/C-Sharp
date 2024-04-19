@@ -11,13 +11,15 @@ namespace LINQNevRendezes
             List<string> names = new List<string>()
             {
                 "Szandra", "István", "Iván", "Jolán", "Jenő", "Béla",
-                "Balázs", "Viktória", "Vazul", "Töhötöm", "Tamás"
+                "Balázs", "Viktória", "Vazul", "Töhötöm", "Tamás", "Ilona"
             };
 
             IOrderedEnumerable<string> result1 = names.OrderBy(name => name[0])
                                                        .ThenBy(name => name[1]);
 
             IOrderedEnumerable<string> result2 = from name in names
+                                                 where name.Contains("án")
+                                                 where name.StartsWith("I")
                                                  orderby name[0], name[1]
                                                  select name;
 

@@ -24,8 +24,14 @@ namespace Server
 
             //var result = list.Where(number => number % 2 == 0);
 
-            Func<int, bool> predicate = x => x % 2 == 0;
-            IEnumerable<int> result = list.Where(predicate);
+            //List<int> result = list.Where(x => x % 2 == 0).ToList();
+
+            Func<int, bool> even = x =>
+            {
+                return x % 2 == 0;
+            };
+
+            IEnumerable<int> result = list.Where(even);
         
             foreach (var item in result)
             {
