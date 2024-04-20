@@ -9,11 +9,11 @@
             this.Value = value;
         }
 
-        // Publikus Value tulajdonság egy privát setterrel az érték beállításának kontrollálásához
+        // Publikus Value tulajdonság egy privát Setterrel az érték beállításának kontrollálásához
         public int Value { get; private set; }
 
         // Az összeadás operátor túlterhelése a két MyInt objektum összeadásának lehetővé tétele érdekében
-        static public MyInt operator +(MyInt lhs, MyInt rhs)
+        public static MyInt operator +(MyInt lhs, MyInt rhs)
         {
             // Létrehozunk egy új MyInt objektumot az lhs és rhs értékeinek összegével
             return new MyInt(lhs.Value + rhs.Value);

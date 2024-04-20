@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Func<bool> func = () => true;
+            Func<bool> func = () => 3 < 4; // True
 
             Console.WriteLine(func());
         }

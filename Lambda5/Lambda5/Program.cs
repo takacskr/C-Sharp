@@ -14,8 +14,9 @@ class Program
 {
     static void Main()
     {
-        Test.Method();
-        Test.act(100);
+        Test.Method(); // The variable x has no value, yet.
+        Test.act(100); // 10000
+
         Console.ReadKey();
     }
 }

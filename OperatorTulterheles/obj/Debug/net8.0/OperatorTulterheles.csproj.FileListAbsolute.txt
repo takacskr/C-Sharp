@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\bin\Debug\net8.0\OperatorTulterheles.exe
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\bin\Debug\net8.0\OperatorTulterheles.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\bin\Debug\net8.0\OperatorTulterheles.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\bin\Debug\net8.0\OperatorTulterheles.dll
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\bin\Debug\net8.0\OperatorTulterheles.pdb
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\obj\Debug\net8.0\OperatorTulterheles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\obj\Debug\net8.0\OperatorTulterheles.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\obj\Debug\net8.0\OperatorTulterheles.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\obj\Debug\net8.0\OperatorTulterheles.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\obj\Debug\net8.0\OperatorTulterheles.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\obj\Debug\net8.0\OperatorTulterheles.dll
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\obj\Debug\net8.0\refint\OperatorTulterheles.dll
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\obj\Debug\net8.0\OperatorTulterheles.pdb
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\obj\Debug\net8.0\OperatorTulterheles.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\OperatorTulterheles\obj\Debug\net8.0\ref\OperatorTulterheles.dll

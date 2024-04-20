@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lambda3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3303829a3048aaec5e1f71e9902ce3a1a26d41c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7427570083e90e0f40180f8b970745eb50d97d17")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lambda3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lambda3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,7 +6,7 @@
         {
             Func<int, int, bool> myOwnFunc = (x, y) => (x > y);
 
-            bool eredmeny = myOwnFunc(3, 4);
+            bool eredmeny = myOwnFunc(3, 4); // False
 
             Console.WriteLine(eredmeny);
         }

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NevtelenOsztaly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0b76ce15cf4569f5c6fcff4427d9f302d8101863")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7427570083e90e0f40180f8b970745eb50d97d17")]
 [assembly: System.Reflection.AssemblyProductAttribute("NevtelenOsztaly")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NevtelenOsztaly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
