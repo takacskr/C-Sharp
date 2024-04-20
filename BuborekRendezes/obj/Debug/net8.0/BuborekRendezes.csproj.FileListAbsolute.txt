@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\bin\Debug\net8.0\BuborekRendezes.exe
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\bin\Debug\net8.0\BuborekRendezes.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\bin\Debug\net8.0\BuborekRendezes.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\bin\Debug\net8.0\BuborekRendezes.dll
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\bin\Debug\net8.0\BuborekRendezes.pdb
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\obj\Debug\net8.0\BuborekRendezes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\obj\Debug\net8.0\BuborekRendezes.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\obj\Debug\net8.0\BuborekRendezes.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\obj\Debug\net8.0\BuborekRendezes.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\obj\Debug\net8.0\BuborekRendezes.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\obj\Debug\net8.0\BuborekRendezes.dll
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\obj\Debug\net8.0\refint\BuborekRendezes.dll
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\obj\Debug\net8.0\BuborekRendezes.pdb
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\obj\Debug\net8.0\BuborekRendezes.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\BuborekRendezes\obj\Debug\net8.0\ref\BuborekRendezes.dll

@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\bin\Debug\net8.0\BubbleShort3.exe
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\bin\Debug\net8.0\BubbleShort3.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\bin\Debug\net8.0\BubbleShort3.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\bin\Debug\net8.0\BubbleShort3.dll
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\bin\Debug\net8.0\BubbleShort3.pdb
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\obj\Debug\net8.0\BubbleShort3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\obj\Debug\net8.0\BubbleShort3.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\obj\Debug\net8.0\BubbleShort3.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\obj\Debug\net8.0\BubbleShort3.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\obj\Debug\net8.0\BubbleShort3.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\obj\Debug\net8.0\BubbleShort3.dll
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\obj\Debug\net8.0\refint\BubbleShort3.dll
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\obj\Debug\net8.0\BubbleShort3.pdb
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\obj\Debug\net8.0\BubbleShort3.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\BubbleShort3\obj\Debug\net8.0\ref\BubbleShort3.dll
