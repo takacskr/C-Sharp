@@ -50,8 +50,7 @@
               "RelativeToolTip": "LINQJoin\\address.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:05:22.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T18:05:22.027Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "LINQJoin\\customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:05:17.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T18:05:17.346Z"
             },
             {
               "$type": "Document",
@@ -76,8 +74,7 @@
               "RelativeToolTip": "LINQJoin\\order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T18:04:55.563Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T18:04:55.563Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "LINQJoin\\Program.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAcwCYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:16:46.112Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T14:16:46.112Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "LINQJoin\\dataProvider.cs",
               "ViewState": "AQIAADwAAAAAAAAAAAAowEgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-19T14:16:42.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-19T14:16:42.325Z"
             }
           ]
         }
