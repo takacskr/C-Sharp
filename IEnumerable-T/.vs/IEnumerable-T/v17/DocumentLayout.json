@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\IEnumerable-T\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{018978FA-2EEB-4725-B23F-C55F024AAC05}|IEnumerable-T.csproj|c:\\users\\takac\\source\\ienumerable-t\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{018978FA-2EEB-4725-B23F-C55F024AAC05}|IEnumerable-T.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\IEnumerable-T\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\IEnumerable-T\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T10:14:53.023Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

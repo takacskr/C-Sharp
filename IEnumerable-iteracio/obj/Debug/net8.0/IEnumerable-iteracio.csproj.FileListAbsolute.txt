@@ -1,0 +1,14 @@
+C:\Users\takac\source\IEnumerable-iteracio\bin\Debug\net8.0\IEnumerable-iteracio.exe
+C:\Users\takac\source\IEnumerable-iteracio\bin\Debug\net8.0\IEnumerable-iteracio.deps.json
+C:\Users\takac\source\IEnumerable-iteracio\bin\Debug\net8.0\IEnumerable-iteracio.runtimeconfig.json
+C:\Users\takac\source\IEnumerable-iteracio\bin\Debug\net8.0\IEnumerable-iteracio.dll
+C:\Users\takac\source\IEnumerable-iteracio\bin\Debug\net8.0\IEnumerable-iteracio.pdb
+C:\Users\takac\source\IEnumerable-iteracio\obj\Debug\net8.0\IEnumerable-iteracio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\IEnumerable-iteracio\obj\Debug\net8.0\IEnumerable-iteracio.AssemblyInfoInputs.cache
+C:\Users\takac\source\IEnumerable-iteracio\obj\Debug\net8.0\IEnumerable-iteracio.AssemblyInfo.cs
+C:\Users\takac\source\IEnumerable-iteracio\obj\Debug\net8.0\IEnumerable-iteracio.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\IEnumerable-iteracio\obj\Debug\net8.0\IEnumerable-iteracio.dll
+C:\Users\takac\source\IEnumerable-iteracio\obj\Debug\net8.0\refint\IEnumerable-iteracio.dll
+C:\Users\takac\source\IEnumerable-iteracio\obj\Debug\net8.0\IEnumerable-iteracio.pdb
+C:\Users\takac\source\IEnumerable-iteracio\obj\Debug\net8.0\IEnumerable-iteracio.genruntimeconfig.cache
+C:\Users\takac\source\IEnumerable-iteracio\obj\Debug\net8.0\ref\IEnumerable-iteracio.dll
