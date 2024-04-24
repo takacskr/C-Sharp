@@ -1,18 +1,23 @@
-﻿namespace AbstractClass
+﻿using System;
+
+namespace AbstractClass
 {
     abstract class Animal
     {
+        public string Name { get; set; }
+
         public Animal(string name)
         {
             this.Name = name;
         }
-        public string Name { get; set; }
+
         abstract public void Eat();
     }
 
     class Dog : Animal
     {
         public Dog(string name) : base(name) { }
+
         public override void Eat()
         {
             Console.WriteLine("Kutya eszik...");

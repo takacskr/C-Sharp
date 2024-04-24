@@ -40,7 +40,7 @@ namespace Delegate1
         // Hossz tulajdonság a tömbhöz
         public int Length { get; set; }
 
-        // Konstruktor, létrehozza az Array osztályt a megadott hosszúsággal
+        // Konstruktor, mely létrehozza az Array osztályt a megadott hosszúsággal
         public Array(int length)
         {
             Length = length;
@@ -48,9 +48,11 @@ namespace Delegate1
         }
 
         // Indexelő tulajdonság az Array osztályban
-        // Az Array osztálynak van egy indexelő tulajdonsága (this[int idx]), amely lehetővé teszi az osztálynak,
-        // hogy úgy viselkedjen, mint egy tömb. A get művelet visszaadja a megadott indexű elemet a tömbből,
-        // míg a set művelet beállítja az adott indexű elem értékét a tömbben
+        // Az Array osztálynak van egy indexelő tulajdonsága ("this[int idx]"), amely lehetővé teszi az osztálynak,
+        // hogy úgy viselkedjen, mint egy tömb
+
+        // get: visszaadja a megadott indexű elemet a tömbből
+        // set: beállítja az adott indexű elem értékét a tömbben
 
         public int this[int idx]
         {
@@ -64,15 +66,18 @@ namespace Delegate1
         // paramétert fogad és nem tér vissza semmilyen értékkel
 
         // Az Array osztálynak van egy Transform metódusa, amely egy Transformer delegátumot vár paraméterként.
-        // Amikor meghívjuk a delegátumot, akkor a hozzárendelt metódus(ok) futnak le.
+
+        // FONTOS! AMIKOR MEGHÍVJUK A DELEGÁTUMOT, AKKOR A HOZZÁRENDELT METÓDUS(OK) FUTNAK LE!*
+
         // Ez a metódus végigmegy a tömb összes elemén, és meghívja a delegátumot mindegyik elemre,
         // a tömb elemeit módosítva a delegátum által definiált transzformációval
         public void Transform(Transformer t)
         {
-            // Végigmegyünk a tömbön és meghívjuk a Transformer delegátumot mindegyik elemre
+            // Végigmegyünk a tömbön
+            // és MEGHÍVJUK A TRANSFORMER DELEGÁTUMOT MIDEGYIK ELEMRE!*
             for (int i = 0; i < array.Length; ++i)
             {
-                t(ref array[i]); // == TransformerMethod, item *= item
+                t(ref array[i]); // itt a "t" valójában a TransformerMethod, item *= item
             }
         }
     }

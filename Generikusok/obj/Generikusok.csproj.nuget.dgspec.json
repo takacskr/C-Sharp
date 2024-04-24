@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\takac\\source\\Generikusok\\Generikusok.csproj": {}
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\Generikusok\\Generikusok.csproj": {}
   },
   "projects": {
-    "C:\\Users\\takac\\source\\Generikusok\\Generikusok.csproj": {
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\Generikusok\\Generikusok.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\takac\\source\\Generikusok\\Generikusok.csproj",
+        "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Generikusok\\Generikusok.csproj",
         "projectName": "Generikusok",
-        "projectPath": "C:\\Users\\takac\\source\\Generikusok\\Generikusok.csproj",
+        "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Generikusok\\Generikusok.csproj",
         "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\takac\\source\\Generikusok\\obj\\",
+        "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Generikusok\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
