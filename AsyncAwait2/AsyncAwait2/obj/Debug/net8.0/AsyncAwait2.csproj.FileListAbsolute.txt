@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\bin\Debug\net8.0\AsyncAwait2.exe
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\bin\Debug\net8.0\AsyncAwait2.deps.json
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\bin\Debug\net8.0\AsyncAwait2.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\bin\Debug\net8.0\AsyncAwait2.dll
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\bin\Debug\net8.0\AsyncAwait2.pdb
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\obj\Debug\net8.0\AsyncAwait2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\obj\Debug\net8.0\AsyncAwait2.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\obj\Debug\net8.0\AsyncAwait2.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\obj\Debug\net8.0\AsyncAwait2.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\obj\Debug\net8.0\AsyncAwait2.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\obj\Debug\net8.0\AsyncAwait2.dll
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\obj\Debug\net8.0\refint\AsyncAwait2.dll
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\obj\Debug\net8.0\AsyncAwait2.pdb
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\obj\Debug\net8.0\AsyncAwait2.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\AsyncAwait2\AsyncAwait2\obj\Debug\net8.0\ref\AsyncAwait2.dll
