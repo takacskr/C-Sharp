@@ -12,7 +12,7 @@ class Program
     {
         // Tuple átalakítása ValueTuple-ra
         (int, int) inputs = (ValueTuple<int, int>)x;
-        Console.WriteLine("Első callback meghívva: " + inputs.Item1 + ", asd: " + inputs.Item2);
+        Console.WriteLine("Első callback meghívva: " + inputs.Item1 + ", Item2: " + inputs.Item2);
     }
 
     /// <summary>

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Action-GenerikusKifejezes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98A708E9-A9F3-43D7-AB56-557E555CB657}|Action-GenerikusKifejezes\\Action-GenerikusKifejezes.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\action-generikuskifejezes\\action-generikuskifejezes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98A708E9-A9F3-43D7-AB56-557E555CB657}|Action-GenerikusKifejezes\\Action-GenerikusKifejezes.csproj|solutionrelative:action-generikuskifejezes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes\\Program.cs",
+              "RelativeDocumentMoniker": "Action-GenerikusKifejezes\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes\\Program.cs",
+              "RelativeToolTip": "Action-GenerikusKifejezes\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwBkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T18:38:33.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
