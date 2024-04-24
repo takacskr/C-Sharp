@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BubbleShort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b387a121292de676dd7ff1b718016551c89ef6f9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+220a28954e3680973552044e5a7c0e4b77936c70")]
 [assembly: System.Reflection.AssemblyProductAttribute("BubbleShort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BubbleShort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

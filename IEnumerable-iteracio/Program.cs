@@ -23,32 +23,18 @@ class Person
     }
 }
 
-class PeopleCollection : IEnumerable
-{
-    private List<Person> people = new List<Person>();
-
-    public void AddPerson(Person person)
-    {
-        people.Add(person);
-    }
-
-    public IEnumerator GetEnumerator()
-    {
-        return people.GetEnumerator();
-    }
-}
-
 class Program
 {
+    private static List<Person> people = new List<Person>();
+
     static void Main()
     {
-        PeopleCollection collection = new PeopleCollection();
-        collection.AddPerson(new Person("Alice", 30));
-        collection.AddPerson(new Person("Bob", 25));
-        collection.AddPerson(new Person("Charlie", 35));
+        people.Add(new Person("Alice", 30));
+        people.Add(new Person("Bob", 25));
+        people.Add(new Person("Charlie", 35));
 
         // Iterálás a PeopleCollection példányon
-        foreach (Person person in collection)
+        foreach (Person person in people)
         {
             Console.WriteLine($"Name: {person.Name}, Age: {person.Age}");
         }

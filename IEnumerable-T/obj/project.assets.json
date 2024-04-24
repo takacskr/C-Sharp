@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\takac\\source\\IEnumerable-T\\IEnumerable-T.csproj",
+      "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\IEnumerable-T\\IEnumerable-T.csproj",
       "projectName": "IEnumerable-T",
-      "projectPath": "C:\\Users\\takac\\source\\IEnumerable-T\\IEnumerable-T.csproj",
+      "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\IEnumerable-T\\IEnumerable-T.csproj",
       "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\takac\\source\\IEnumerable-T\\obj\\",
+      "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\IEnumerable-T\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
