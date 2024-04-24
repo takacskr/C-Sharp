@@ -3,6 +3,8 @@ using System.Threading;
 
 class Program
 {
+    public static bool isDone = false;
+
     /// <summary>
     /// X: (int, int) inputs
     /// </summary>
@@ -24,19 +26,28 @@ class Program
     /// <summary>
     /// Valamilyen lassú műveletet szimulál, majd meghívja a megadott callback függvényt
     /// </summary>
-    static void DoSomethingSlow(object x, Action<object> callback)
+    static async Task DoSomethingSlow(object x, Action<object> callback)
     {
         // Késleltetés 1000 milliszekundum (1 másodperc)
-        Thread.Sleep(1000);
+        await Task.Delay(1000);
 
         // web request / file read / event detection < here
         // all done, callback
         callback(x);
     }
+
+    static async void MainAsync()
+    {
+        await DoSomethingSlow((15, 25), FirstCallback);
+        await DoSomethingSlow(73, SecondCallback);
+        await Task.Delay(1000);
+        isDone = true;
+    }
     
     static void Main()
     {
-        DoSomethingSlow((15, 25), FirstCallback);
-        DoSomethingSlow(73, SecondCallback);
+        MainAsync();
+        while (!isDone)
+        { }
     }
 }
