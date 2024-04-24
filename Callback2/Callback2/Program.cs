@@ -1,38 +1,42 @@
 ﻿using System;
-
-// Definiáljunk egy delegált típust a callback függvény számára
-delegate void Callback(int value);
+using System.Threading;
 
 class Program
 {
-    // Ez az első callback függvény, amit átadunk PerformCallback-nek
-    static void FirstCallback(int value)
+    /// <summary>
+    /// X: (int, int) inputs
+    /// </summary>
+    static void FirstCallback(object x)
     {
-        Console.WriteLine("Első callback meghívva: " + value);
+        // Tuple átalakítása ValueTuple-ra
+        (int, int) inputs = (ValueTuple<int, int>)x;
+        Console.WriteLine("Első callback meghívva: " + inputs.Item1 + ", asd: " + inputs.Item2);
     }
 
-    // Ez a második callback függvény, amit átadunk PerformCallback-nek
-    static void SecondCallback(int value)
+    /// <summary>
+    /// A második callback függvény, amely egy objektumot vár paraméterként
+    /// </summary>
+    static void SecondCallback(object x)
     {
-        Console.WriteLine("Második callback meghívva: " + value);
+        Console.WriteLine("Második callback meghívva: " + x);
     }
 
-    // Ez a függvény fogja meghívni a kapott callback függvényt
-    static void PerformCallback(int x, Callback callback)
+    /// <summary>
+    /// Valamilyen lassú műveletet szimulál, majd meghívja a megadott callback függvényt
+    /// </summary>
+    static void DoSomethingSlow(object x, Action<object> callback)
     {
-        // Hívjuk meg a callback függvényt a paraméterrel
+        // Késleltetés 1000 milliszekundum (1 másodperc)
+        Thread.Sleep(1000);
+
+        // web request / file read / event detection < here
+        // all done, callback
         callback(x);
     }
-
-    static void Main(string[] args)
+    
+    static void Main()
     {
-        // Példányosítsunk egy Callback típusú változót és adjuk át neki a FirstCallback függvényt
-        Callback firstCallback = new Callback(FirstCallback);
-        // Példányosítsunk egy Callback típusú változót és adjuk át neki a SecondCallback függvényt
-        Callback secondCallback = new Callback(SecondCallback);
-
-        // Hívjuk meg a PerformCallback függvényt és adjuk át neki a callback függvényeket
-        PerformCallback(42, firstCallback);
-        PerformCallback(73, secondCallback);
+        DoSomethingSlow((15, 25), FirstCallback);
+        DoSomethingSlow(73, SecondCallback);
     }
 }
