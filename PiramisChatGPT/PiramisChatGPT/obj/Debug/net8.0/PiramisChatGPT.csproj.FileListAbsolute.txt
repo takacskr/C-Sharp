@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\bin\Debug\net8.0\PiramisChatGPT.exe
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\bin\Debug\net8.0\PiramisChatGPT.deps.json
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\bin\Debug\net8.0\PiramisChatGPT.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\bin\Debug\net8.0\PiramisChatGPT.dll
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\bin\Debug\net8.0\PiramisChatGPT.pdb
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\obj\Debug\net8.0\PiramisChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\obj\Debug\net8.0\PiramisChatGPT.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\obj\Debug\net8.0\PiramisChatGPT.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\obj\Debug\net8.0\PiramisChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\obj\Debug\net8.0\PiramisChatGPT.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\obj\Debug\net8.0\PiramisChatGPT.dll
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\obj\Debug\net8.0\refint\PiramisChatGPT.dll
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\obj\Debug\net8.0\PiramisChatGPT.pdb
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\obj\Debug\net8.0\PiramisChatGPT.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\PiramisChatGPT\PiramisChatGPT\obj\Debug\net8.0\ref\PiramisChatGPT.dll
