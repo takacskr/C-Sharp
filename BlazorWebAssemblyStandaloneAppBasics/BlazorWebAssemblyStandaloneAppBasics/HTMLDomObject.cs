@@ -1,12 +1,14 @@
 ﻿public class HTMLDomObject
 {
     public string id = "";
-    public string bgcolor = "red";
+    public string bgcolor = "";
+    public string text;
 
-    public HTMLDomObject(string id, string bgcolor = "")
+    public HTMLDomObject(string id, string bgcolor = "", string text = "")
     {
         this.id = id;
         this.bgcolor = bgcolor;
+        this.text = text;
     }
 }
 
