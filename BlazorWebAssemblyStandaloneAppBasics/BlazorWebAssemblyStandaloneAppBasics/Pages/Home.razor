@@ -5,3 +5,23 @@
 <h1>Hello, world!</h1>
 
 Welcome to your new app.
+@if (isPageLoaded)
+{
+    <input type="text" style="background-color: @HTMLDom.FindByID("input1").bgcolor">
+    <button @onclick='() => { ChangeColor("input1"); }'>xyz</button>
+}
+
+@code {
+    public bool isPageLoaded = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        HTMLDom.domObjects.Add(new HTMLDomObject("input1", "red"));
+        isPageLoaded = true;
+    }
+
+    public void ChangeColor (string id)
+    {
+        HTMLDom.FindByID("input1").bgcolor = "blue";
+    }
+}

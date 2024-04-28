@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\bin\Debug\net8.0\ConvertNumbers.exe
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\bin\Debug\net8.0\ConvertNumbers.deps.json
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\bin\Debug\net8.0\ConvertNumbers.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\bin\Debug\net8.0\ConvertNumbers.dll
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\bin\Debug\net8.0\ConvertNumbers.pdb
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\obj\Debug\net8.0\ConvertNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\obj\Debug\net8.0\ConvertNumbers.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\obj\Debug\net8.0\ConvertNumbers.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\obj\Debug\net8.0\ConvertNumbers.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\obj\Debug\net8.0\ConvertNumbers.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\obj\Debug\net8.0\ConvertNumbers.dll
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\obj\Debug\net8.0\refint\ConvertNumbers.dll
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\obj\Debug\net8.0\ConvertNumbers.pdb
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\obj\Debug\net8.0\ConvertNumbers.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\Convert\Convert\obj\Debug\net8.0\ref\ConvertNumbers.dll
