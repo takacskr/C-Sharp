@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\bin\Debug\net8.0\Piramis.exe
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\bin\Debug\net8.0\Piramis.deps.json
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\bin\Debug\net8.0\Piramis.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\bin\Debug\net8.0\Piramis.dll
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\bin\Debug\net8.0\Piramis.pdb
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\obj\Debug\net8.0\Piramis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\obj\Debug\net8.0\Piramis.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\obj\Debug\net8.0\Piramis.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\obj\Debug\net8.0\Piramis.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\obj\Debug\net8.0\Piramis.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\obj\Debug\net8.0\Piramis.dll
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\obj\Debug\net8.0\refint\Piramis.dll
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\obj\Debug\net8.0\Piramis.pdb
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\obj\Debug\net8.0\Piramis.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\Piramis\Piramis\obj\Debug\net8.0\ref\Piramis.dll

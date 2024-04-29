@@ -3,7 +3,7 @@
 namespace IEnumerator_IEnumerable
 {
     // Ez az interface a foreach-nek fogja szolgáltatni a megfelelő felületet
-    // A ciklus meghívja majd a GetEnumerator metódust és ez visszaadja majd
+    // A ciklus meghívja majd a GetEnumerator metódust és ez visszaadja
     // az osztályt IEnumerator-ként (implicit konverzió)
     public interface IEnumerable
     {
@@ -50,6 +50,9 @@ namespace IEnumerator_IEnumerable
             container.Add(new Animal("Füli"));
             container.Add(new Animal("Bundás"));
             container.Add(new Animal("Parizer"));
+            container.Add(new Animal("Zsömi"));
+            container.Add(new Animal("Aga"));
+            container.Add(new Animal("Fickó"));
         }
 
         // Implementáljuk az IEnumerator által igényelt metódusokat
@@ -74,8 +77,6 @@ namespace IEnumerator_IEnumerable
             return (IEnumerator)this;
         }
     }
-
-
 
     internal class Program
     {

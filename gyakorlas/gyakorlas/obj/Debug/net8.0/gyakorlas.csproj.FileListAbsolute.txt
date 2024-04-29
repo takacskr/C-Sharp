@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\obj\Debug\net8.0\gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\obj\Debug\net8.0\gyakorlas.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\obj\Debug\net8.0\gyakorlas.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\obj\Debug\net8.0\gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\obj\Debug\net8.0\gyakorlas.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\bin\Debug\net8.0\gyakorlas.exe
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\bin\Debug\net8.0\gyakorlas.deps.json
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\bin\Debug\net8.0\gyakorlas.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\bin\Debug\net8.0\gyakorlas.dll
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\bin\Debug\net8.0\gyakorlas.pdb
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\obj\Debug\net8.0\gyakorlas.dll
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\obj\Debug\net8.0\refint\gyakorlas.dll
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\obj\Debug\net8.0\gyakorlas.pdb
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\obj\Debug\net8.0\gyakorlas.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\gyakorlas\gyakorlas\obj\Debug\net8.0\ref\gyakorlas.dll

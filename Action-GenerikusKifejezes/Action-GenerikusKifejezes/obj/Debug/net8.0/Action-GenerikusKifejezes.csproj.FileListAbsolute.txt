@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\bin\Debug\net8.0\Action-GenerikusKifejezes.exe
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\bin\Debug\net8.0\Action-GenerikusKifejezes.deps.json
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\bin\Debug\net8.0\Action-GenerikusKifejezes.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\bin\Debug\net8.0\Action-GenerikusKifejezes.dll
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\bin\Debug\net8.0\Action-GenerikusKifejezes.pdb
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\obj\Debug\net8.0\Action-GenerikusKifejezes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\obj\Debug\net8.0\Action-GenerikusKifejezes.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\obj\Debug\net8.0\Action-GenerikusKifejezes.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\obj\Debug\net8.0\Action-GenerikusKifejezes.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\obj\Debug\net8.0\Action-GenerikusKifejezes.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\obj\Debug\net8.0\Action-GenerikusKifejezes.dll
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\obj\Debug\net8.0\refint\Action-GenerikusKifejezes.dll
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\obj\Debug\net8.0\Action-GenerikusKifejezes.pdb
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\obj\Debug\net8.0\Action-GenerikusKifejezes.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\Action-GenerikusKifejezes\Action-GenerikusKifejezes\obj\Debug\net8.0\ref\Action-GenerikusKifejezes.dll

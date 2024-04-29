@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\JoinMethod\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\JoinMethod\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90099AAC-9905-4E2C-9995-0142F43DF317}|JoinMethod\\JoinMethod.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\joinmethod\\joinmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{90099AAC-9905-4E2C-9995-0142F43DF317}|JoinMethod\\JoinMethod.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\joinmethod\\joinmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{90099AAC-9905-4E2C-9995-0142F43DF317}|JoinMethod\\JoinMethod.csproj|solutionrelative:joinmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\JoinMethod\\JoinMethod\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\JoinMethod\\JoinMethod\\Program.cs",
               "RelativeDocumentMoniker": "JoinMethod\\Program.cs",
-              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\JoinMethod\\JoinMethod\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\JoinMethod\\JoinMethod\\Program.cs",
               "RelativeToolTip": "JoinMethod\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-24T09:29:41.421Z",
               "EditorCaption": ""

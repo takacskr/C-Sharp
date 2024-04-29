@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\bin\Debug\net8.0\EqualOperator.exe
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\bin\Debug\net8.0\EqualOperator.deps.json
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\bin\Debug\net8.0\EqualOperator.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\bin\Debug\net8.0\EqualOperator.dll
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\bin\Debug\net8.0\EqualOperator.pdb
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\obj\Debug\net8.0\EqualOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\obj\Debug\net8.0\EqualOperator.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\obj\Debug\net8.0\EqualOperator.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\obj\Debug\net8.0\EqualOperator.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\obj\Debug\net8.0\EqualOperator.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\obj\Debug\net8.0\EqualOperator.dll
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\obj\Debug\net8.0\refint\EqualOperator.dll
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\obj\Debug\net8.0\EqualOperator.pdb
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\obj\Debug\net8.0\EqualOperator.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\EqualOperator\EqualOperator\obj\Debug\net8.0\ref\EqualOperator.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JoinMethod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8b7812629e9cf50a4c039a96bcf9b1991f51d67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3286fdb543f63f3ceae9ee9174053ab4603d231f")]
 [assembly: System.Reflection.AssemblyProductAttribute("JoinMethod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JoinMethod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

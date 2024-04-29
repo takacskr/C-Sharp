@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppWebsiteRAD", "BlazorAppWebsiteRAD\BlazorAppWebsiteRAD.csproj", "{6059B0CF-44C9-474E-920C-1CEF5F76E26C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6059B0CF-44C9-474E-920C-1CEF5F76E26C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6059B0CF-44C9-474E-920C-1CEF5F76E26C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6059B0CF-44C9-474E-920C-1CEF5F76E26C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6059B0CF-44C9-474E-920C-1CEF5F76E26C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D290945-40F7-4666-B13C-A945591096F5}
+	EndGlobalSection
+EndGlobal

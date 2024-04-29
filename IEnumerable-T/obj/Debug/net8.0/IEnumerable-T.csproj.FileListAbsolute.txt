@@ -1,0 +1,14 @@
+C:\Users\takac\source\IEnumerable-T\bin\Debug\net8.0\IEnumerable-T.exe
+C:\Users\takac\source\IEnumerable-T\bin\Debug\net8.0\IEnumerable-T.deps.json
+C:\Users\takac\source\IEnumerable-T\bin\Debug\net8.0\IEnumerable-T.runtimeconfig.json
+C:\Users\takac\source\IEnumerable-T\bin\Debug\net8.0\IEnumerable-T.dll
+C:\Users\takac\source\IEnumerable-T\bin\Debug\net8.0\IEnumerable-T.pdb
+C:\Users\takac\source\IEnumerable-T\obj\Debug\net8.0\IEnumerable-T.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\IEnumerable-T\obj\Debug\net8.0\IEnumerable-T.AssemblyInfoInputs.cache
+C:\Users\takac\source\IEnumerable-T\obj\Debug\net8.0\IEnumerable-T.AssemblyInfo.cs
+C:\Users\takac\source\IEnumerable-T\obj\Debug\net8.0\IEnumerable-T.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\IEnumerable-T\obj\Debug\net8.0\IEnumerable-T.dll
+C:\Users\takac\source\IEnumerable-T\obj\Debug\net8.0\refint\IEnumerable-T.dll
+C:\Users\takac\source\IEnumerable-T\obj\Debug\net8.0\IEnumerable-T.pdb
+C:\Users\takac\source\IEnumerable-T\obj\Debug\net8.0\IEnumerable-T.genruntimeconfig.cache
+C:\Users\takac\source\IEnumerable-T\obj\Debug\net8.0\ref\IEnumerable-T.dll

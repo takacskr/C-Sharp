@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StatikusTagok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+897ae63ab87fc6aa69995d9926ad1d0870fb5c4c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3286fdb543f63f3ceae9ee9174053ab4603d231f")]
 [assembly: System.Reflection.AssemblyProductAttribute("StatikusTagok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StatikusTagok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

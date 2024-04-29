@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\bin\Debug\net8.0\Callback1.exe
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\bin\Debug\net8.0\Callback1.deps.json
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\bin\Debug\net8.0\Callback1.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\bin\Debug\net8.0\Callback1.dll
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\bin\Debug\net8.0\Callback1.pdb
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\obj\Debug\net8.0\Callback1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\obj\Debug\net8.0\Callback1.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\obj\Debug\net8.0\Callback1.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\obj\Debug\net8.0\Callback1.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\obj\Debug\net8.0\Callback1.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\obj\Debug\net8.0\Callback1.dll
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\obj\Debug\net8.0\refint\Callback1.dll
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\obj\Debug\net8.0\Callback1.pdb
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\obj\Debug\net8.0\Callback1.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\Callback1\Callback1\obj\Debug\net8.0\ref\Callback1.dll
