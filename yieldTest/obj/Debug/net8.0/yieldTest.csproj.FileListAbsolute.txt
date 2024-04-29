@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\bin\Debug\net8.0\yieldTest.exe
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\bin\Debug\net8.0\yieldTest.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\bin\Debug\net8.0\yieldTest.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\bin\Debug\net8.0\yieldTest.dll
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\bin\Debug\net8.0\yieldTest.pdb
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\obj\Debug\net8.0\yieldTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\obj\Debug\net8.0\yieldTest.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\obj\Debug\net8.0\yieldTest.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\obj\Debug\net8.0\yieldTest.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\obj\Debug\net8.0\yieldTest.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\obj\Debug\net8.0\yieldTest.dll
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\obj\Debug\net8.0\refint\yieldTest.dll
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\obj\Debug\net8.0\yieldTest.pdb
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\obj\Debug\net8.0\yieldTest.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest\obj\Debug\net8.0\ref\yieldTest.dll

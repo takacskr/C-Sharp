@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\gyak2\\",
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\gyak2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{32311C19-7F00-40BF-9193-C3F72FFC5D1C}|gyak2\\gyak2.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\gyak2\\gyak2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{32311C19-7F00-40BF-9193-C3F72FFC5D1C}|gyak2\\gyak2.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\gyak2\\gyak2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{32311C19-7F00-40BF-9193-C3F72FFC5D1C}|gyak2\\gyak2.csproj|solutionrelative:gyak2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\gyak2\\gyak2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\gyak2\\gyak2\\Program.cs",
               "RelativeDocumentMoniker": "gyak2\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\gyak2\\gyak2\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\gyak2\\gyak2\\Program.cs",
               "RelativeToolTip": "gyak2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T09:35:05.026Z",
               "EditorCaption": ""

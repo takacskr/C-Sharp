@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\gyakorlas\\",
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\gyakorlas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{06DF2A8F-1D31-4B1B-9880-C6198285CBD6}|gyakorlas\\gyakorlas.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\gyakorlas\\gyakorlas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{06DF2A8F-1D31-4B1B-9880-C6198285CBD6}|gyakorlas\\gyakorlas.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\gyakorlas\\gyakorlas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{06DF2A8F-1D31-4B1B-9880-C6198285CBD6}|gyakorlas\\gyakorlas.csproj|solutionrelative:gyakorlas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\gyakorlas\\gyakorlas\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\gyakorlas\\gyakorlas\\Program.cs",
               "RelativeDocumentMoniker": "gyakorlas\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\gyakorlas\\gyakorlas\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\gyakorlas\\gyakorlas\\Program.cs",
               "RelativeToolTip": "gyakorlas\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T09:25:35.152Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\obj\Debug\net8.0\yieldTest2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\obj\Debug\net8.0\yieldTest2.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\obj\Debug\net8.0\yieldTest2.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\obj\Debug\net8.0\yieldTest2.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\obj\Debug\net8.0\yieldTest2.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\bin\Debug\net8.0\yieldTest2.exe
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\bin\Debug\net8.0\yieldTest2.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\bin\Debug\net8.0\yieldTest2.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\bin\Debug\net8.0\yieldTest2.dll
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\bin\Debug\net8.0\yieldTest2.pdb
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\obj\Debug\net8.0\yieldTest2.dll
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\obj\Debug\net8.0\refint\yieldTest2.dll
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\obj\Debug\net8.0\yieldTest2.pdb
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\obj\Debug\net8.0\yieldTest2.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\yieldTest2\obj\Debug\net8.0\ref\yieldTest2.dll

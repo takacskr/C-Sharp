@@ -10,6 +10,7 @@ Welcome to your new app.
 {
     <input type="text" @bind-value='HTMLDom.FindByID("input1").text' style="background-color: @HTMLDom.FindByID("input1").bgcolor">
     <input type="text" @bind-value='HTMLDom.FindByID("input2").text' style="background-color: @HTMLDom.FindByID("input2").bgcolor">
+    
     <button @onclick='() => { ChangeColor("input1"); }'>xyz</button>
     @HTMLDom.FindByID("input1").text
 }
