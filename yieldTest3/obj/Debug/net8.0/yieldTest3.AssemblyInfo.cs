@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("yieldTest3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06e158d68e832f0753416f8128f51e7843886074")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6646b41ac0fd2734887fa6f3fbdd87ae97eb5d24")]
 [assembly: System.Reflection.AssemblyProductAttribute("yieldTest3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("yieldTest3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
