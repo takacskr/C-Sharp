@@ -18,7 +18,7 @@ public static class HTMLDom
 
     public static HTMLDomObject FindByID(string id)
     {
-        HTMLDomObject found = domObjects.FirstOrDefault(x => x.id == id);
+        HTMLDomObject? found = domObjects.FirstOrDefault(x => x.id == id);
 
         if (found == null)
         {

@@ -2,9 +2,44 @@
 
 <PageTitle>Home</PageTitle>
 
-<h1>Hello, world!</h1>
+<div style="color: blue">This is a blue text.</div>
 
-Welcome to your new app.
+@if (xyz)
+{
+    <div style="color: blue">This is a blue text.</div>
+    <div style="color: blue">This is a blue text.</div>
+    <div style="color: blue">This is a blue text.</div>
+    <div style="color: blue">This is a blue text.</div>
+    <div style="color: blue">This is a blue text.</div>
+}
+
+
+<div @ref="myDiv1" class="@myClass">This is a red text.</div>
+
+@code {
+    private ElementReference myDiv1;
+    private string myClass = "red-text";
+}
+
+
+<div @ref="myDiv2" style="@myStyle">Hello World!</div>
+
+@code {
+    private ElementReference myDiv2;
+    private string myStyle = "color: red";
+
+    private bool firstRender = true;
+
+    protected override void OnInitialized()
+    {
+        if (firstRender)
+        {
+            myStyle = "color: green";
+            firstRender = false;
+        }
+    }
+}
+
 
 @if (isPageLoaded)
 {
@@ -17,6 +52,7 @@ Welcome to your new app.
 
 @code {
     public bool isPageLoaded = false;
+    public bool xyz = false;
 
     protected override async Task OnInitializedAsync()
     {
@@ -28,5 +64,9 @@ Welcome to your new app.
     public void ChangeColor (string id)
     {
         HTMLDom.FindByID(id).bgcolor = "blue";
+        xyz = true;
+
+        // Újra rendereli az oldalt!
+        StateHasChanged();
     }
 }

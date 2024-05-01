@@ -1,43 +1,43 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
     },
     {
-      "Id": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\obj\\Debug\\net8.0\\compressed\\dpczdgipex.gz",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\obj\\Debug\\net8.0\\compressed\\kwscjxu73t.gz",
       "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
     },
     {
-      "Id": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorWebAssemblyStandaloneAppBasics.styles.css",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorWebAssemblyStandaloneAppBasics.styles.css",
       "PackagePath": "staticwebassets\\BlazorWebAssemblyStandaloneAppBasics.styles.css"
     },
     {
-      "Id": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\css\\app.css",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
     {
-      "Id": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {
-      "Id": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\icon-192.png",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\icon-192.png",
       "PackagePath": "staticwebassets\\icon-192.png"
     },
     {
-      "Id": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\index.html",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\index.html",
       "PackagePath": "staticwebassets\\index.html"
     },
     {
-      "Id": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\sample-data\\weather.json",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\sample-data\\weather.json",
       "PackagePath": "staticwebassets\\sample-data\\weather.json"
     },
     {

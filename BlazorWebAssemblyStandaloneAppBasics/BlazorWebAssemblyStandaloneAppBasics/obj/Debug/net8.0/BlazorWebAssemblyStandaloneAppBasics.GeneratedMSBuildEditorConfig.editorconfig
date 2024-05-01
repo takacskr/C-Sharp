@@ -13,39 +13,39 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = browser
 build_property.RootNamespace = BlazorWebAssemblyStandaloneAppBasics
 build_property.RootNamespace = BlazorWebAssemblyStandaloneAppBasics
-build_property.ProjectDir = C:\Users\Sugár\source\repos\C-Sharp\BlazorWebAssemblyStandaloneAppBasics\BlazorWebAssemblyStandaloneAppBasics\
+build_property.ProjectDir = C:\Users\takac\source\repos\C-Sharp\BlazorWebAssemblyStandaloneAppBasics\BlazorWebAssemblyStandaloneAppBasics\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = false
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Sugár\source\repos\C-Sharp\BlazorWebAssemblyStandaloneAppBasics\BlazorWebAssemblyStandaloneAppBasics
+build_property.MSBuildProjectDirectory = C:\Users\takac\source\repos\C-Sharp\BlazorWebAssemblyStandaloneAppBasics\BlazorWebAssemblyStandaloneAppBasics
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Sugár/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/App.razor]
+[C:/Users/takac/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sugár/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/Pages/Counter.razor]
+[C:/Users/takac/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sugár/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/Pages/Home.razor]
+[C:/Users/takac/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSG9tZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sugár/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/Pages/Weather.razor]
+[C:/Users/takac/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV2VhdGhlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sugár/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/_Imports.razor]
+[C:/Users/takac/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Sugár/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/Layout/MainLayout.razor]
+[C:/Users/takac/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-h068be3sbw
 
-[C:/Users/Sugár/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/Layout/NavMenu.razor]
+[C:/Users/takac/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = b-aq7rlnld7c
