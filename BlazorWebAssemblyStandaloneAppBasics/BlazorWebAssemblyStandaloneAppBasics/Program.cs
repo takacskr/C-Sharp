@@ -1,3 +1,4 @@
+using BlazorWebAssemblyStandaloneAppBasics.wwwroot.Data;
 using Microsoft.AspNetCore.Components.Web;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 
@@ -13,7 +14,11 @@ namespace BlazorWebAssemblyStandaloneAppBasics
 
             builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri(builder.HostEnvironment.BaseAddress) });
 
+            builder.Services.AddSingleton<EmployeeService>();
+
             await builder.Build().RunAsync();
+
+
         }
     }
 }

@@ -22,6 +22,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\takac\source\repos\C-Sharp\BlazorWebAssemblyStandaloneAppBasics\BlazorWebAssemblyStandaloneAppBasics
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/takac/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/wwwroot/Components/EmployeeCard.razor]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxDb21wb25lbnRzXEVtcGxveWVlQ2FyZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/takac/source/repos/C-Sharp/BlazorWebAssemblyStandaloneAppBasics/BlazorWebAssemblyStandaloneAppBasics/App.razor]
 build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 

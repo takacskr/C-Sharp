@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\BlazorWebAssemblyStandaloneAppBasics.styles.css"
     },
     {
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\Components\\EmployeeCard.razor",
+      "PackagePath": "staticwebassets\\Components\\EmployeeCard.razor"
+    },
+    {
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\Data\\EmployeeModel.cs",
+      "PackagePath": "staticwebassets\\Data\\EmployeeModel.cs"
+    },
+    {
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\Data\\EmployeeService.cs",
+      "PackagePath": "staticwebassets\\Data\\EmployeeService.cs"
+    },
+    {
       "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\css\\app.css",
       "PackagePath": "staticwebassets\\css\\app.css"
     },
@@ -23,6 +35,10 @@
     {
       "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\employee.jpg",
+      "PackagePath": "staticwebassets\\employee.jpg"
     },
     {
       "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\favicon.png",
