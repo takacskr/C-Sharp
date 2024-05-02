@@ -18,7 +18,11 @@
         // Az alkalmazottak adatainak lekérdezése aszinkron módon
         public Task<EmployeeModel[]> GetEmployeeAsync(DateTime startDate)
         {
-            // Visszatér egy feladattal, ami megadja az alkalmazottakat
+            /*
+             * A metódus belső része során az alkalmazottak adatait előállítják és egy tömbbe rendezik,
+             * majd visszaadják ezt a tömböt a Task.FromResult metódus segítségével. Ez a metódus létrehoz
+             * egy befejezett Task objektumot, amelynek eredménye a megadott érték lesz.
+             */
             return Task.FromResult(Enumerable.Range(0, 5).Select(index => new EmployeeModel
             {
                 // Az alkalmazott belépési dátuma az adott dátumtól számított napok alapján
