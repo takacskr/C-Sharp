@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.BlazorWebAssembly">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="wwwroot\Data\**" />
+    <Content Remove="wwwroot\Data\**" />
+    <EmbeddedResource Remove="wwwroot\Data\**" />
+    <None Remove="wwwroot\Data\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\employee.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly" Version="8.0.4" />
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.DevServer" Version="8.0.4" PrivateAssets="all" />
+  </ItemGroup>
+
+</Project>
