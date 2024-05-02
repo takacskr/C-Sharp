@@ -1,10 +1,11 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics2\\",
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorwebassemblystandaloneappbasics2\\blazorwebassemblystandaloneappbasics\\wwwroot\\data\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorwebassemblystandaloneappbasics2\\blazorwebassemblystandaloneappbasics\\wwwroot\\data\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|solutionrelative:blazorwebassemblystandaloneappbasics\\wwwroot\\data\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+<<<<<<< HEAD
     },
     {
       "AbsoluteMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorwebassemblystandaloneappbasics2\\blazorwebassemblystandaloneappbasics\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,6 +14,8 @@
     {
       "AbsoluteMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorwebassemblystandaloneappbasics2\\blazorwebassemblystandaloneappbasics\\wwwroot\\data\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|solutionrelative:blazorwebassemblystandaloneappbasics\\wwwroot\\data\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+>>>>>>> ca9c14793bf1db320e143128928101a67d7ad557
     }
   ],
   "DocumentGroupContainers": [
@@ -32,10 +35,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "EmployeeService.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics2\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\Data\\EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics2\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\Data\\EmployeeService.cs",
               "RelativeDocumentMoniker": "BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\Data\\EmployeeService.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics2\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\Data\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics2\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\Data\\EmployeeService.cs",
               "RelativeToolTip": "BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\Data\\EmployeeService.cs",
+<<<<<<< HEAD
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-01T19:46:19.332Z",
@@ -64,6 +68,11 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-01T19:45:19.282Z",
+=======
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T12:21:01.774Z",
+>>>>>>> ca9c14793bf1db320e143128928101a67d7ad557
               "EditorCaption": ""
             }
           ]

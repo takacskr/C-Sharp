@@ -1,6 +1,12 @@
 ﻿@using BlazorWebAssemblyStandaloneAppBasics.wwwroot.Components
 @using BlazorWebAssemblyStandaloneAppBasics.wwwroot.Data
 @inject EmployeeService EmployeeService
+<<<<<<< HEAD
+=======
+
+@page "/"
+
+>>>>>>> ca9c14793bf1db320e143128928101a67d7ad557
 
 @page "/"
 
@@ -14,7 +20,7 @@ else
         <div class="row">
             @foreach (var employee in employeeDetails)
             {
-                <div class="col-lg-4 mb-2">
+                <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 mb-2">
                     <EmployeeCard Name=@employee.Name Image=@employee.Image ID=@employee.ID Joined=@employee.Joined.ToShortDateString() Email=@employee.Email></EmployeeCard>
                 </div>
             }
