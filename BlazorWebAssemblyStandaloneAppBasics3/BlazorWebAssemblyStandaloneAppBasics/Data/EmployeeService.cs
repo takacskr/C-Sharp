@@ -37,17 +37,6 @@ namespace Data
             }
 
             return employeeModels;
-
-            /*
-                return Task.FromResult(Enumerable.Range(0, 5).Select(index => new EmployeeModel
-                {
-                    joined = startDate.AddDays(index),
-                    name = exampleNames[index],
-                    email = exampleMail[index],
-                    image = "../img/" + exampleNames[index] + ".jpg",
-                    id = Random.Shared.Next(200, 555)
-                }).ToArray());
-            */
         }
     }
 }
