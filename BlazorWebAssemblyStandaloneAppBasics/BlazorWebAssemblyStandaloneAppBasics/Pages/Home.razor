@@ -5,33 +5,15 @@
 
 asdasdsad<br><br>
 
+<PageTitle>Home</PageTitle>
+
 @foreach (Employee e in employees)
 {
     <EmployeeCard Image="./employee.jpg" Name="@e.name" ID="124" Joined="12th July 2012" Email="@e.email"></EmployeeCard>
 }
 
-<PageTitle>Home</PageTitle>
-
-
-<div style="color: blue">This is a blue text.</div>
-
-@if (xyz)
-{
-    <div style="color: blue">This is a blue text.</div>
-    <div style="color: blue">This is a blue text.</div>
-    <div style="color: blue">This is a blue text.</div>
-    <div style="color: blue">This is a blue text.</div>
-    <div style="color: blue">This is a blue text.</div>
-}
-
-
-<div @ref="myDiv1" class="@myClass">This is a red text.</div>
-
 @code {
     public List<Employee> employees = new List<Employee>();
-
-    private ElementReference myDiv1;
-    private string myClass = "red-text";
 
     protected override async Task OnAfterRenderAsync(bool isFirst)
     {
@@ -50,7 +32,28 @@ asdasdsad<br><br>
             this.email = email;
         }
     }
+
+    private ElementReference myDiv1;
+    private string myClass = "red-text";
 }
+
+
+
+<div style="color: blue">This is a blue text.</div>
+
+@if (xyz)
+{
+    <div style="color: blue">This is a blue text.</div>
+    <div style="color: blue">This is a blue text.</div>
+    <div style="color: blue">This is a blue text.</div>
+    <div style="color: blue">This is a blue text.</div>
+    <div style="color: blue">This is a blue text.</div>
+}
+
+
+<div @ref="myDiv1" class="@myClass">This is a red text.</div>
+
+
 
 
 <div @ref="myDiv2" style="@myStyle">Hello World!</div>

@@ -1,6 +1,10 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "JHfOULL7zjEJRtKJ4XAKKNOCUfVa91zxm30dA5PLEZY2q7LcL8tYUNcKSvnjcFEE7P11GppRLv7OHFaJ8iWAsg==",
+=======
+  "dgSpecHash": "+hCQe8f+t4lIMQW4Ic3Uk/90+fnMcXd09uMMSXGZ3zWg4Uvxij65nEjK1bnrOZQ7A4DMD+p1pNEZPnDkvxi+ZQ==",
+>>>>>>> 24955c4885f8a03dd459940f0abed62438c77216
   "success": true,
   "projectFilePath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\TaskOsztaly3\\TaskOsztaly3\\TaskOsztaly3.csproj",
   "expectedPackageFiles": [],
