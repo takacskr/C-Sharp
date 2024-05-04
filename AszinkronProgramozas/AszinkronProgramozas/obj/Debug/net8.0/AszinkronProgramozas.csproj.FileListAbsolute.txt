@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\bin\Debug\net8.0\AszinkronProgramozas.exe
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\bin\Debug\net8.0\AszinkronProgramozas.deps.json
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\bin\Debug\net8.0\AszinkronProgramozas.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\bin\Debug\net8.0\AszinkronProgramozas.dll
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\bin\Debug\net8.0\AszinkronProgramozas.pdb
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\obj\Debug\net8.0\AszinkronProgramozas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\obj\Debug\net8.0\AszinkronProgramozas.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\obj\Debug\net8.0\AszinkronProgramozas.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\obj\Debug\net8.0\AszinkronProgramozas.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\obj\Debug\net8.0\AszinkronProgramozas.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\obj\Debug\net8.0\AszinkronProgramozas.dll
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\obj\Debug\net8.0\refint\AszinkronProgramozas.dll
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\obj\Debug\net8.0\AszinkronProgramozas.pdb
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\obj\Debug\net8.0\AszinkronProgramozas.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\AszinkronProgramozas\AszinkronProgramozas\obj\Debug\net8.0\ref\AszinkronProgramozas.dll
