@@ -30,7 +30,7 @@ class Program
         Console.WriteLine("Kép letöltése elkezdődött...");
 
         // Kép letöltésének szimulálása 3 másodpercig
-        await Task.Delay(3000);
+        await Task.Delay(2000);
 
         Console.WriteLine("Kép letöltése befejeződött.");
         // Valós kép adat helyett most üres tömböt adunk vissza
