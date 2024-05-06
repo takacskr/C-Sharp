@@ -1,18 +1,7 @@
 ﻿using System;
+using System.Reflection.Metadata;
 using System.Threading.Tasks;
 
-/*
-    Output:
-    Main task started
-    Background task started
-    Main task is not blocked, iteration 0
-    Main task is not blocked, iteration 1
-    Main task is not blocked, iteration 2
-    Main task is not blocked, iteration 3
-    Main task is not blocked, iteration 4
-    Background task completed
-    Main task completed
- */
 
 class Program
 {
@@ -20,26 +9,37 @@ class Program
     {
         Console.WriteLine("Main task started");
 
-        // Start a background task that takes 5 seconds to complete
-        Task backgroundTask = DoBackgroundWorkAsync();
+        SetImage("asd", null); // runs in bg, next line starts immidiately
 
-        // Continue executing the main task while the background task runs
+        int x = await DoBackgroundWorkAsync(); // wait for result, set result as x
+
+        await SetImage("asd", null); // wait for image to be updated, then next line
+
         for (int i = 0; i < 5; i++)
         {
             Console.WriteLine("Main task is not blocked, iteration " + i);
-            await Task.Delay(1500); // wait for 1 second
+            await Task.Delay(1500);
         }
 
-        // Wait for the background task to complete
-        await backgroundTask;
-
         Console.WriteLine("Main task completed");
+        Console.ReadLine();
     }
 
-    static async Task DoBackgroundWorkAsync()
+    static async Task<int> DoBackgroundWorkAsync()
     {
         Console.WriteLine("Background task started");
-        await Task.Delay(5000); // simulate 5 seconds of work
+        await Task.Delay(5000);
         Console.WriteLine("Background task completed");
+
+        return 0;
+    }
+
+    static async Task SetImage(string url, object targetContainerImg)
+    {
+        Console.WriteLine("Background task started");
+        await Task.Delay(5000); // download image from url
+        Console.WriteLine("Background task completed");
+
+        // targetContainerImg.image = urlResultImage.bytes;
     }
 }
