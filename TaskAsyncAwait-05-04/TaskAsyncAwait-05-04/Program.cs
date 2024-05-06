@@ -2,6 +2,7 @@
 using System.Threading.Tasks;
 
 /*
+    Output:
     Main task started
     Background task started
     Main task is not blocked, iteration 0
@@ -26,7 +27,7 @@ class Program
         for (int i = 0; i < 5; i++)
         {
             Console.WriteLine("Main task is not blocked, iteration " + i);
-            await Task.Delay(1000); // wait for 1 second
+            await Task.Delay(1500); // wait for 1 second
         }
 
         // Wait for the background task to complete
