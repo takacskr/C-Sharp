@@ -9,7 +9,7 @@ class Program
     {
         Console.WriteLine("Main task started");
 
-        SetImage("asd", null); // runs in bg, next line starts immidiately
+        SetImage("https://www.emblemazottpolo.hu/bigimage.jpg", null); // runs in bg, next line starts immidiately
 
         int x = await DoBackgroundWorkAsync(); // wait for result, set result as x
 
@@ -18,7 +18,7 @@ class Program
         for (int i = 0; i < 5; i++)
         {
             Console.WriteLine("Main task is not blocked, iteration " + i);
-            await Task.Delay(1500);
+            await Task.Delay(500);
         }
 
         Console.WriteLine("Main task completed");
@@ -27,18 +27,18 @@ class Program
 
     static async Task<int> DoBackgroundWorkAsync()
     {
-        Console.WriteLine("Background task started");
+        Console.WriteLine("Another background task started");
         await Task.Delay(5000);
-        Console.WriteLine("Background task completed");
+        Console.WriteLine("Another background task completed");
 
         return 0;
     }
 
     static async Task SetImage(string url, object targetContainerImg)
     {
-        Console.WriteLine("Background task started");
-        await Task.Delay(5000); // download image from url
-        Console.WriteLine("Background task completed");
+        Console.WriteLine("Background task started (setting image...)");
+        await Task.Delay(2000); // download image from url
+        Console.WriteLine("Background task completed (image is ready)");
 
         // targetContainerImg.image = urlResultImage.bytes;
     }

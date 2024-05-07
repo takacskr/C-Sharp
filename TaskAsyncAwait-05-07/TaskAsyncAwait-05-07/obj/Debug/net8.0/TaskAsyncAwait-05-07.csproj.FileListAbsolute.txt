@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\bin\Debug\net8.0\TaskAsyncAwait-05-07.exe
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\bin\Debug\net8.0\TaskAsyncAwait-05-07.deps.json
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\bin\Debug\net8.0\TaskAsyncAwait-05-07.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\bin\Debug\net8.0\TaskAsyncAwait-05-07.dll
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\bin\Debug\net8.0\TaskAsyncAwait-05-07.pdb
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\obj\Debug\net8.0\TaskAsyncAwait-05-07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\obj\Debug\net8.0\TaskAsyncAwait-05-07.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\obj\Debug\net8.0\TaskAsyncAwait-05-07.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\obj\Debug\net8.0\TaskAsyncAwait-05-07.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\obj\Debug\net8.0\TaskAsyncAwait-05-07.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\obj\Debug\net8.0\TaskAsyncAwait-05-07.dll
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\obj\Debug\net8.0\refint\TaskAsyncAwait-05-07.dll
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\obj\Debug\net8.0\TaskAsyncAwait-05-07.pdb
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\obj\Debug\net8.0\TaskAsyncAwait-05-07.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\TaskAsyncAwait-05-07\TaskAsyncAwait-05-07\obj\Debug\net8.0\ref\TaskAsyncAwait-05-07.dll
