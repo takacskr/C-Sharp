@@ -33,12 +33,10 @@ class Program
         Console.ReadLine();
     }
 
-    static async Task<int> DoBackgroundWorkAsync()
+    static async Task DoBackgroundWorkAsync()
     {
         Console.WriteLine("Another background task started");
         await Task.Delay(4000);
         Console.WriteLine("Another background task completed");
-
-        return 0;
     }
 }
