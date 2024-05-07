@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\bin\Debug\net8.0\DoThingsAsync.exe
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\bin\Debug\net8.0\DoThingsAsync.deps.json
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\bin\Debug\net8.0\DoThingsAsync.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\bin\Debug\net8.0\DoThingsAsync.dll
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\bin\Debug\net8.0\DoThingsAsync.pdb
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\obj\Debug\net8.0\DoThingsAsync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\obj\Debug\net8.0\DoThingsAsync.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\obj\Debug\net8.0\DoThingsAsync.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\obj\Debug\net8.0\DoThingsAsync.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\obj\Debug\net8.0\DoThingsAsync.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\obj\Debug\net8.0\DoThingsAsync.dll
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\obj\Debug\net8.0\refint\DoThingsAsync.dll
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\obj\Debug\net8.0\DoThingsAsync.pdb
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\obj\Debug\net8.0\DoThingsAsync.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\DoThingsAsync\DoThingsAsync\obj\Debug\net8.0\ref\DoThingsAsync.dll
