@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -34,11 +30,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\Pages\\Weather.razor",
@@ -55,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "App.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\App.razor",
               "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\App.razor",
@@ -63,12 +59,11 @@
               "RelativeToolTip": "BlazorAppMySQLMod\\Components\\App.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-08T18:22:43.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T18:22:43.14Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Program.cs",
               "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Program.cs",
@@ -76,25 +71,11 @@
               "RelativeToolTip": "BlazorAppMySQLMod\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-08T17:39:37.607Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-08T17:39:37.607Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\app.css",
-              "RelativeDocumentMoniker": "BlazorAppMySQLMod\\wwwroot\\app.css",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\app.css",
-              "RelativeToolTip": "BlazorAppMySQLMod\\wwwroot\\app.css",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAD8AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-08T17:34:54.375Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\Pages\\Counter.razor",
@@ -102,8 +83,7 @@
               "RelativeToolTip": "BlazorAppMySQLMod\\Components\\Pages\\Counter.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-29T15:54:34.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-29T15:54:34.969Z"
             },
             {
               "$type": "Document",
@@ -113,7 +93,7 @@
               "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "BlazorAppMySQLMod\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "ViewState": "AQIAAFQAAAAAAAAAAAASwGMAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-26T18:48:34.719Z",
               "EditorCaption": ""
