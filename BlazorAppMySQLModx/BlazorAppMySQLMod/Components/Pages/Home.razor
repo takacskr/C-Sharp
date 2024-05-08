@@ -133,27 +133,4 @@
             isDraggingOver = false;
         }
     }
-
-    /*async Task StartDrag(DragEventArgs e)
-    {
-        await e.DataTransfer.SetDataAsync("text", "dragged-item");
-    }
-
-    void EndDrag(DragEventArgs e)
-    {
-        Console.WriteLine("Drag ended");
-    }
-
-    void AllowDrop(DragEventArgs e)
-    {
-        e.PreventDefault();
-    }
-
-    async Task Drop(DragEventArgs e)
-    {
-        Console.WriteLine("Dropped!");
-        // Get the dragged item data
-        string draggedItem = await e.DataTransfer.GetDataAsync("text");
-        Console.WriteLine($"Dragged item: {draggedItem}");
-    }*/
 }
