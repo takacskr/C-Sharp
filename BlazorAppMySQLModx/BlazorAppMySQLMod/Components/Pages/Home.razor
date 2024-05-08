@@ -23,7 +23,7 @@
 <div @ondragstart="StartDrag"
      @ondragend="EndDrag"
      draggable="true"
-     style="background-color: blue; padding: 10px; border: 1px solid #ccc; cursor: move;">
+     style="background-color: steelblue; padding: 10px; border: 1px solid #ccc; cursor: move; height: 100px; width: 100px;">
     Drag me!
 </div>
 
@@ -53,7 +53,7 @@
     protected override async Task OnInitializedAsync()
     {
         dropZones.Add(new DropZone("name one", "red"));
-        dropZones.Add(new DropZone("name two", "blue"));
+        dropZones.Add(new DropZone("name two", "yellow"));
 
         await Task.Delay(1500);
         isLoaded = true;
