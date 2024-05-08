@@ -9,7 +9,9 @@
 
 
 
-<button type="button" class="btn btn-primary" @onclick='() => { ShowAlert("Test alert"); }'>Click me for the alert!</button>
+<button type="button" class="btn btn-primary"
+    @onclick='() => { ShowAlert("Test alert"); }'>Click me for the alert!
+</button>
 
 @code {
     public void ShowAlert(string msg)
@@ -20,10 +22,11 @@
 
 <h1>Drag and Drop Example</h1>
 
-<div @ondragstart="StartDrag"
-     @ondragend="EndDrag"
-     draggable="true"
-     style="background-color: steelblue; padding: 10px; border: 1px solid #ccc; cursor: move; height: 100px; width: 100px;">
+<div
+    class="draggable"
+    @ondragstart="StartDrag"
+    @ondragend="EndDrag"
+    draggable="true">
     Drag me!
 </div>
 
@@ -43,11 +46,6 @@
     public bool isLoaded = false;
 
     public bool isDragging = false;
-    public bool isOverDropZone = false;
-    public bool didZoneExit = false;
-
-    public DropZone selectedDropZone = null;
-
     public List<DropZone> dropZones = new List<DropZone>();
 
     protected override async Task OnInitializedAsync()
@@ -62,33 +60,27 @@
     public void StartDrag()
     {
         isDragging = true;
-        isOverDropZone = false;
-        didZoneExit = false;
     }
 
     public void EndDrag()
     {
         isDragging = false;
+        DropZone? dropTarget = null;
 
-        if (didZoneExit && selectedDropZone != null)
+        foreach (DropZone dz in dropZones)
+            if (dz.isDraggingOver)
+                dropTarget = dz;
+        
+        if (dropTarget != null)
         {
-            ShowAlert(selectedDropZone.name);
+            ShowAlert(dropTarget.name);
         }
-        else
-        {
-        }
-
-        selectedDropZone = null;
     }
 
     public void EnterDropZone(DropZone target)
     {
         if (!isDragging)
             return;
-
-        selectedDropZone = target;
-        isOverDropZone = true;
-        didZoneExit = false;
 
         target.DraggingEnter();
     }
@@ -98,9 +90,6 @@
         if (!isDragging)
             return;
 
-        isOverDropZone = false;
-        didZoneExit = true;
-
         target.DraggingExit();
     }
 
@@ -108,10 +97,9 @@
     {
         public string name = "undefined";
         public string color = "red";
+        private string originalColor = "";
 
         public bool isDraggingOver = false;
-
-        private string originalColor = "";
 
         public DropZone(string name, string color)
         {
@@ -127,9 +115,12 @@
             isDraggingOver = true;
         }
 
-        public void DraggingExit()
+        public async Task DraggingExit()
         {
             color = originalColor;
+
+            await Task.Delay(10);
+
             isDraggingOver = false;
         }
     }

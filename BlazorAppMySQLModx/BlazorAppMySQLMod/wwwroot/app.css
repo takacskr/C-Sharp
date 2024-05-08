@@ -53,3 +53,12 @@ h1:focus {
 .darker-border-checkbox.form-check-input {
     border-color: #929292;
 }
+
+.draggable {
+    background-color: steelblue;
+    padding: 10px;
+    border: 1px solid #ccc;
+    cursor: move;
+    height: 100px;
+    width: 100px;
+}
