@@ -1,7 +1,159 @@
 ﻿@page "/"
+@using Microsoft.AspNetCore.Components.Web
+@rendermode InteractiveServer
+@inject IJSRuntime JSRuntime
 
 <PageTitle>Home</PageTitle>
 
 <h1>Hello, world!</h1>
 
 
+
+<button type="button" class="btn btn-primary" @onclick='() => { ShowAlert("Test alert"); }'>Click me for the alert!</button>
+
+@code {
+    public void ShowAlert(string msg)
+    {
+        JSRuntime.InvokeVoidAsync("alert", msg);
+    }
+}
+
+<h1>Drag and Drop Example</h1>
+
+<div @ondragstart="StartDrag"
+     @ondragend="EndDrag"
+     draggable="true"
+     style="background-color: blue; padding: 10px; border: 1px solid #ccc; cursor: move;">
+    Drag me!
+</div>
+
+@if (isLoaded)
+{
+    @foreach (DropZone dz in dropZones)
+    {
+        <div @ondragenter="() => { EnterDropZone(dz); }"
+             @ondragleave="() => { ExitDropZone(dz); }"
+             style="background-color: @dz.color; padding: 10px; border: 1px solid #ccc; height: 100px; width: 100px;">
+            @dz.name
+        </div>
+    }
+}
+
+@code {
+    public bool isLoaded = false;
+
+    public bool isDragging = false;
+    public bool isOverDropZone = false;
+    public bool didZoneExit = false;
+
+    public DropZone selectedDropZone = null;
+
+    public List<DropZone> dropZones = new List<DropZone>();
+
+    protected override async Task OnInitializedAsync()
+    {
+        dropZones.Add(new DropZone("name one", "red"));
+        dropZones.Add(new DropZone("name two", "blue"));
+
+        await Task.Delay(1500);
+        isLoaded = true;
+    }
+
+    public void StartDrag()
+    {
+        isDragging = true;
+        isOverDropZone = false;
+        didZoneExit = false;
+    }
+
+    public void EndDrag()
+    {
+        isDragging = false;
+
+        if (didZoneExit && selectedDropZone != null)
+        {
+            ShowAlert(selectedDropZone.name);
+        }
+        else
+        {
+        }
+
+        selectedDropZone = null;
+    }
+
+    public void EnterDropZone(DropZone target)
+    {
+        if (!isDragging)
+            return;
+
+        selectedDropZone = target;
+        isOverDropZone = true;
+        didZoneExit = false;
+
+        target.DraggingEnter();
+    }
+
+    public void ExitDropZone(DropZone target)
+    {
+        if (!isDragging)
+            return;
+
+        isOverDropZone = false;
+        didZoneExit = true;
+
+        target.DraggingExit();
+    }
+
+    public class DropZone
+    {
+        public string name = "undefined";
+        public string color = "red";
+
+        public bool isDraggingOver = false;
+
+        private string originalColor = "";
+
+        public DropZone(string name, string color)
+        {
+            this.name = name;
+            this.color = color;
+
+            originalColor = color;   
+        }
+
+        public void DraggingEnter()
+        {
+            color = "green";
+            isDraggingOver = true;
+        }
+
+        public void DraggingExit()
+        {
+            color = originalColor;
+            isDraggingOver = false;
+        }
+    }
+
+    /*async Task StartDrag(DragEventArgs e)
+    {
+        await e.DataTransfer.SetDataAsync("text", "dragged-item");
+    }
+
+    void EndDrag(DragEventArgs e)
+    {
+        Console.WriteLine("Drag ended");
+    }
+
+    void AllowDrop(DragEventArgs e)
+    {
+        e.PreventDefault();
+    }
+
+    async Task Drop(DragEventArgs e)
+    {
+        Console.WriteLine("Dropped!");
+        // Get the dragged item data
+        string draggedItem = await e.DataTransfer.GetDataAsync("text");
+        Console.WriteLine($"Dragged item: {draggedItem}");
+    }*/
+}
