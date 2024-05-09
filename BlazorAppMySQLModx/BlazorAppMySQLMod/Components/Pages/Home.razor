@@ -7,8 +7,6 @@
 
 <h1>Hello, world!</h1>
 
-
-
 <button
     type="button"
     class="btn btn-primary"
@@ -45,9 +43,13 @@
              class="dropZone">
             @dz.name
         </div>
+
         @if (currentDropZone == dz)
         {
-            <div class="draggable" @ondragstart="StartDrag" @ondragend="EndDrag" draggable="true">
+            <div class="draggable"
+                @ondragstart="StartDrag"
+                @ondragend="EndDrag"
+                draggable="true">
                 Drag me!
             </div>
         }
@@ -66,6 +68,7 @@
     {
         dropZones.Add(new DropZone("name one", "red"));
         dropZones.Add(new DropZone("name two", "yellow"));
+        dropZones.Add(new DropZone("name three", "pink"));
 
         await Task.Delay(1500);
         isLoaded = true;
