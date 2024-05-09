@@ -58,7 +58,7 @@ h1:focus {
     background-color: steelblue;
     padding: 10px;
     border: 1px solid #ccc;
-    cursor: move;
+    cursor: grab;
     height: 100px;
     width: 100px;
 }

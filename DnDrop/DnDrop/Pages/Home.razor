@@ -1,0 +1,46 @@
+﻿@inject IJSRuntime JS
+@page "/"
+
+<div @ondragover="DragOver" @ondrop="Drop" @ondragleave="DragLeave">
+    <div style="width: 200px; height: 200px; border: 1px solid black; padding: 10px;">
+        Drop files here
+    </div>
+</div>
+
+<div>
+    <ul>
+        @foreach (var file in files)
+        {
+            <li>@file.Name</li>
+        }
+    </ul>
+</div>
+
+@code {
+    List<File> files = new List<File>();
+
+    void DragOver()
+    {
+        Console.WriteLine("Drag over");
+    }
+
+    void DragLeave()
+    {
+        Console.WriteLine("Drag leave");
+    }
+
+    async void Drop(DragEventArgs e)
+    {
+        Console.WriteLine("Drop");
+        foreach (var file in e.DataTransfer.Files)
+        {
+            files.Add(new File { Name = file.Name });
+            StateHasChanged();
+        }
+    }
+
+    public class File
+    {
+        public string Name { get; set; }
+    }
+}

@@ -22,13 +22,16 @@
 
 <h1>Drag and Drop Example</h1>
 
-<div
-    class="draggable"
-    @ondragstart="StartDrag"
-    @ondragend="EndDrag"
-    draggable="true">
-    Drag me!
-</div>
+@if (currentDropZone == null)
+{
+    <div
+        class="draggable"
+        @ondragstart="StartDrag"
+        @ondragend="EndDrag"
+        draggable="true">
+        Drag me!
+    </div>
+}
 
 @if (isLoaded)
 {
@@ -39,6 +42,15 @@
              style="background-color: @dz.color; padding: 10px; border: 1px solid #ccc; height: 100px; width: 100px;">
             @dz.name
         </div>
+        @if (currentDropZone == dz)
+        {
+            <div class="draggable"
+                 @ondragstart="StartDrag"
+                 @ondragend="EndDrag"
+                 draggable="true">
+                Drag me!
+            </div>
+        }
     }
 }
 
@@ -47,6 +59,8 @@
 
     public bool isDragging = false;
     public List<DropZone> dropZones = new List<DropZone>();
+
+    public DropZone? currentDropZone = null;
 
     protected override async Task OnInitializedAsync()
     {
@@ -70,10 +84,15 @@
         foreach (DropZone dz in dropZones)
             if (dz.isDraggingOver)
                 dropTarget = dz;
-        
+
         if (dropTarget != null)
         {
-            ShowAlert(dropTarget.name);
+            currentDropZone = dropTarget;
+            //ShowAlert(dropTarget.name);
+        }
+        else
+        {
+            currentDropZone = null;
         }
     }
 
