@@ -9,8 +9,11 @@
 
 
 
-<button type="button" class="btn btn-primary"
-    @onclick='() => { ShowAlert("Test alert"); }'>Click me for the alert!
+<button
+    type="button"
+    class="btn btn-primary"
+    @onclick='() => { ShowAlert("Test alert"); }'>
+    Click me for the alert!
 </button>
 
 @code {
@@ -24,8 +27,7 @@
 
 @if (currentDropZone == null)
 {
-    <div
-        class="draggable"
+    <div class="draggable"
         @ondragstart="StartDrag"
         @ondragend="EndDrag"
         draggable="true">
@@ -39,15 +41,13 @@
     {
         <div @ondragenter="() => { EnterDropZone(dz); }"
              @ondragleave="() => { ExitDropZone(dz); }"
-             style="background-color: @dz.color; padding: 10px; border: 1px solid #ccc; height: 100px; width: 100px;">
+             style="background-color: @dz.color;"
+             class="dropZone">
             @dz.name
         </div>
         @if (currentDropZone == dz)
         {
-            <div class="draggable"
-                 @ondragstart="StartDrag"
-                 @ondragend="EndDrag"
-                 draggable="true">
+            <div class="draggable" @ondragstart="StartDrag" @ondragend="EndDrag" draggable="true">
                 Drag me!
             </div>
         }

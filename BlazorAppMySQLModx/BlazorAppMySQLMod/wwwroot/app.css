@@ -62,3 +62,10 @@ h1:focus {
     height: 100px;
     width: 100px;
 }
+
+.dropZone {
+    padding: 10px;
+    border: 1px solid #ccc;
+    height: 100px;
+    width: 100px;
+}
