@@ -21,6 +21,7 @@ class Program
     {
         Console.WriteLine("Main task started");
 
+        // await -el a Main megvárja míg a background befejezi a futását
         DoBackgroundWorkAsync();
 
         for (int i = 0; i < 5; i++)
