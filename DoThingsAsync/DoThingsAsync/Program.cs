@@ -12,8 +12,6 @@ using System.Threading.Tasks;
     Async elott
     2024. 05. 07. 17:00:30
     Async után
-
-
  */
 
 namespace PeldaAsyncawait
@@ -23,6 +21,7 @@ namespace PeldaAsyncawait
         static async Task Main(string[] args)
         {
             Console.WriteLine("Async előtt");
+            // await nélkül a második dátumot már nem várja meg a program, kilép
             await DoThingsAsync();
             Console.WriteLine("Async után");
         }
