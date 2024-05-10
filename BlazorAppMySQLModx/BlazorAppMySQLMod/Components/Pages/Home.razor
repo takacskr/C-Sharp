@@ -26,8 +26,8 @@
 @if (currentDropZone == null)
 {
     <div class="draggable"
-        @ondragstart="StartDrag"
-        @ondragend="EndDrag"
+        @ondragstart="DragStart"
+        @ondragend="DragEnd"
         draggable="true">
         Drag me!
     </div>
@@ -47,8 +47,8 @@
         @if (currentDropZone == dz)
         {
             <div class="draggable"
-                @ondragstart="StartDrag"
-                @ondragend="EndDrag"
+                @ondragstart="DragStart"
+                @ondragend="DragEnd"
                 draggable="true">
                 Drag me!
             </div>
@@ -74,12 +74,12 @@
         isLoaded = true;
     }
 
-    public void StartDrag()
+    public void DragStart()
     {
         isDragging = true;
     }
 
-    public void EndDrag()
+    public void DragEnd()
     {
         isDragging = false;
         DropZone? dropTarget = null;
@@ -104,7 +104,7 @@
         if (!isDragging)
             return;
 
-        target.DraggingEnter();
+        target.DragEnter();
     }
 
     public void ExitDropZone(DropZone target)
@@ -112,7 +112,7 @@
         if (!isDragging)
             return;
 
-        target.DraggingExit();
+        target.DragLeave();
     }
 
     public class DropZone
@@ -131,13 +131,13 @@
             originalColor = color;
         }
 
-        public void DraggingEnter()
+        public void DragEnter()
         {
             color = "green";
             isDraggingOver = true;
         }
 
-        public async Task DraggingExit()
+        public async Task DragLeave()
         {
             color = originalColor;
 
