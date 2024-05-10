@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Threading;
 using System.Threading.Tasks;
+
 namespace AsyncDemo
 {
     class Program
@@ -10,6 +11,7 @@ namespace AsyncDemo
             var result = await Task<string>.Factory.StartNew(
             () => ReallyLongOperation()
             );
+
             Console.WriteLine("Az eredmény: {0}", result);
         }
         static string ReallyLongOperation()

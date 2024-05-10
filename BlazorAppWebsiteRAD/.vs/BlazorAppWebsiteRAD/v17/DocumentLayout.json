@@ -3,20 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6059B0CF-44C9-474E-920C-1CEF5F76E26C}|BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappwebsiterad\\blazorappwebsiterad\\components\\pages\\monkeypages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6059B0CF-44C9-474E-920C-1CEF5F76E26C}|BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD.csproj|solutionrelative:blazorappwebsiterad\\components\\pages\\monkeypages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6059B0CF-44C9-474E-920C-1CEF5F76E26C}|BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappwebsiterad\\blazorappwebsiterad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6059B0CF-44C9-474E-920C-1CEF5F76E26C}|BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD.csproj|solutionrelative:blazorappwebsiterad\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6059B0CF-44C9-474E-920C-1CEF5F76E26C}|BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappwebsiterad\\blazorappwebsiterad\\components\\pages\\monkeypages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6059B0CF-44C9-474E-920C-1CEF5F76E26C}|BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD.csproj|solutionrelative:blazorappwebsiterad\\components\\pages\\monkeypages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6059B0CF-44C9-474E-920C-1CEF5F76E26C}|BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappwebsiterad\\blazorappwebsiterad\\components\\pages\\monkeypages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6059B0CF-44C9-474E-920C-1CEF5F76E26C}|BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD.csproj|solutionrelative:blazorappwebsiterad\\components\\pages\\monkeypages\\create.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6059B0CF-44C9-474E-920C-1CEF5F76E26C}|BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappwebsiterad\\blazorappwebsiterad\\components\\pages\\monkeypages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6059B0CF-44C9-474E-920C-1CEF5F76E26C}|BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD.csproj|solutionrelative:blazorappwebsiterad\\components\\pages\\monkeypages\\edit.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6059B0CF-44C9-474E-920C-1CEF5F76E26C}|BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappwebsiterad\\blazorappwebsiterad\\components\\pages\\monkeypages\\details.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -46,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,19 +46,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Edit.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Edit.razor",
               "RelativeDocumentMoniker": "BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Edit.razor",
               "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Edit.razor",
               "RelativeToolTip": "BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Edit.razor",
-              "ViewState": "AQIAAFEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T09:51:57.97Z"
+              "WhenOpened": "2024-04-24T09:51:57.97Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "Details.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Details.razor",
               "RelativeDocumentMoniker": "BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Details.razor",
@@ -78,7 +71,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "NavMenu.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\Components\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorAppWebsiteRAD\\Components\\Layout\\NavMenu.razor",
@@ -90,7 +83,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Delete.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Delete.razor",
               "RelativeDocumentMoniker": "BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Delete.razor",
@@ -102,33 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.razor",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Index.razor",
-              "RelativeDocumentMoniker": "BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Index.razor",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Index.razor",
-              "RelativeToolTip": "BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Index.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T16:41:48.847Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\Program.cs",
-              "RelativeDocumentMoniker": "BlazorAppWebsiteRAD\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\Program.cs",
-              "RelativeToolTip": "BlazorAppWebsiteRAD\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-23T16:41:23.888Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "Create.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Create.razor",
               "RelativeDocumentMoniker": "BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Create.razor",
@@ -136,12 +103,11 @@
               "RelativeToolTip": "BlazorAppWebsiteRAD\\Components\\Pages\\MonkeyPages\\Create.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-23T16:40:33.545Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-23T16:40:33.545Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "Monkey.cs",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\Model\\Monkey.cs",
               "RelativeDocumentMoniker": "BlazorAppWebsiteRAD\\Model\\Monkey.cs",
@@ -153,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "BlazorAppWebsiteRAD\\Components\\Pages\\Home.razor",
