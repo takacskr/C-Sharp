@@ -37,10 +37,11 @@
 {
     @foreach (DropZone dz in dropZones)
     {
-        <div @ondragenter="() => { EnterDropZone(dz); }"
-             @ondragleave="() => { ExitDropZone(dz); }"
-             style="background-color: @dz.color;"
-             class="dropZone">
+        <div
+            @ondragenter="() => { DragEnter(dz); }"
+            @ondragleave="() => { DragLeave(dz); }"
+            style="background-color: @dz.color;"
+            class="dropZone">
             @dz.name
         </div>
 
@@ -49,6 +50,7 @@
             <div class="draggable"
                 @ondragstart="DragStart"
                 @ondragend="DragEnd"
+                 style="background-color: @dz.color;"
                 draggable="true">
                 Drag me!
             </div>
@@ -60,9 +62,8 @@
     public bool isLoaded = false;
 
     public bool isDragging = false;
-    public List<DropZone> dropZones = new List<DropZone>();
-
     public DropZone? currentDropZone = null;
+    public List<DropZone> dropZones = new List<DropZone>();
 
     protected override async Task OnInitializedAsync()
     {
@@ -70,7 +71,7 @@
         dropZones.Add(new DropZone("name two", "yellow"));
         dropZones.Add(new DropZone("name three", "pink"));
 
-        await Task.Delay(1500);
+        await Task.Delay(500);
         isLoaded = true;
     }
 
@@ -99,15 +100,15 @@
         }
     }
 
-    public void EnterDropZone(DropZone target)
+    public void DragEnter(DropZone target)
     {
         if (!isDragging)
             return;
-
+        
         target.DragEnter();
     }
 
-    public void ExitDropZone(DropZone target)
+    public void DragLeave(DropZone target)
     {
         if (!isDragging)
             return;
