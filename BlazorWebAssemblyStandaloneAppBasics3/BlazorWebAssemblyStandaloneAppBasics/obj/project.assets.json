@@ -2057,19 +2057,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sugár\\.nuget\\packages\\": {}
+    "C:\\Users\\takac\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj",
+      "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj",
       "projectName": "BlazorWebAssemblyStandaloneAppBasics",
-      "projectPath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj",
-      "packagesPath": "C:\\Users\\Sugár\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\obj\\",
+      "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj",
+      "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Sugár\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\takac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

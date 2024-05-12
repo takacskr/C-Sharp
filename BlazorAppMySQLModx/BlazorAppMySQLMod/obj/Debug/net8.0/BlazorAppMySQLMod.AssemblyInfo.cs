@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BlazorAppMySQLMod")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f745b22879fd901ea652f05368bf17cea45db30a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+935d784980c16ceb26a9ff055d0e0fea0ca4a34b")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorAppMySQLMod")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorAppMySQLMod")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

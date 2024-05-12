@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\components\\dayselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\components\\dayselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,15 +26,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "BlazorAppMySQLMod\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAbAAAA",
+              "DocumentIndex": 1,
+              "Title": "DaySelector.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\DaySelector.razor",
+              "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\DaySelector.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\DaySelector.razor",
+              "RelativeToolTip": "BlazorAppMySQLMod\\Components\\DaySelector.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-26T18:48:34.719Z",
+              "WhenOpened": "2024-05-12T16:43:32.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorAppMySQLMod\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T14:47:54.041Z",
               "EditorCaption": ""
             }
           ]
