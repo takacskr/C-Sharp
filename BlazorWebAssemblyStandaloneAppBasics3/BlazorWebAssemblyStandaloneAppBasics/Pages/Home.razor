@@ -16,7 +16,13 @@ else
             @foreach (var employee in employeeDetails)
             {
                 <div class="col-xs-12 col-sm-12 col-md-6 col-lg-4 mb-2">
-                    <EmployeeCard name=@employee.name image=@employee.image id=@employee.id joined=@employee.joined.ToShortDateString() email=@employee.email></EmployeeCard>
+                    <EmployeeCard
+                        name=@employee.name
+                        image=@employee.image
+                        id=@employee.id
+                        joined=@employee.joined.ToShortDateString()
+                        email=@employee.email>
+                    </EmployeeCard>
                 </div>
             }
         </div>
@@ -28,7 +34,7 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        int testIntAsnycGet = await EmployeeService.TestAsync();
+        // int testIntAsnycGet = await EmployeeService.TestAsync();
         employeeDetails = await EmployeeService.GetEmployeeAsync(DateTime.Now);
     }
 }

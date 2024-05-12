@@ -14,16 +14,18 @@ namespace Data
             "nancy@domain.com", "margaret@domain.com", "michael@domain.com", "robert@domain.com","anne@domain.com"
         };
 
-        public static async Task<int> TestAsync()
-        {
-            await Task.Delay(1000);
-            return 1;
-        }
+        //public static async Task<int> TestAsync()
+        //{
+        //    await Task.Delay(1000);
+        //    return 1;
+        //}
 
         public static async Task<EmployeeModel[]> GetEmployeeAsync(DateTime startDate)
         {
             int returnLength = 5;
+
             EmployeeModel[] employeeModels = new EmployeeModel[returnLength];
+
             for (int i = 0; i < returnLength; i++)
             {
                 employeeModels[i] = new EmployeeModel
