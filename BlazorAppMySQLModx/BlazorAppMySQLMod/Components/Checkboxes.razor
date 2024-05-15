@@ -30,10 +30,10 @@
     </div>
 }
 
-@foreach (var kvp in foodChecks)
+@foreach (KeyValuePair<string, bool> checkedFood in foodChecks)
 {
-    if (kvp.Value)
+    if (checkedFood.Value)
     {
-        <span class="mb-4">"@kvp.Key"&nbsp;</span>
+        <span class="mb-4">"@checkedFood.Key"&nbsp;</span>
     }
 }
