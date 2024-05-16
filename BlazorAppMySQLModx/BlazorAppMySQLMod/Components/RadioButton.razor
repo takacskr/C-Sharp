@@ -7,17 +7,7 @@
         "Volkswagen"
     };
 
-    Dictionary<string, bool> carChecks = new Dictionary<string, bool>();
-
     string selectedCar = "";
-
-    protected override void OnInitialized()
-    {
-        foreach (string car in cars)
-        {
-            carChecks.Add(car, false);
-        }
-    }
 
     private void HandleChange(ChangeEventArgs e)
     {
