@@ -1,63 +1,63 @@
 {
   "Files": [
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppMySQLMod.bundle.scp.css",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppMySQLMod.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlazorAppMySQLMod.bundle.scp.css"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\app.css",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap-grid.css",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap-grid.css"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap-reboot.css"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap-utilities.css"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap.css",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.css"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\favicon.png",
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

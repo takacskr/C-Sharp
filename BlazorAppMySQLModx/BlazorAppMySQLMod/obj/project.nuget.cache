@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kwhJeUpkTo12sQhZnsU0y1qoCDDRvbABc4tM2J96vS5vkNQUJzu/1lYZV9eVYelSOt5miBoIGtFR60INJvXUJw==",
+  "dgSpecHash": "H96OY3sMVYh2eb8/SQam3Qb8rp2LKqxKIuKanauxdK3hebGEEQtGSMfEKj9m57kEqNbLINRgpMeMdQjA/zATbA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj",
+  "projectFilePath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\takac\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\takac\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",
