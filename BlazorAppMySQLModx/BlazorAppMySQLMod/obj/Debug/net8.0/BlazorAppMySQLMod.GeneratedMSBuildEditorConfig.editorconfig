@@ -46,7 +46,15 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
+<<<<<<< HEAD
 [c:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/Routes.razor]
+=======
+[C:/Users/Sugár/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/RadioButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYWRpb0J1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Sugár/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/Routes.razor]
+>>>>>>> 12ca582e558bbaa13fdcce7435d6093170e028ac
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 

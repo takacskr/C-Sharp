@@ -3,8 +3,21 @@
   "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\components\\dayselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\components\\dayselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+=======
+      "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\components\\radiobutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\components\\radiobutton.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\components\\checkboxes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\components\\checkboxes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+>>>>>>> 12ca582e558bbaa13fdcce7435d6093170e028ac
     },
     {
       "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\components\\checkboxes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -27,19 +40,55 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Checkboxes.razor",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Checkboxes.razor",
-              "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\Checkboxes.razor",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Checkboxes.razor",
-              "RelativeToolTip": "BlazorAppMySQLMod\\Components\\Checkboxes.razor",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAQAAAA",
+<<<<<<< HEAD
+=======
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorAppMySQLMod\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-14T12:58:13.903Z",
+              "WhenOpened": "2024-05-16T15:47:48.929Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RadioButton.razor",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\RadioButton.razor",
+              "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\RadioButton.razor",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\RadioButton.razor",
+              "RelativeToolTip": "BlazorAppMySQLMod\\Components\\RadioButton.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-16T15:36:02.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+>>>>>>> 12ca582e558bbaa13fdcce7435d6093170e028ac
+              "Title": "Checkboxes.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Checkboxes.razor",
+              "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\Checkboxes.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Checkboxes.razor",
+              "RelativeToolTip": "BlazorAppMySQLMod\\Components\\Checkboxes.razor",
+<<<<<<< HEAD
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAQAAAA",
+=======
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAFAAAA",
+>>>>>>> 12ca582e558bbaa13fdcce7435d6093170e028ac
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-14T12:58:13.903Z"
+            },
+            {
+              "$type": "Document",
+<<<<<<< HEAD
+              "DocumentIndex": 0,
+=======
+              "DocumentIndex": 3,
+>>>>>>> 12ca582e558bbaa13fdcce7435d6093170e028ac
               "Title": "DaySelector.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\DaySelector.razor",
               "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\DaySelector.razor",
@@ -47,8 +96,7 @@
               "RelativeToolTip": "BlazorAppMySQLMod\\Components\\DaySelector.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T16:43:32.603Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T16:43:32.603Z"
             }
           ]
         }
