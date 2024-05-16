@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\components\\checkboxes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\components\\checkboxes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\components\\dayselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\components\\dayselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\components\\dayselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\components\\dayselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorappmysqlmodx\\blazorappmysqlmod\\components\\checkboxes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6AAB1221-4EC1-4E67-9447-A46675C31163}|BlazorAppMySQLMod\\BlazorAppMySQLMod.csproj|solutionrelative:blazorappmysqlmod\\components\\checkboxes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,24 +26,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Checkboxes.razor",
-              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Checkboxes.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Checkboxes.razor",
               "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\Checkboxes.razor",
-              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Checkboxes.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\Checkboxes.razor",
               "RelativeToolTip": "BlazorAppMySQLMod\\Components\\Checkboxes.razor",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAAA7AAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-14T12:58:13.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DaySelector.razor",
-              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\DaySelector.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\DaySelector.razor",
               "RelativeDocumentMoniker": "BlazorAppMySQLMod\\Components\\DaySelector.razor",
-              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\DaySelector.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppMySQLModx\\BlazorAppMySQLMod\\Components\\DaySelector.razor",
               "RelativeToolTip": "BlazorAppMySQLMod\\Components\\DaySelector.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
