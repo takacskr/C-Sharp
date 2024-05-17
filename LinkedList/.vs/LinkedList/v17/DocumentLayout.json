@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\LinkedList\\",
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\LinkedList\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{39DA51CF-3F5C-4220-82C9-38D0EC755A2F}|LinkedList\\LinkedList.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\linkedlist\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{39DA51CF-3F5C-4220-82C9-38D0EC755A2F}|LinkedList\\LinkedList.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\linkedlist\\linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39DA51CF-3F5C-4220-82C9-38D0EC755A2F}|LinkedList\\LinkedList.csproj|solutionrelative:linkedlist\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\LinkedList\\LinkedList\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\LinkedList\\LinkedList\\Program.cs",
               "RelativeDocumentMoniker": "LinkedList\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\LinkedList\\LinkedList\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\LinkedList\\LinkedList\\Program.cs",
               "RelativeToolTip": "LinkedList\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T20:05:58.632Z",
               "EditorCaption": ""
