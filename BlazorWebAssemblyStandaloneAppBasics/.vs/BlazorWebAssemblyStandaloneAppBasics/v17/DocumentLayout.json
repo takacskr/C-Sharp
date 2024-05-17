@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorwebassemblystandaloneappbasics\\blazorwebassemblystandaloneappbasics\\wwwroot\\data\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|solutionrelative:blazorwebassemblystandaloneappbasics\\wwwroot\\data\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorwebassemblystandaloneappbasics\\blazorwebassemblystandaloneappbasics\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|solutionrelative:blazorwebassemblystandaloneappbasics\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -13,10 +17,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorwebassemblystandaloneappbasics\\blazorwebassemblystandaloneappbasics\\wwwroot\\data\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|solutionrelative:blazorwebassemblystandaloneappbasics\\wwwroot\\data\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\blazorwebassemblystandaloneappbasics\\blazorwebassemblystandaloneappbasics\\wwwroot\\data\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D68343C9-E6B9-4A68-B8F0-F0F66E0D3EF1}|BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj|solutionrelative:blazorwebassemblystandaloneappbasics\\wwwroot\\data\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,7 +34,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\Program.cs",
               "RelativeDocumentMoniker": "BlazorWebAssemblyStandaloneAppBasics\\Program.cs",
@@ -47,7 +47,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "EmployeeService.cs",
               "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\Data\\EmployeeService.cs",
               "RelativeDocumentMoniker": "BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\Data\\EmployeeService.cs",
@@ -60,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "EmployeeModel.cs",
               "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\Data\\EmployeeModel.cs",
               "RelativeDocumentMoniker": "BlazorWebAssemblyStandaloneAppBasics\\wwwroot\\Data\\EmployeeModel.cs",
@@ -73,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "BlazorWebAssemblyStandaloneAppBasics\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics\\Pages\\Home.razor",
               "RelativeToolTip": "BlazorWebAssemblyStandaloneAppBasics\\Pages\\Home.razor",
-              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFQAAAABAAAA",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-29T08:46:07.915Z",
               "EditorCaption": ""
