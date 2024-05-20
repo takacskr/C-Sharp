@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XKijZZBeNf4PTmX/Va86+i1ZzydGq4gXn7hGq8lrL6A=",
+  "Hash": "scKprw/jO2K/KOJkIfUh6ARC97lGtU4ZoPGYsrzYK/Q=",
   "Source": "BlazorAppWebsiteRAD",
   "BasePath": "_content/BlazorAppWebsiteRAD",
   "Mode": "Default",
@@ -10,7 +10,7 @@
     {
       "Name": "BlazorAppWebsiteRAD\\wwwroot",
       "Source": "BlazorAppWebsiteRAD",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\",
       "BasePath": "_content/BlazorAppWebsiteRAD",
       "Pattern": "**"
     }
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "C:\\Users\\takac\\.nuget\\packages\\microsoft.aspnetcore.components.quickgrid\\8.0.4\\staticwebassets\\QuickGrid.razor.js"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAppWebsiteRAD.styles.css",
+      "Identity": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAppWebsiteRAD.styles.css",
       "SourceId": "BlazorAppWebsiteRAD",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/BlazorAppWebsiteRAD",
       "RelativePath": "BlazorAppWebsiteRAD.styles.css",
       "AssetKind": "All",
@@ -71,13 +71,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAppWebsiteRAD.styles.css"
+      "OriginalItemSpec": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\bundle\\BlazorAppWebsiteRAD.styles.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppWebsiteRAD.bundle.scp.css",
+      "Identity": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppWebsiteRAD.bundle.scp.css",
       "SourceId": "BlazorAppWebsiteRAD",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/BlazorAppWebsiteRAD",
       "RelativePath": "BlazorAppWebsiteRAD.bundle.scp.css",
       "AssetKind": "All",
@@ -90,13 +90,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppWebsiteRAD.bundle.scp.css"
+      "OriginalItemSpec": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppWebsiteRAD.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\app.css",
+      "Identity": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\app.css",
       "SourceId": "BlazorAppWebsiteRAD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\",
       "BasePath": "_content/BlazorAppWebsiteRAD",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "BlazorAppWebsiteRAD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\",
       "BasePath": "_content/BlazorAppWebsiteRAD",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "BlazorAppWebsiteRAD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\",
       "BasePath": "_content/BlazorAppWebsiteRAD",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\favicon.png",
+      "Identity": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\favicon.png",
       "SourceId": "BlazorAppWebsiteRAD",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\",
+      "ContentRoot": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\",
       "BasePath": "_content/BlazorAppWebsiteRAD",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

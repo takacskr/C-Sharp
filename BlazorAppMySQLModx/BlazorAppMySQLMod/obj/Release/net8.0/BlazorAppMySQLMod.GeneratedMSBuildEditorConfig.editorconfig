@@ -1,0 +1,87 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BlazorAppMySQLMod
+build_property.RootNamespace = BlazorAppMySQLMod
+build_property.ProjectDir = C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQLModx\BlazorAppMySQLMod\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQLModx\BlazorAppMySQLMod
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/Checkboxes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDaGVja2JveGVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/DaySelector.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEYXlTZWxlY3Rvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/RadioButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYWRpb0J1dHRvbi5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/RadioButton2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYWRpb0J1dHRvbjIucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/RadioButton3.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYWRpb0J1dHRvbjMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/TextInputChild.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXh0SW5wdXRDaGlsZC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/TextInputParent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXh0SW5wdXRQYXJlbnQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/TextInputSimple.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXh0SW5wdXRTaW1wbGUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-aa7q2uxwv5
+
+[C:/Users/takac/source/repos/C-Sharp/BlazorAppMySQLModx/BlazorAppMySQLMod/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-c0kx5zpb7e

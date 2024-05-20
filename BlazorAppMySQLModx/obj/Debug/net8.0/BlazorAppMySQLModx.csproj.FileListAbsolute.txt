@@ -1,0 +1,5 @@
+C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQLModx\obj\Debug\net8.0\BlazorAppMySQLModx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQLModx\obj\Debug\net8.0\BlazorAppMySQLModx.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQLModx\obj\Debug\net8.0\BlazorAppMySQLModx.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQLModx\obj\Debug\net8.0\BlazorAppMySQLModx.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\BlazorAppMySQLModx\obj\Debug\net8.0\BlazorAppMySQLModx.sourcelink.json

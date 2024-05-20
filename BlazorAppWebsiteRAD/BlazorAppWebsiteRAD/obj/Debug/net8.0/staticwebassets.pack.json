@@ -1,23 +1,23 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppWebsiteRAD.bundle.scp.css",
+      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorAppWebsiteRAD.bundle.scp.css",
       "PackagePath": "staticwebassets\\BlazorAppWebsiteRAD.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\app.css",
+      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\app.css",
       "PackagePath": "staticwebassets\\app.css"
     },
     {
-      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\bootstrap\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\favicon.png",
+      "Id": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorAppWebsiteRAD\\BlazorAppWebsiteRAD\\wwwroot\\favicon.png",
       "PackagePath": "staticwebassets\\favicon.png"
     },
     {

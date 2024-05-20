@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OebE7YJorGhs6YrL3VaH58TF63oi+Zj+KwaRMZLlsawPnRr9013wNwQik3gFzWi8FDLyB88hNdXyTrh3rm2+2w==",
+  "dgSpecHash": "IlnBS5DC9pMY3kzMRcJ8kEeS2c/jONnqouqzq3vTCi0PeEJgJ3WXXVJUAPeaVCsx6049yKgSjWi5HV0X8RKJVA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\TaskAsyncAwait\\TaskAsyncAwait.csproj",
+  "projectFilePath": "c:\\Users\\takac\\source\\repos\\C-Sharp\\TaskAsyncAwait\\TaskAsyncAwait.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
