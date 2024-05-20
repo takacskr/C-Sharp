@@ -19,7 +19,7 @@
             Console.WriteLine(numbers is null); // True
 
             // If numbers is null, initialize it. Then, add 5 to numbers
-            (numbers ??= new List<int>()).Add(5);
+            ( numbers ??= new List<int>() ).Add(5);
             numbers.Add(8);
             Console.WriteLine(string.Join(" ", numbers)); // 5 8
             Console.WriteLine(numbers is null); // False

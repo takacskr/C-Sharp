@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NULL-Coalescing-Operator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dbc0d4b98a3aa90d956433d1489f1734525d895")]
 [assembly: System.Reflection.AssemblyProductAttribute("NULL-Coalescing-Operator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NULL-Coalescing-Operator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

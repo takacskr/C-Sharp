@@ -14,12 +14,6 @@ namespace Data
             "nancy@domain.com", "margaret@domain.com", "michael@domain.com", "robert@domain.com","anne@domain.com"
         };
 
-        //public static async Task<int> TestAsync()
-        //{
-        //    await Task.Delay(1000);
-        //    return 1;
-        //}
-
         public static async Task<EmployeeModel[]> GetEmployeeAsync(DateTime startDate)
         {
             int returnLength = 5;
@@ -38,7 +32,15 @@ namespace Data
                 };
             }
 
+            await Task.Delay(1000);
+
             return employeeModels;
         }
     }
 }
+
+//public static async Task<int> TestAsync()
+//{
+//    await Task.Delay(1000);
+//    return 1;
+//}
