@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|https">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.EmptyProjectTest PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyProjectTest/Components/Pages/Counter.razor">
+    <Files>
+      <File FileName="EmptyProjectTest/Components/App.razor" />
+      <File FileName="EmptyProjectTest/Components/Pages/Home.razor" />
+      <File FileName="EmptyProjectTest/Program.cs" />
+      <File FileName="EmptyProjectTest/Components/Pages/Counter.razor" Line="97" Column="12" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="EmptyProjectTest" expanded="True">
+            <Node name="EmptyProjectTest">
+              <Node name="Components" expanded="True">
+                <Node name="Pages" expanded="True">
+                  <Node name="Counter.razor" selected="True" />
+                </Node>
+              </Node>
+              <Node name="wwwroot" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
