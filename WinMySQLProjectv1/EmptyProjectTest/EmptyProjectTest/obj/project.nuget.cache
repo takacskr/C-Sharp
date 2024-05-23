@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fON/kONn9m4=",
+  "dgSpecHash": "XMtyiJbjSUA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\EmptyProjectTest.csproj",
+  "projectFilePath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\EmptyProjectTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\takac\\.nuget\\packages\\bouncycastle.cryptography\\2.2.1\\bouncycastle.cryptography.2.2.1.nupkg.sha512",
     "C:\\Users\\takac\\.nuget\\packages\\dapper\\2.1.35\\dapper.2.1.35.nupkg.sha512",

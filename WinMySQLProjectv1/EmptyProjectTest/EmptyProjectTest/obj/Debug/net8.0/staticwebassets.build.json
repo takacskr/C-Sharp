@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "rCuZY9qg+qo+GY7FpAhZoVwsFG1g/3wd0Ox7LlCn2UY=",
+  "Hash": "1GH1JF3WPN+48yIKBZZ5vTWel6HsGl5hAH8Oj09lPcY=",
   "Source": "EmptyProjectTest",
   "BasePath": "_content/EmptyProjectTest",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EmptyProjectTest\\wwwroot",
       "Source": "EmptyProjectTest",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EmptyProjectTest.styles.css",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EmptyProjectTest.styles.css",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "EmptyProjectTest.styles.css",
       "AssetKind": "All",
@@ -33,13 +33,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EmptyProjectTest.styles.css"
+      "OriginalItemSpec": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\Debug\\net8.0\\scopedcss\\bundle\\EmptyProjectTest.styles.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EmptyProjectTest.bundle.scp.css",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EmptyProjectTest.bundle.scp.css",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "EmptyProjectTest.bundle.scp.css",
       "AssetKind": "All",
@@ -52,13 +52,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EmptyProjectTest.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EmptyProjectTest.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\app.css",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\app.css",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "app.css",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\app.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap.css",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap.css",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "bootstrap/bootstrap.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap.min.css",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "bootstrap/bootstrap.min.css",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "bootstrap/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap-grid.css",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "bootstrap/bootstrap-grid.css",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap-reboot.css",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "bootstrap/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap-utilities.css",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "bootstrap/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\js\\bootstrap.bundle.js",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "bootstrap/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "bootstrap/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\js\\bootstrap.esm.js",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "bootstrap/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\js\\bootstrap.esm.min.js",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "bootstrap/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\js\\bootstrap.js",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "bootstrap/js/bootstrap.js",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\js\\bootstrap.min.js",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "bootstrap/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\bootstrap\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\favicon.png",
+      "Identity": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\favicon.png",
       "SourceId": "EmptyProjectTest",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\",
       "BasePath": "_content/EmptyProjectTest",
       "RelativePath": "favicon.png",
       "AssetKind": "All",

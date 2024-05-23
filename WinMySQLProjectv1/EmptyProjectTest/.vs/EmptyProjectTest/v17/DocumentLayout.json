@@ -1,10 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\mysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\winmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\winmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\winmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +30,39 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "EmptyProjectTest\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T17:18:59.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "EmptyProjectTest\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-23T17:18:57.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Program.cs",
               "RelativeDocumentMoniker": "EmptyProjectTest\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Program.cs",
               "RelativeToolTip": "EmptyProjectTest\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAzAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-23T16:24:59.765Z",
               "EditorCaption": ""

@@ -1,0 +1,15 @@
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\bin\Debug\net5.0\OODemo.exe
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\bin\Debug\net5.0\OODemo.deps.json
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\bin\Debug\net5.0\OODemo.runtimeconfig.json
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\bin\Debug\net5.0\OODemo.runtimeconfig.dev.json
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\bin\Debug\net5.0\OODemo.dll
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\bin\Debug\net5.0\OODemo.pdb
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\obj\Debug\net5.0\OODemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\obj\Debug\net5.0\OODemo.AssemblyInfoInputs.cache
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\obj\Debug\net5.0\OODemo.AssemblyInfo.cs
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\obj\Debug\net5.0\OODemo.csproj.CoreCompileInputs.cache
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\obj\Debug\net5.0\OODemo.dll
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\obj\Debug\net5.0\refint\OODemo.dll
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\obj\Debug\net5.0\OODemo.pdb
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\obj\Debug\net5.0\OODemo.genruntimeconfig.cache
+D:\prog\InheritanceVsInterfacesSourceCode\OODemo\obj\Debug\net5.0\ref\OODemo.dll

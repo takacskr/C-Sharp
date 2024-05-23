@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\EmptyProjectTest.csproj": {}
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\EmptyProjectTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\EmptyProjectTest.csproj": {
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\EmptyProjectTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\EmptyProjectTest.csproj",
+        "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\EmptyProjectTest.csproj",
         "projectName": "EmptyProjectTest",
-        "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\EmptyProjectTest.csproj",
+        "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\EmptyProjectTest.csproj",
         "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\",
+        "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
