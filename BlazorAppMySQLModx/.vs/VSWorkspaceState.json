@@ -2,8 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\BlazorAppMySQLMod",
-    "\\BlazorAppMySQLMod\\Components"
+    "\\BlazorAppMySQLMod\\Components",
+    "\\BlazorAppMySQLMod\\Components\\Pages"
   ],
-  "SelectedNode": "\\BlazorAppMySQLMod\\Components\\RadioButton3.razor",
+  "SelectedNode": "\\BlazorAppMySQLMod\\Components\\Pages\\Counter.razor",
   "PreviewInSolutionExplorer": false
 }
