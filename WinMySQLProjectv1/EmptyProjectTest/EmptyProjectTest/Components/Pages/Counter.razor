@@ -1,0 +1,203 @@
+﻿@page "/counter"
+@using Dapper
+@using MySql.Data.MySqlClient
+@rendermode InteractiveServer
+@inject IJSRuntime JSRuntime
+
+<PageTitle>Users</PageTitle>
+
+<h1>Users</h1>
+
+@if (loaded)
+{
+    @if (currentPage != 0)
+    {
+        <button @onclick="DecrementPage" class="btn btn-primary">Previous Page</button>
+    }
+    else
+    {
+        <button class="btn btn-primary" disabled>Previous Page</button>
+    }
+
+    <span>&nbsp;</span>
+
+    @if (currentPage != pageCount - 1)
+    {
+        <button @onclick="IncrementPage" class="btn btn-primary">Next Page</button>
+    }
+    else
+    {
+        <button class="btn btn-primary" disabled>Next Page</button>
+    }
+
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Phone</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (User user in users)
+            {
+                <tr>
+                    <td>@user.Name</td>
+                    <td>@user.Email</td>
+                    <td>@user.Phone</td>
+                    <td>
+                        <button class="btn btn-danger" @onclick="() => ShowDeleteConfirmation(user)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+
+    <form @onsubmit="AddNewUser" id="addNewUserForm" class="card p-3 bg-light">
+        <div class="input-group">
+            <div class="form-floating col-4">
+                <input @bind="newUser.Name" type="text" id="nameInput" class="form-control"
+                       placeholder="Name" required>
+                <label for="nameInput" class="form-label">Name</label>
+            </div>
+            <div class="form-floating col-4">
+                <input @bind="newUser.Email" type="email" name="email" class="form-control" id="emailInput"
+                       placeholder="something@something.com" required>
+                <label for="emailInput" class="form-label">Email</label>
+            </div>
+            <div class="form-floating col-4">
+                <input @bind="newUser.Phone" type="phone" name="phone" class="form-control" id="phoneInput"
+                       placeholder="123-456-7890" required>
+                <label for="phoneInput" class="form-label">Phone</label>
+            </div>
+        </div>
+        @if (showAlert)
+        {
+            <div class="alert alert-@alertType" role="alert">
+                @alertMessage
+            </div>
+        }
+        <div>
+            <button type="submit" class="btn btn-primary my-3">OK</button>
+        </div>
+    </form>
+
+
+
+}
+
+@code
+{
+    private MySqlConnection dbConnection;
+    private readonly string connectionString = "Server=localhost;Database=testdb;User=root;Password=root;Port=8889;";
+
+    public List<User> users = null;
+    public bool loaded = false;
+
+    public int currentPage = 0;
+    public int itemsPerPage = 3;
+    public int totalUsersCount;
+    public int pageCount = 0;
+
+    public User newUser = new User();
+    public bool showAlert = false;
+    public string alertMessage = "";
+    public string alertType = "";
+
+    protected override async Task OnInitializedAsync()
+    {
+        dbConnection = new MySqlConnection(connectionString);
+        await dbConnection.OpenAsync();
+
+        await RefreshPage();
+    }
+
+    private async Task RefreshPage()
+    {
+        totalUsersCount = await dbConnection.ExecuteScalarAsync<int>("SELECT COUNT(*) FROM users");
+
+        users = (await dbConnection.QueryAsync<User>(
+            "SELECT * FROM users ORDER BY name ASC LIMIT @start, @items",
+            new { start = currentPage * itemsPerPage, items = itemsPerPage }
+        )).ToList();
+
+        pageCount = (int)Math.Ceiling((double)totalUsersCount / itemsPerPage);
+
+        loaded = true;
+
+        StateHasChanged();
+    }
+
+    private async Task IncrementPage()
+    {
+        currentPage++;
+        currentPage = Math.Min(currentPage, pageCount - 1);
+
+        await RefreshPage();
+    }
+
+    private async Task DecrementPage()
+    {
+        currentPage--;
+        currentPage = Math.Max(currentPage, 0);
+
+        await RefreshPage();
+    }
+
+    private async Task DeleteUser(User user)
+    {
+        await dbConnection.ExecuteAsync("DELETE FROM users WHERE id = @Id", new { Id = user.Id });
+        await RefreshPage();
+    }
+
+    private async Task AddNewUser()
+    {
+        try
+        {
+            await dbConnection.ExecuteAsync("INSERT INTO users (name, email, phone) VALUES (@Name, @Email, @Phone)",
+                new { Name = newUser.Name, Email = newUser.Email, Phone = newUser.Phone });
+
+            alertMessage = "User added successfully";
+            alertType = "success";
+        }
+        catch (Exception ex)
+        {
+            alertMessage = "Error adding user: " + ex.Message;
+            alertType = "danger";
+        }
+        finally
+        {
+            showAlert = true;
+            StateHasChanged();
+            await Task.Delay(3000);
+            showAlert = false;
+            StateHasChanged();
+            newUser = new User();
+        }
+    }
+
+    private async Task ShowDeleteConfirmation(User user)
+    {
+        var result = await JSRuntime.InvokeAsync<bool>("confirm", "Are you sure you want to delete this user?");
+        if (result)
+        {
+            await DeleteUser(user);
+        }
+    }
+
+    public void Dispose()
+    {
+        dbConnection?.Dispose();
+    }
+
+    public class User
+    {
+        public int Id { get; set; }
+        public string Name { get; set; }
+        public string Email { get; set; }
+        public string Phone { get; set; }
+    }
+}
+

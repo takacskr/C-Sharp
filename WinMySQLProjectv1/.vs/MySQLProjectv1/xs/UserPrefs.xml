@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{E99606AC-9E7F-4914-9FEF-56178C81558B}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MySQLProjectv1/App.razor">
+    <Files>
+      <File FileName="MySQLProjectv1/Pages/Counter.razor" Line="10" Column="1" />
+      <File FileName="MySQLProjectv1/App.razor" Line="3" Column="1" />
+      <File FileName="MySQLProjectv1/Program.cs" Line="27" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MySQLProjectv1" expanded="True">
+            <Node name="MySQLProjectv1">
+              <Node name="Components" expanded="True" />
+              <Node name="Pages" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
+              <Node name="App.razor" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.MySQLProjectv1 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
