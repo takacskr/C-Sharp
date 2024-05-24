@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "/Users/takacskr/Projects/WebApp/WebApp/WebApp.csproj": {}
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\WebApp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "/Users/takacskr/Projects/WebApp/WebApp/WebApp.csproj": {
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\WebApp\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/takacskr/Projects/WebApp/WebApp/WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WebApp\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "/Users/takacskr/Projects/WebApp/WebApp/WebApp.csproj",
-        "packagesPath": "/Users/takacskr/.nuget/packages/",
-        "outputPath": "/Users/takacskr/Projects/WebApp/WebApp/obj/",
+        "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WebApp\\WebApp\\WebApp.csproj",
+        "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WebApp\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/takacskr/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\takac\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -32,6 +39,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -46,6 +58,18 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.17, )"
+            },
+            "Microsoft.NET.ILLink.Analyzers": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23401.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.NET.ILLink.Tasks": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.100-1.23401.1, )",
+              "autoReferenced": true
             },
             "System.Net.Http.Json": {
               "target": "Package",
@@ -65,8 +89,20 @@
           "warn": true,
           "downloadDependencies": [
             {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
               "name": "Microsoft.NETCore.App.Runtime.browser-wasm",
               "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
             }
           ],
           "frameworkReferences": {
@@ -74,7 +110,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.311/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

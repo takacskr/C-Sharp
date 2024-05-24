@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArraySort")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6aff0e543ace6a9702b24ab23aa3be660338b4e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72141b7f9b67c5c2b78ceefb77bfd529266e3dc6")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArraySort")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArraySort")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

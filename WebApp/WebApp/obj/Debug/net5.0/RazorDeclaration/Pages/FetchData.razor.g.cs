@@ -6,7 +6,7 @@
 
 namespace WebApp.Pages
 {
-    #line hidden
+    #line default
     using global::System;
     using global::System.Collections.Generic;
     using global::System.Linq;
@@ -14,76 +14,79 @@ namespace WebApp.Pages
     using global::Microsoft.AspNetCore.Components;
 #nullable restore
 #line 1 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\_Imports.razor"
-using System.Net.Http;
+using System.Net.Http
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 2 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\_Imports.razor"
-using System.Net.Http.Json;
+using System.Net.Http.Json
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 3 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\_Imports.razor"
-using Microsoft.AspNetCore.Components.Forms;
+using Microsoft.AspNetCore.Components.Forms
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 4 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\_Imports.razor"
-using Microsoft.AspNetCore.Components.Routing;
+using Microsoft.AspNetCore.Components.Routing
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 5 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\_Imports.razor"
-using Microsoft.AspNetCore.Components.Web;
+using Microsoft.AspNetCore.Components.Web
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 6 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\_Imports.razor"
-using Microsoft.AspNetCore.Components.Web.Virtualization;
+using Microsoft.AspNetCore.Components.Web.Virtualization
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 7 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\_Imports.razor"
-using Microsoft.AspNetCore.Components.WebAssembly.Http;
+using Microsoft.AspNetCore.Components.WebAssembly.Http
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 8 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\_Imports.razor"
-using Microsoft.JSInterop;
+using Microsoft.JSInterop
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 9 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\_Imports.razor"
-using WebApp;
+using WebApp
 
-#line default
-#line hidden
 #nullable disable
+    ;
 #nullable restore
 #line 10 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\_Imports.razor"
-using WebApp.Shared;
+using WebApp.Shared
 
 #line default
 #line hidden
 #nullable disable
-    [global::Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
+    ;
+    [global::Microsoft.AspNetCore.Components.RouteAttribute(
+    // language=Route,Component
+#nullable restore
+#line 1 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\Pages\FetchData.razor"
+      "/fetchdata"
+
+#line default
+#line hidden
+#nullable disable
+    )]
+    #nullable restore
     public partial class FetchData : global::Microsoft.AspNetCore.Components.ComponentBase
+    #nullable disable
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(global::Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -145,8 +148,43 @@ using WebApp.Shared;
 #line default
 #line hidden
 #nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime JSRuntime { get; set; }
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private HttpClient Http { get; set; }
+
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private 
+#nullable restore
+#line 3 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\Pages\FetchData.razor"
+        IJSRuntime
+
+#line default
+#line hidden
+#nullable disable
+         
+#nullable restore
+#line 3 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\Pages\FetchData.razor"
+                   JSRuntime
+
+#line default
+#line hidden
+#nullable disable
+         { get; set; }
+         = default!;
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private 
+#nullable restore
+#line 2 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\Pages\FetchData.razor"
+        HttpClient
+
+#line default
+#line hidden
+#nullable disable
+         
+#nullable restore
+#line 2 "C:\Users\takac\source\repos\C-Sharp\WebApp\WebApp\Pages\FetchData.razor"
+                   Http
+
+#line default
+#line hidden
+#nullable disable
+         { get; set; }
+         = default!;
     }
 }
 #pragma warning restore 1591
