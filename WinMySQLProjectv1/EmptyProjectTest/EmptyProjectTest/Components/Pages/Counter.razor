@@ -10,25 +10,14 @@
 
 @if (loaded)
 {
-    @if (currentPage != 0)
-    {
-        <button @onclick="DecrementPage" class="btn btn-primary">Previous Page</button>
-    }
-    else
-    {
-        <button class="btn btn-primary" disabled>Previous Page</button>
-    }
-
-    <span>&nbsp;</span>
-
-    @if (currentPage != pageCount - 1)
-    {
-        <button @onclick="IncrementPage" class="btn btn-primary">Next Page</button>
-    }
-    else
-    {
-        <button class="btn btn-primary" disabled>Next Page</button>
-    }
+    <form>
+        <div class="mb-3">
+            <label for="searchInput" class="form-label">Search a person</label>
+            <input type="email" class="form-control" id="searchInput" aria-describedby="searchInput">
+            <div id="searchInput" class="form-text">Type some characters to serach</div>
+        </div>
+        <button type="submit" class="btn btn-primary mb-3">Submit</button>
+    </form>
 
     <table class="table table-striped">
         <thead>
@@ -54,8 +43,27 @@
         </tbody>
     </table>
 
+    @if (currentPage != 0)
+    {
+        <button @onclick="DecrementPage" class="btn btn-primary">Previous Page</button>
+    }
+    else
+    {
+        <button class="btn btn-primary" disabled>Previous Page</button>
+    }
 
-    <form @onsubmit="AddNewUser" id="addNewUserForm" class="card p-3 bg-light">
+    <span>&nbsp;</span>
+
+    @if (currentPage != pageCount - 1)
+    {
+        <button @onclick="IncrementPage" class="btn btn-primary">Next Page</button>
+    }
+    else
+    {
+        <button class="btn btn-primary" disabled>Next Page</button>
+    }
+
+    <form @onsubmit="AddNewUser" id="addNewUserForm" class="card p-3 bg-light mt-5">
         <div class="input-group">
             <div class="form-floating col-4">
                 <input @bind="newUser.Name" type="text" id="nameInput" class="form-control"
@@ -73,6 +81,7 @@
                 <label for="phoneInput" class="form-label">Phone</label>
             </div>
         </div>
+
         @if (showAlert)
         {
             <div class="alert alert-@alertType" role="alert">
@@ -83,17 +92,22 @@
             <button type="submit" class="btn btn-primary my-3">OK</button>
         </div>
     </form>
-
-
-
 }
 
 @code
 {
-    private MySqlConnection dbConnection;
+    public class User
+    {
+        public int Id { get; set; }
+        public string? Name { get; set; }
+        public string? Email { get; set; }
+        public string? Phone { get; set; }
+    }
+
+    private MySqlConnection? dbConnection;
     private readonly string connectionString = "Server=localhost;Database=testdb;User=root;Password=root;Port=8889;";
 
-    public List<User> users = null;
+    public List<User>? users = null;
     public bool loaded = false;
 
     public int currentPage = 0;
@@ -190,14 +204,6 @@
     public void Dispose()
     {
         dbConnection?.Dispose();
-    }
-
-    public class User
-    {
-        public int Id { get; set; }
-        public string Name { get; set; }
-        public string Email { get; set; }
-        public string Phone { get; set; }
     }
 }
 

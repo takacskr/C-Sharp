@@ -1,5 +1,4 @@
-﻿using System.Threading.Channels;
-using static Enum.Program;
+﻿using System;
 
 namespace Enum
 {

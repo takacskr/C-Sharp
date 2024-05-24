@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\bin\Debug\net8.0\UsingRecordType3.exe
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\bin\Debug\net8.0\UsingRecordType3.deps.json
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\bin\Debug\net8.0\UsingRecordType3.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\bin\Debug\net8.0\UsingRecordType3.dll
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\bin\Debug\net8.0\UsingRecordType3.pdb
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\obj\Debug\net8.0\UsingRecordType3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\obj\Debug\net8.0\UsingRecordType3.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\obj\Debug\net8.0\UsingRecordType3.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\obj\Debug\net8.0\UsingRecordType3.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\obj\Debug\net8.0\UsingRecordType3.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\obj\Debug\net8.0\UsingRecordType3.dll
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\obj\Debug\net8.0\refint\UsingRecordType3.dll
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\obj\Debug\net8.0\UsingRecordType3.pdb
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\obj\Debug\net8.0\UsingRecordType3.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType3\UsingRecordType3\obj\Debug\net8.0\ref\UsingRecordType3.dll

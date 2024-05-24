@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\bin\Debug\net8.0\UsingRecordType.exe
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\bin\Debug\net8.0\UsingRecordType.deps.json
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\bin\Debug\net8.0\UsingRecordType.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\bin\Debug\net8.0\UsingRecordType.dll
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\bin\Debug\net8.0\UsingRecordType.pdb
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\obj\Debug\net8.0\UsingRecordType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\obj\Debug\net8.0\UsingRecordType.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\obj\Debug\net8.0\UsingRecordType.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\obj\Debug\net8.0\UsingRecordType.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\obj\Debug\net8.0\UsingRecordType.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\obj\Debug\net8.0\UsingRecordType.dll
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\obj\Debug\net8.0\refint\UsingRecordType.dll
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\obj\Debug\net8.0\UsingRecordType.pdb
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\obj\Debug\net8.0\UsingRecordType.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\UsingRecordType\UsingRecordType\obj\Debug\net8.0\ref\UsingRecordType.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\UsingRecordType2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A322B371-7497-448C-8D19-E6000D112B34}|UsingRecordType2\\UsingRecordType2.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\usingrecordtype2\\usingrecordtype2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A322B371-7497-448C-8D19-E6000D112B34}|UsingRecordType2\\UsingRecordType2.csproj|solutionrelative:usingrecordtype2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\UsingRecordType2\\UsingRecordType2\\Program.cs",
+              "RelativeDocumentMoniker": "UsingRecordType2\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\UsingRecordType2\\UsingRecordType2\\Program.cs",
+              "RelativeToolTip": "UsingRecordType2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T16:41:31.04Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
