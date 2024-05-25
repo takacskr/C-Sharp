@@ -27,9 +27,9 @@
             </tr>
         </thead>
         <tbody>
-            @if (usersAfterSearch != null && usersAfterSearch.Any())
+            @if (usersQuery != null && usersQuery.Any())
             {
-                @foreach (User user in usersAfterSearch)
+                @foreach (User user in usersQuery)
                 {
                     <tr>
                         <td>@user.Name</td>
@@ -139,7 +139,7 @@
 
     public bool loaded = false;
     public List<User>? users = null;
-    public List<User>? usersAfterSearch = null;
+    public List<User>? usersQuery = null;
 
     public int currentPage = 0;
     public int itemsPerPage = 3;
@@ -152,6 +152,7 @@
     public string alertType = "";
 
     private string _searchInputValue = "";
+
     public string searchInputValue
     {
         get => _searchInputValue;
@@ -175,12 +176,19 @@
 
     private async Task SearchUsers()
     {
-        string query = @"SELECT * FROM users
-                         WHERE Id LIKE @Search
-                            OR Name LIKE @Search
-                            OR Email LIKE @Search
-                            OR Phone LIKE @Search";
-        usersAfterSearch = (await dbConnection.QueryAsync<User>(query, new { Search = $"%{searchInputValue}%" })).ToList();
+        if (string.IsNullOrWhiteSpace(searchInputValue))
+        {
+            usersQuery = new List<User>();
+        }
+        else
+        {
+            string query = @"SELECT * FROM users
+                             WHERE Id LIKE @Search
+                                OR Name LIKE @Search
+                                OR Email LIKE @Search
+                                OR Phone LIKE @Search";
+            usersQuery = (await dbConnection.QueryAsync<User>(query, new { Search = $"%{searchInputValue}%" })).ToList();
+        }
 
         StateHasChanged();
     }
