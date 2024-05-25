@@ -155,7 +155,10 @@
 
     public string searchInputValue
     {
-        get => _searchInputValue;
+        get
+        {
+            return _searchInputValue;
+        }
         set
         {
             if (_searchInputValue != value)
