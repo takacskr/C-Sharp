@@ -28,24 +28,24 @@ namespace halmazOperatorok
             // képes összefűzni két lista elemeit, de egy elemet csak egyszer tesz át az új listába 
             IEnumerable<int> result2 = list1.Union(list2);
 
-            // azokat az elemeket adja vissza, amelyek mindkét listában szerepelnek
+            // azokat az elemeket adja vissza a közös halmazból, amelyek mindkét listában szerepelnek
             IEnumerable<int> result3 = list1.Intersect(list2); // 10, 3, 67
 
-            // azokat az elemeket adja vissza, amelyek csak az első listában szerepelnek
+            // azokat az elemeket adja vissza a közös halmazból, amelyek csak az első listában szerepelnek
             IEnumerable<int> result4 = list1.Except(list2); // 56, 4, 6, 78, 44
 
             // visszaadja az elemek számát
-            int result5 = list1.Count(item => item > 10);
+            int result5 = list1.Count();
 
             // visszaadja az elemek számát, melyek nagyobbak mint 10
             int result6 = list1.Count(item => item > 10);
 
-            int result7 = list1.Min();
+            int result7 = list1.Min(); // 3
 
             int result8 = list1.Max(); // 78
 
             // itt maximum keresést végzünk, megadunk egy kezdőértéket, melynél biztosan van nagyobb elem a listában
-            int max = list3.Aggregate(-1, (result, item) => item > result ? item : result);
+            int max = list1.Aggregate(-1, (result, item) => item > result ? item : result);
 
             int result9 = list1.Max( (item) => item % 3 ); // 2
 
@@ -68,6 +68,10 @@ namespace halmazOperatorok
             }
 
             Console.WriteLine($"1% Aggregate: {percent}");
-        }
+            
+            Console.WriteLine($"Number of items in list 1: {result5}");
+
+            Console.WriteLine($"The maximum number in list 1: {max}");
+        }                                                                  
     }
 }
