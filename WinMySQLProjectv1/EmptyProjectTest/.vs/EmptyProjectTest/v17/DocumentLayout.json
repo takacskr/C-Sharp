@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\winmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\winmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\winmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Error.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Error.razor",
+              "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\Pages\\Error.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Error.razor",
+              "RelativeToolTip": "EmptyProjectTest\\Components\\Pages\\Error.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T08:00:30.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "EmptyProjectTest\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T08:00:28.621Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -28,7 +62,7 @@
               "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\Pages\\Counter.razor",
               "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Counter.razor",
               "RelativeToolTip": "EmptyProjectTest\\Components\\Pages\\Counter.razor",
-              "ViewState": "AQIAAC0AAAAAAAAAAAAuwEEAAABSAAAA",
+              "ViewState": "AQIAAOYAAAAAAAAAAAAIwO0AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T14:07:36.186Z",
               "EditorCaption": ""
