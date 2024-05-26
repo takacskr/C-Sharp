@@ -20,6 +20,8 @@ class Program
         };
 
         // Group people by their age using ToLookup
+        // This creates a lookup (an ILookup object) from a sequence
+        // The method takes a key selector function as an argument
         ILookup<int, Person> ageGroups = people.ToLookup(person => person.Age);
 
         // Iterate over each age group and print the names of people in that group
@@ -27,7 +29,7 @@ class Program
         {
             Console.WriteLine($"People with age {ageGroup.Key}:");
 
-            foreach (var person in ageGroup)
+            foreach (Person person in ageGroup)
             {
                 Console.WriteLine($"- {person.Name}");
             }
