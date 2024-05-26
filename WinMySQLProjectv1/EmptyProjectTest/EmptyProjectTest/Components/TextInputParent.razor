@@ -1,0 +1,9 @@
+﻿@code {
+    private string parentText = "Initial Text";
+}
+
+<h3 class="mt-5">Parent Component</h3>
+
+<TextInputChild @bind-Text="parentText" />
+
+<p>In parent component current text is: @parentText</p>

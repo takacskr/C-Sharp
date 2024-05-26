@@ -1,0 +1,39 @@
+﻿@code {
+    List<string> foods = new List<string>
+    {
+        "pizza",
+        "hamburger",
+        "hot dog",
+        "fruit"
+    };
+
+    Dictionary<string, bool> foodChecks = new Dictionary<string, bool>();
+
+    protected override void OnInitialized()
+    {
+        foreach (string food in foods)
+        {
+            foodChecks.Add(food, false);
+        }
+    }
+}
+
+<h3 class="mt-5">Selected food is: </h3>
+
+@foreach (string food in foods)
+{
+    <div class="form-check">
+        <input @bind="foodChecks[food]" class="form-check-input" type="checkbox" value="@food" id="@food">
+        <label class="form-check-label" for="@food">
+            @food
+        </label>
+    </div>
+}
+
+@foreach (KeyValuePair<string, bool> checkedFood in foodChecks)
+{
+    if (checkedFood.Value)
+    {
+        <span class="mb-4">"@checkedFood.Key"&nbsp;</span>
+    }
+}

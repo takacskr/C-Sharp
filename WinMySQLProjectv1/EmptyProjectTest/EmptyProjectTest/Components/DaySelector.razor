@@ -1,0 +1,24 @@
+﻿@code {
+    private string selectedDay = "";
+
+    private readonly List<string> daysOfWeek = new List<string>
+    {
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+    };
+}
+
+<h3 class="mb-1">Selected day is: @selectedDay</h3>
+
+<select @bind="selectedDay" class="form-select" aria-label="Select day">
+    <option value="" selected disabled>Select a day</option>
+    @foreach (string day in daysOfWeek)
+    {
+        <option value="@day">@day</option>
+    }
+</select>
