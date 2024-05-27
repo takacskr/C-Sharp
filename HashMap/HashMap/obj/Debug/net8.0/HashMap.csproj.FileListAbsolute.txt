@@ -1,0 +1,14 @@
+C:\Users\takac\source\repos\HashMap\HashMap\bin\Debug\net8.0\HashMap.exe
+C:\Users\takac\source\repos\HashMap\HashMap\bin\Debug\net8.0\HashMap.deps.json
+C:\Users\takac\source\repos\HashMap\HashMap\bin\Debug\net8.0\HashMap.runtimeconfig.json
+C:\Users\takac\source\repos\HashMap\HashMap\bin\Debug\net8.0\HashMap.dll
+C:\Users\takac\source\repos\HashMap\HashMap\bin\Debug\net8.0\HashMap.pdb
+C:\Users\takac\source\repos\HashMap\HashMap\obj\Debug\net8.0\HashMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\HashMap\HashMap\obj\Debug\net8.0\HashMap.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\HashMap\HashMap\obj\Debug\net8.0\HashMap.AssemblyInfo.cs
+C:\Users\takac\source\repos\HashMap\HashMap\obj\Debug\net8.0\HashMap.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\HashMap\HashMap\obj\Debug\net8.0\HashMap.dll
+C:\Users\takac\source\repos\HashMap\HashMap\obj\Debug\net8.0\refint\HashMap.dll
+C:\Users\takac\source\repos\HashMap\HashMap\obj\Debug\net8.0\HashMap.pdb
+C:\Users\takac\source\repos\HashMap\HashMap\obj\Debug\net8.0\HashMap.genruntimeconfig.cache
+C:\Users\takac\source\repos\HashMap\HashMap\obj\Debug\net8.0\ref\HashMap.dll

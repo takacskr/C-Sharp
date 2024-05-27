@@ -1,0 +1,14 @@
+C:\Users\takac\source\repos\Newest\Newest\bin\Debug\net8.0\Newest.exe
+C:\Users\takac\source\repos\Newest\Newest\bin\Debug\net8.0\Newest.deps.json
+C:\Users\takac\source\repos\Newest\Newest\bin\Debug\net8.0\Newest.runtimeconfig.json
+C:\Users\takac\source\repos\Newest\Newest\bin\Debug\net8.0\Newest.dll
+C:\Users\takac\source\repos\Newest\Newest\bin\Debug\net8.0\Newest.pdb
+C:\Users\takac\source\repos\Newest\Newest\obj\Debug\net8.0\Newest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\Newest\Newest\obj\Debug\net8.0\Newest.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\Newest\Newest\obj\Debug\net8.0\Newest.AssemblyInfo.cs
+C:\Users\takac\source\repos\Newest\Newest\obj\Debug\net8.0\Newest.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\Newest\Newest\obj\Debug\net8.0\Newest.dll
+C:\Users\takac\source\repos\Newest\Newest\obj\Debug\net8.0\refint\Newest.dll
+C:\Users\takac\source\repos\Newest\Newest\obj\Debug\net8.0\Newest.pdb
+C:\Users\takac\source\repos\Newest\Newest\obj\Debug\net8.0\Newest.genruntimeconfig.cache
+C:\Users\takac\source\repos\Newest\Newest\obj\Debug\net8.0\ref\Newest.dll
