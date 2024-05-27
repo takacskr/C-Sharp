@@ -16,6 +16,7 @@ namespace AbstractClass
 
     class Dog : Animal
     {
+        // Calling the base constructor of the Animal class to initialize the Name property
         public Dog(string name) : base(name) { }
 
         public override void Eat()

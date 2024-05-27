@@ -29,6 +29,7 @@ namespace Enum
             failMessages.ForEach(m => Console.WriteLine(m));
 
             Console.WriteLine(404 == (int)FailMessages.InvalidState);
+            Console.WriteLine(0 == (int)FailMessages.InvalidInput);
         }
     }
 }
