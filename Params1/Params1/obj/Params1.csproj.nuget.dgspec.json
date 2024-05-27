@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\takac\\source\\repos\\Params1\\Params1\\Params1.csproj": {}
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\Params1\\Params1\\Params1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\takac\\source\\repos\\Params1\\Params1\\Params1.csproj": {
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\Params1\\Params1\\Params1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\takac\\source\\repos\\Params1\\Params1\\Params1.csproj",
+        "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Params1\\Params1\\Params1.csproj",
         "projectName": "Params1",
-        "projectPath": "C:\\Users\\takac\\source\\repos\\Params1\\Params1\\Params1.csproj",
+        "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Params1\\Params1\\Params1.csproj",
         "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\takac\\source\\repos\\Params1\\Params1\\obj\\",
+        "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Params1\\Params1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
