@@ -4,8 +4,17 @@ namespace CountNumbers
 {
     public class Numbers
     {
-        public int Positive { get; private set; } = 0;
-        public int Negative { get; private set; } = 0;
+        private int positive = 0;
+        private int negative = 0;
+
+        public int Positive { get; set; } = 0;
+        public int Negative { get; set; } = 0;
+
+        public Numbers()
+        {
+            Positive = positive;
+            Negative = negative;
+        }
 
         public void AddNumber(int number)
         {
