@@ -1,0 +1,15 @@
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\bin\Debug\net8.0\Generic1.exe
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\bin\Debug\net8.0\Generic1.deps.json
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\bin\Debug\net8.0\Generic1.runtimeconfig.json
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\bin\Debug\net8.0\Generic1.dll
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\bin\Debug\net8.0\Generic1.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\obj\Debug\net8.0\Generic1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\obj\Debug\net8.0\Generic1.AssemblyInfoInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\obj\Debug\net8.0\Generic1.AssemblyInfo.cs
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\obj\Debug\net8.0\Generic1.csproj.CoreCompileInputs.cache
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\obj\Debug\net8.0\Generic1.sourcelink.json
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\obj\Debug\net8.0\Generic1.dll
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\obj\Debug\net8.0\refint\Generic1.dll
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\obj\Debug\net8.0\Generic1.pdb
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\obj\Debug\net8.0\Generic1.genruntimeconfig.cache
+C:\Users\Sugár\source\repos\C-Sharp\Generic1\obj\Debug\net8.0\ref\Generic1.dll
