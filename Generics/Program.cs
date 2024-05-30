@@ -44,8 +44,10 @@ class Program
         MediaContainer<Book> bookContainer = new MediaContainer<Book>();
         bookContainer.AddItem(new Book { Title = "To Kill a Mockingbird", Author = "Harper Lee" });
         bookContainer.AddItem(new Book { Title = "1984", Author = "George Orwell" });
+        bookContainer.AddItem(new Book { Title = "Schindler's list", Author = "Thomas Keneally" });
 
-        Console.WriteLine("Books:");
+        Console.WriteLine($"Books ({bookContainer.Count} pcs): ");
+
         for (int i = 0; i < bookContainer.Count; i++)
         {
             Book book = bookContainer.GetItem(i);
@@ -57,7 +59,8 @@ class Program
         dvdContainer.AddItem(new DVD { Title = "The Shawshank Redemption", Director = "Frank Darabont" });
         dvdContainer.AddItem(new DVD { Title = "The Godfather", Director = "Francis Ford Coppola" });
 
-        Console.WriteLine("DVDs:");
+        Console.WriteLine($"DVDs ({dvdContainer.Count} pcs): ");
+
         for (int i = 0; i < dvdContainer.Count; i++)
         {
             DVD dvd = dvdContainer.GetItem(i);
