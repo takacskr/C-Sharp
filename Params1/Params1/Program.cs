@@ -10,7 +10,7 @@ namespace Params1
     {
         static void Main(string[] args)
         {
-            int total = Sum(10, 20, 30, 40, 50);
+            int total = Sum(10, 20, 30, 40, 50, 60);
 
             PrintValues("Hello", "World");
             Console.WriteLine(total);
