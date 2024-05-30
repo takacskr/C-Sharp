@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\List2\\",
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\List2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{52BAEDBF-90D8-44F4-A9C9-E1E6AB4A4FBD}|List2\\List2.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\list2\\list2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{52BAEDBF-90D8-44F4-A9C9-E1E6AB4A4FBD}|List2\\List2.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\list2\\list2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{52BAEDBF-90D8-44F4-A9C9-E1E6AB4A4FBD}|List2\\List2.csproj|solutionrelative:list2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\List2\\List2\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\List2\\List2\\Program.cs",
               "RelativeDocumentMoniker": "List2\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\List2\\List2\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\List2\\List2\\Program.cs",
               "RelativeToolTip": "List2\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-13T09:03:46.57Z",
               "EditorCaption": ""

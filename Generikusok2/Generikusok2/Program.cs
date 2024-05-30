@@ -15,6 +15,7 @@ namespace Generikusok2
             size = capacity;
             pointer = 0;
         }
+
         public void Push(T item)
         {
             if (pointer >= size)
@@ -27,7 +28,7 @@ namespace Generikusok2
         // The Pop() method removes the last element
         public object Pop()
         {
-            if (pointer-- >= 0)
+            if (--pointer >= 0)
             {
                 return t[pointer];
             }
@@ -41,10 +42,12 @@ namespace Generikusok2
         static void Main(string[] args)
         {
             Stack<int> s = new Stack<int>(10);
+
             for (int i = 0; i < 10; ++i)
             {
                 s.Push(i);
             }
+
             for (int i = 0; i < 10; ++i)
             {
                 Console.WriteLine(s.Pop());
