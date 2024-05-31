@@ -1,9 +1,0 @@
-﻿@code {
-    [Parameter]
-    public string? text { get; set; }
-}
-
-<h3 class="mt-5">Text input</h3>
-
-<input @bind="text" @bind:event="oninput" />
-<p>Current text: @text</p>
