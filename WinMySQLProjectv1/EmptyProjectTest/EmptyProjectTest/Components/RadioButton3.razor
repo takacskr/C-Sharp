@@ -1,0 +1,23 @@
+﻿@code {
+    List<string> cars3 = new List<string>
+    {
+        "Suzuki", 
+        "Mazda",
+        "Mercedes",
+        "Volkswagen"
+    };
+
+    string selectedCar3 = "Mercedes";
+}
+
+<h3 class="mt-5">Selected car3 is: <span>@selectedCar3</span></h3>
+
+@foreach (var car3 in cars3)
+{
+    <div class="form-check3">
+        <input @onchange="e => selectedCar3 = car3" checked="@(selectedCar3 == car3)" class="form-check-input" type="radio" name="RadioGroup" id="@car3" />
+        <label class="form-check-label" for="@car3">
+            @car3
+        </label>
+    </div>
+}
