@@ -39,10 +39,7 @@ class Program
 
         // Kiírunk egy üzenetet a konzolra.
         Console.WriteLine("BlaBla...");
-<<<<<<< HEAD
 
         Console.ReadKey();
-=======
->>>>>>> 03df0447dbee9b3417532354bd5c1bb1552b5164
     }
 }

@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,11 +28,7 @@
               "RelativeDocumentMoniker": "AsyncDelegate\\Program.cs",
               "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\AsyncDelegate\\AsyncDelegate\\Program.cs",
               "RelativeToolTip": "AsyncDelegate\\Program.cs",
-<<<<<<< HEAD
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCQAAAAaAAAA",
-=======
-              "ViewState": "AQIAACoAAAAAAAAAAAAYwB8AAABNAAAA",
->>>>>>> 03df0447dbee9b3417532354bd5c1bb1552b5164
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-23T09:14:46.512Z",
               "EditorCaption": ""
