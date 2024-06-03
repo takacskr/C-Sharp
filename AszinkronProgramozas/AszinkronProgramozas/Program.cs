@@ -16,7 +16,7 @@ namespace PeldaAsyncawaitTaskMain
         private static async Task PrintCurrentTimeAsync()
         {
             Console.WriteLine(DateTime.Now);
-            await Task.Delay(2000);
+            Task.Delay(2000);
             Console.WriteLine(DateTime.Now);
         }
     }
