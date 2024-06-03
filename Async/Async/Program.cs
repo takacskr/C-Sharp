@@ -38,7 +38,7 @@ class Program
         DoSomething();
         
         // 2. Aszinkron módon elindítjuk a Square metódust egy háttérszálon
-        // Task<int> squareTask = Task.Run( () => Square(12) );
+        Task<int> squareTask = Task.Run( () => Square(12) );
 
         // 2.0 Várunk egy kicsit, hogy a háttérszál elinduljon és befejeződjön
         await Task.Delay(50);
