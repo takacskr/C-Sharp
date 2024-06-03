@@ -1,0 +1,14 @@
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\bin\Debug\net8.0\AsyncSimple.exe
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\bin\Debug\net8.0\AsyncSimple.deps.json
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\bin\Debug\net8.0\AsyncSimple.runtimeconfig.json
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\bin\Debug\net8.0\AsyncSimple.dll
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\bin\Debug\net8.0\AsyncSimple.pdb
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\obj\Debug\net8.0\AsyncSimple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\obj\Debug\net8.0\AsyncSimple.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\obj\Debug\net8.0\AsyncSimple.AssemblyInfo.cs
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\obj\Debug\net8.0\AsyncSimple.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\obj\Debug\net8.0\AsyncSimple.dll
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\obj\Debug\net8.0\refint\AsyncSimple.dll
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\obj\Debug\net8.0\AsyncSimple.pdb
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\obj\Debug\net8.0\AsyncSimple.genruntimeconfig.cache
+C:\Users\takac\source\repos\AsyncSimple\AsyncSimple\obj\Debug\net8.0\ref\AsyncSimple.dll

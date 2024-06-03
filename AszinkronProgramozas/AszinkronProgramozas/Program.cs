@@ -16,8 +16,15 @@ namespace PeldaAsyncawaitTaskMain
         private static async Task PrintCurrentTimeAsync()
         {
             Console.WriteLine(DateTime.Now);
-            Task.Delay(2000);
+            await Task.Delay(2000);
             Console.WriteLine(DateTime.Now);
         }
     }
 }
+
+/*
+    Async elott
+    2024. 06. 03. 18:23:09
+    2024. 06. 03. 18:23:11
+    Async után
+ */

@@ -9,7 +9,7 @@ class Program
  * Metódus Szál-ID: 5
  * Eredmény: 144
  */
-    // Egy delegált típust definiálunk, amely egy olyan metódust mutat, amely egy int paramétert vár és int értéket ad vissza.
+    // Egy delegált típust definiálunk, amely egy olyan metódusra mutat, amely egy int paramétert vár és int értéket ad vissza.
     public delegate int MyDelegate(int x);
 
     // Ez a metódus egy egész szám négyzetét számolja ki, majd visszaadja az eredményt.

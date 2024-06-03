@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AszinkronProgramozas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f200352244d81fd55d8b404fb24b8ab5e275e0f3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9f2e593d5a4c1f2087cca7738349172310f7eed6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AszinkronProgramozas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AszinkronProgramozas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
