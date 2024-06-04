@@ -6,9 +6,9 @@ namespace ConsoleApp1
     class Outer
     {
         // Privát adattag: 'value'
-        private int value = 11;
+        private int _value = 11;
 
-        // Privát belső osztály: 'Inner'
+        // Privát belső osztály: 'Inner' datafield
         private Inner child;
 
         // Külső osztály konstruktora
@@ -29,8 +29,8 @@ namespace ConsoleApp1
         // Belső osztály definíciója
         class Inner
         {
-            // Privát változó a külső osztályra való hivatkozáshoz
-            Outer parent;
+            // Privát datafield a külső osztályra való hivatkozáshoz
+            private Outer parent;
 
             // Belső osztály konstruktora, kap egy 'Outer' objektumot és eltárolja azt a 'parent' változóban
             public Inner(Outer parent)
@@ -41,7 +41,7 @@ namespace ConsoleApp1
             // Metódus a belső osztályban, kiírja a külső osztály 'value' adattagját a konzolra
             public void Do()
             {
-                Console.WriteLine(parent.value);
+                Console.WriteLine(parent._value);
             }
         }
     }

@@ -1,0 +1,15 @@
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\obj\Debug\net8.0\DefaultValues.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\obj\Debug\net8.0\DefaultValues.AssemblyInfoInputs.cache
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\obj\Debug\net8.0\DefaultValues.AssemblyInfo.cs
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\obj\Debug\net8.0\DefaultValues.csproj.CoreCompileInputs.cache
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\obj\Debug\net8.0\DefaultValues.sourcelink.json
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\bin\Debug\net8.0\DefaultValues.exe
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\bin\Debug\net8.0\DefaultValues.deps.json
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\bin\Debug\net8.0\DefaultValues.runtimeconfig.json
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\bin\Debug\net8.0\DefaultValues.dll
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\bin\Debug\net8.0\DefaultValues.pdb
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\obj\Debug\net8.0\DefaultValues.dll
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\obj\Debug\net8.0\refint\DefaultValues.dll
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\obj\Debug\net8.0\DefaultValues.pdb
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\obj\Debug\net8.0\DefaultValues.genruntimeconfig.cache
+c:\Users\takac\source\repos\C-Sharp\DefaultValues\DefaultValues\obj\Debug\net8.0\ref\DefaultValues.dll

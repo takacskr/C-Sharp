@@ -15,6 +15,16 @@ namespace TestApp
                 Console.WriteLine("B is a tiger");
             }
 
+            if (Animal.Cat == 0)
+            {
+                Console.WriteLine($"Animal is a cat");
+            } else
+            {
+                Console.WriteLine($"Animal is NOT a cat");
+            }
+
+            Console.WriteLine($"Amimal Cat is: {(int)Animal.Cat}");
+
             Animal a = Animal.Cat;
             int x = (int)a;
             Console.WriteLine(x);

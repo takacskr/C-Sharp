@@ -3,9 +3,9 @@
 /*
 Amikor létrehozunk egy Dog objektumot ezzel a konstruktorral,
 akkor először a Dog konstruktor fog meghívódni,
-amely beállítja a _name adattagot a kapott névre.
+amely beállítja a _name adattagot a kapott értékre.
 
-Ezután a Dog(string name, int age) konstruktor beállítja a _age adattagot a kapott korra.
+Ezután a Dog(string name, int age) konstruktor beállítja a _age adattagot a kapott értékre.
 
 Ez az osztály lehetővé teszi a kódnak, hogy különböző módokon hozzon létre Dog objektumokat.
 Ha csak a névét ismerjük, akkor csak az első konstruktort kell használnunk, de ha a korát
@@ -53,7 +53,7 @@ namespace ConsoleApp10
             Dog dog2 = new Dog("Morzsi", 7);
 
             Console.WriteLine(dog.Name);
-            Console.WriteLine($"{ dog2.Name}, {dog2.Age}");
+            Console.WriteLine($"{dog2.Name}, {dog2.Age}");
         }
     }
 }
