@@ -34,24 +34,6 @@ class Book
 
 class AnotherBook : Book
 {
-    /*
-     * Az AnotherBook osztály konstruktora a base kulcsszóval hívja meg az ősosztály,
-     * azaz a Book osztály konstruktorát. A "base(isbn, year, title)" részletesen megadja
-     * az isbn, year és title paramétereket az ősosztály konstruktorának meghívásakor.
-     * 
-     *  a : base() rész a Book osztály konstruktorának meghívását jelenti az adott paraméterekkel.
-     *  Ezáltal az AnotherBook konstruktora azonosítja az isbn, year és title adattagokat
-     *  az ősosztályban, és inicializálja azokat a megadott értékekkel.
-
-     *  Konstruktor láncolás (chaining)
-     *  -------------------------------
-     *  A base(isbn, year, title) rész az ősosztály konstruktorát hívja meg.
-     *  Az isbn, year és title paraméterekkel továbbítja azokat az adatokat az ősosztály konstruktorának,
-     *  amelyekkel inicializálni kell az ősosztály megfelelő mezőit vagy tulajdonságait.
-     *
-     *  Ez azért fontos, mert az osztályoknak lehetnek saját konstruktorai, de az ősosztályból örökölt tulajdonságokat
-     *  és adatokat is inicializálni kell, amihez használható ez a konstruktor chaining.
-     */
     public AnotherBook(int isbn, int year, string title) : base(isbn, year, title)
     {
     }
@@ -68,3 +50,22 @@ internal class Program
         aBook.DisplayBookInfo();
     }
 }
+
+/*
+ * Az AnotherBook osztály konstruktora a base kulcsszóval hívja meg az ősosztály konstruktorát.
+ * A "base(isbn, year, title)" részletesen megadja az isbn, year és title paramétereket
+ * az ősosztály konstruktorának meghívásakor.
+ * 
+ *  a : base() rész a Book osztály konstruktorának meghívását jelenti az adott paraméterekkel.
+ *  Ezáltal az AnotherBook konstruktora azonosítja az isbn, year és title adattagokat
+ *  az ősosztályban, és inicializálja azokat a megadott értékekkel.
+
+ *  Konstruktor láncolás (chaining)
+ *  -------------------------------
+ *  A base(isbn, year, title) rész az ősosztály konstruktorát hívja meg.
+ *  Az isbn, year és title paraméterekkel továbbítja azokat az adatokat az ősosztály konstruktorának,
+ *  amelyekkel inicializálni kell az ősosztály megfelelő mezőit vagy tulajdonságait.
+ *
+ *  Ez azért fontos, mert az osztályoknak lehetnek saját konstruktorai, de az ősosztályból örökölt tulajdonságokat
+ *  és adatokat is inicializálni kell, amihez használható ez a konstruktor chaining.
+ */

@@ -1,7 +1,9 @@
-﻿public class Diak
+﻿using System;
+
+public class Diak
 {
     // Adattag (field)
-    private string _nev;
+    private string? _nev;
 
     // Tulajdonság (property) a név lekérdezésére és beállítására
     public string Nev

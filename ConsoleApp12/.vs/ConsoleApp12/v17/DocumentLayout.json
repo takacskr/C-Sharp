@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ConsoleApp12\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp12\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{335128B8-C1A3-45AA-9A62-9FBFEB6302C3}|ConsoleApp12\\ConsoleApp12.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\consoleapp12\\consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{335128B8-C1A3-45AA-9A62-9FBFEB6302C3}|ConsoleApp12\\ConsoleApp12.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\consoleapp12\\consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{335128B8-C1A3-45AA-9A62-9FBFEB6302C3}|ConsoleApp12\\ConsoleApp12.csproj|solutionrelative:consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ConsoleApp12\\ConsoleApp12\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp12\\ConsoleApp12\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp12\\Program.cs",
-              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ConsoleApp12\\ConsoleApp12\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleApp12\\ConsoleApp12\\Program.cs",
               "RelativeToolTip": "ConsoleApp12\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAkAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-31T17:31:31.952Z",
               "EditorCaption": ""
