@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jvd9+zvcYi8=",
+  "dgSpecHash": "rvGi8GUpDpE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj",
+  "projectFilePath": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\takac\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.4\\microsoft.aspnetcore.authorization.8.0.4.nupkg.sha512",
     "C:\\Users\\takac\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.4\\microsoft.aspnetcore.components.8.0.4.nupkg.sha512",

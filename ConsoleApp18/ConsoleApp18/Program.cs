@@ -23,7 +23,18 @@ class Dog
         this._age = age;
     }
 
-    /* Ez a másoló konstruktor egy "Dog" objektumot vár paraméterként,
+    /*
+     * A másoló konstruktor (copy constructor) szerepe a C# programozási nyelvben az,
+     * hogy egy már létező objektum másolatát hozza létre, az objektum állapotának pontos másolatát megőrizve.
+     * Ez azt jelenti, hogy a másoló konstruktor egy új objektumot hoz létre, amely az eredeti objektum
+     * minden tulajdonságát és értékét másolja, így az új objektum teljesen azonos lesz az eredetivel.
+
+     * A másoló konstruktor használatával elkerülhető, hogy az objektumok referencia szerinti másolása során
+     * az eredeti objektumot módosítsuk, ami akár váratlan eredményekhez is vezethet.
+     * Ehelyett a másoló konstruktor garantálja, hogy az új objektum független lesz az eredetitől,
+     * és a módosítások nem érintik az eredeti objektumot.
+     * 
+     * Ez a másoló konstruktor egy "Dog" objektumot vár paraméterként,
      * majd ebből a másik Dog objektumból inicializálja az aktuális objektumot.
      * Ez azt jelenti, hogy a másik "Dog" objektum tulajdonságait átmásoljuk az aktuális objektumba.
      * */
