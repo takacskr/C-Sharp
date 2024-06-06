@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\bin\Debug\net8.0\ConsoleAppSwap.exe
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\bin\Debug\net8.0\ConsoleAppSwap.deps.json
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\bin\Debug\net8.0\ConsoleAppSwap.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\bin\Debug\net8.0\ConsoleAppSwap.dll
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\bin\Debug\net8.0\ConsoleAppSwap.pdb
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleAppSwap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleAppSwap.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleAppSwap.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleAppSwap.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleAppSwap.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleAppSwap.dll
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\refint\ConsoleAppSwap.dll
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleAppSwap.pdb
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ConsoleAppSwap.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp20\ConsoleApp20\obj\Debug\net8.0\ref\ConsoleAppSwap.dll
