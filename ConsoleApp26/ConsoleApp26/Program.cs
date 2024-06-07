@@ -4,9 +4,19 @@ namespace ConsoleApp26
 {
     class Person
     {
-        public string Name { get; set; }
+        private string? _name;
+        private int _age;
 
-        public int Age { get; set; }
+        public string Name
+        {
+            get { return _name; }
+            set { _name = value; }
+        }
+        public int Age
+        {
+            get { return _age; }
+            set { _age = value; }
+        }
 
 
         public Person(string name, int age)
