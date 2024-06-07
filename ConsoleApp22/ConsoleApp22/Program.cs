@@ -23,7 +23,7 @@
             Init i = new ();
             Test t = new Test();
             i.TestInit(out t);
-            Console.WriteLine(t.s);
+            Console.WriteLine(t.s); // Hello
         }
     }
 }
