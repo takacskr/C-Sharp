@@ -34,7 +34,6 @@ else
 
     protected override async Task OnInitializedAsync()
     {
-        // int testIntAsnycGet = await EmployeeService.TestAsync();
         employeeDetails = await EmployeeService.GetEmployeeAsync(DateTime.Now);
     }
 }

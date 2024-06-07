@@ -38,9 +38,3 @@ namespace Data
         }
     }
 }
-
-//public static async Task<int> TestAsync()
-//{
-//    await Task.Delay(1000);
-//    return 1;
-//}
