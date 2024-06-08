@@ -21,12 +21,14 @@ namespace ConsoleApp30
     static class A2
     {
         public static int x;
+
         static A2()
         {
             x = 10;
         }
     }
-internal class Program
+
+    internal class Program
     {
         static void Main(string[] args)
         {

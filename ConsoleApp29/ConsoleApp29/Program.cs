@@ -31,8 +31,15 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Start...");
-         
+
             Test t = new();
         }
     }
 }
+
+/*
+    Start...
+    Var értéke: 10
+    Statikus konstruktor
+    Konstruktor
+ */

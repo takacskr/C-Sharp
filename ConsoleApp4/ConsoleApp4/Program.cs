@@ -9,18 +9,28 @@ namespace ConsoleApp4
         private string name = "";
         public string Name
         {
-            get { return name; }
+            get => name;
             set { name = value; }
         }
 
     }
     internal class Program
-    {      
+    {
         static void Main(string[] args)
         {
-            Person person = new Person() { Name = "István" };
+            IList<Person> list = new List<Person>();
 
-            Console.WriteLine(person.Name);
+            list.Add(new Person() { Name = "István" });
+            list.Add(new Person() { Name = "Béla" });
+            list.Add(new Person() { Name = "László" });
+            list.Add(new Person() { Name = "Géza" });
+
+            list.Insert(2, new Person() { Name = "Gergely" });
+
+            foreach (Person p in list)
+            {
+                Console.WriteLine(p.Name);
+            }
         }
 
     }

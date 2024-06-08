@@ -1,17 +1,17 @@
 ﻿using System;
 
-
 /*
  * A class referenciatípust definiál, ami azt jelenti, hogy példányai referenciákra mutatnak,
- * és ezek az adatok a heap memóriában tárolódnak. Ezzel szemben a struct értéktípust definiál,
+ * és ezek az adatok a heap memóriában tárolódnak.
+ 
+ * Ezzel szemben a struct értéktípust definiál,
  * ami azt jelenti, hogy azok az adatok a verem memóriában tárolódnak, és direktben az értékük tárolódik.
  */
 
-
 namespace TestApp
 
-    // Class esetén az adatok tárolása a Heap-ben (halom)
-    // Struct esetén az adatok tárolása a Stack-ben (verem)
+// Class esetén az adatok tárolása a Heap-ben (halom)
+// Struct esetén az adatok tárolása a Stack-ben (verem)
 {
     // Ha struct helyett class használunk, akkor mindkét érték egyforma lesz mert ugyanarra a memóriaterületre
     // hivatkozik. Struct esetében viszont t2 létrehozásakor egy másik memóriaterületre történik a foglalás.

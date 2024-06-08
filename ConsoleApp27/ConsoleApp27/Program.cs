@@ -7,7 +7,7 @@ namespace ConsoleApp27
     {
         /* Az ArrayList a System.Collections névtérből származik,
         és egy dinamikus méretű, indexelhető kollekciót nyújt.
-        Az ArrayList objektumokat tárol azokhoz indexen keresztül
+        Az ArrayList objektumokat tárol, azokhoz indexen keresztül
         lehet hozzáférni */
 
         // ADATMEZŐ
