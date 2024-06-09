@@ -17,13 +17,22 @@ namespace TestApp
         public delegate Animal GetAnimal();
 
         // AnimalMethod metódus definiálása, ami egy Animal típusú objektumot hoz létre és visszaadja
-        static public Animal AnimalMethod() { return new Animal(); }
+        static public Animal AnimalMethod()
+        {
+            return new Animal();
+        }
 
         // DogMethod metódus definiálása, ami egy Dog típusú objektumot hoz létre és visszaadja
-        static public Dog DogMethod() { return new Dog(); }
+        static public Dog DogMethod()
+        {
+            return new Dog();
+        }
 
         // CatMethod metódus definiálása, ami egy Cat típusú objektumot hoz létre és visszaadja
-        static public Cat CatMethod() { return new Cat(); }
+        static public Cat CatMethod()
+        {
+            return new Cat();
+        }
 
         static void Main()
         {
