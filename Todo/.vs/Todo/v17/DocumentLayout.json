@@ -5,14 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6489FB8A-D309-4E18-AE22-33300A3A0857}|Todo\\Todo.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\todo\\todo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6489FB8A-D309-4E18-AE22-33300A3A0857}|Todo\\Todo.csproj|solutionrelative:todo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6489FB8A-D309-4E18-AE22-33300A3A0857}|Todo\\Todo.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\todo\\todo\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6489FB8A-D309-4E18-AE22-33300A3A0857}|Todo\\Todo.csproj|solutionrelative:todo\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6489FB8A-D309-4E18-AE22-33300A3A0857}|Todo\\Todo.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\todo\\todo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6489FB8A-D309-4E18-AE22-33300A3A0857}|Todo\\Todo.csproj|solutionrelative:todo\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,37 +14,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "app.css",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Todo\\Todo\\wwwroot\\app.css",
-              "RelativeDocumentMoniker": "Todo\\wwwroot\\app.css",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Todo\\Todo\\wwwroot\\app.css",
-              "RelativeToolTip": "Todo\\wwwroot\\app.css",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADoAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-06-09T08:53:41.399Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Todo\\Todo\\Components\\App.razor",
-              "RelativeDocumentMoniker": "Todo\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Todo\\Todo\\Components\\App.razor",
-              "RelativeToolTip": "Todo\\Components\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T08:48:07.489Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -62,7 +28,7 @@
               "RelativeDocumentMoniker": "Todo\\Components\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Todo\\Todo\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "Todo\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-06-09T08:42:19.866Z",
               "EditorCaption": ""

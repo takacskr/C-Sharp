@@ -27,13 +27,13 @@
     {
         static void Main(string[] args)
         {
-            NewString1 ns1 = new NewString1 ("baba");
+            NewString1 ns1 = new NewString1("baba");
             NewString2 ns2 = new NewString2();
 
             ns1.PrintUpper();
             ns2.PrintUpper("baba");
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }

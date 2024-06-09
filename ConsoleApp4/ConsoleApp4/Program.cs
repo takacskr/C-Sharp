@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
 
 namespace ConsoleApp4
 {
@@ -6,14 +8,15 @@ namespace ConsoleApp4
     {
         public Person() { }
 
-        private string name = "";
+        private string name;
+
         public string Name
         {
             get => name;
             set { name = value; }
         }
-
     }
+
     internal class Program
     {
         static void Main(string[] args)
@@ -23,15 +26,23 @@ namespace ConsoleApp4
             list.Add(new Person() { Name = "István" });
             list.Add(new Person() { Name = "Béla" });
             list.Add(new Person() { Name = "László" });
+            list.Add(new Person() { Name = "Gergely" });
+            list.Add(new Person() { Name = "Béla" });
+            list.Add(new Person() { Name = "Gergely" });
             list.Add(new Person() { Name = "Géza" });
 
-            list.Insert(2, new Person() { Name = "Gergely" });
+            // We want to find how many elements are duplicated in the list
+            var duplicatedCount = list
+               .GroupBy(p => p.Name)
+               .Where(g => g.Count() > 1)
+               .Sum(g => g.Count() - 1);
+
+            Console.WriteLine("Number of duplicated elements: " + duplicatedCount);
 
             foreach (Person p in list)
             {
                 Console.WriteLine(p.Name);
             }
         }
-
     }
 }

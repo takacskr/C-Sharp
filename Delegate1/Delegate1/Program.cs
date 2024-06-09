@@ -7,7 +7,7 @@ namespace Delegate1
 
     A delegátum típus egy olyan típus C#-ban, amely lehetővé teszi
     a függvények hivatkozását és átvitelét paraméterként más függvényeknek
-    vagy azok visszatérési értékének: A Transformer delegátumot definiáljuk,
+    vagy azok visszatérési értékének. Ebben a programban a Transformer delegátumot definiáljuk,
     amely egy ref int típusú paraméterrel rendelkezik és nincs visszatérési értéke.
 
     A TransformerMethod egy statikus metódus a Program osztályban, amely megváltoztatja az átadott int típusú paramétert
@@ -31,7 +31,6 @@ namespace Delegate1
     class Array
     {
         // Delegate definíciója a transzformációkhoz
-
         public delegate void Transformer(ref int item);
 
         // Privát tömb az Array osztályban

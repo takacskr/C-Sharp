@@ -1,4 +1,6 @@
-﻿namespace ConsoleApp7
+﻿using System.Diagnostics;
+
+namespace ConsoleApp7
 {
     class DisposableClass : IDisposable
     {
@@ -17,7 +19,7 @@
 
             }
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }

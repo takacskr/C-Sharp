@@ -19,7 +19,7 @@
     {
         static void Main(string[] args)
         {
-            Test t = new ();
+            Test t = new();
             t.PrintElements("alma", "körte", 1, 4, "dió");
         }
     }

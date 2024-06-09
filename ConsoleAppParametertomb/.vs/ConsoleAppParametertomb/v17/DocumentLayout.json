@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ConsoleAppParametertomb\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleAppParametertomb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17EB7394-E6EB-4259-9AF5-77133DF16FA8}|ConsoleAppParametertomb\\ConsoleAppParametertomb.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\consoleappparametertomb\\consoleappparametertomb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{17EB7394-E6EB-4259-9AF5-77133DF16FA8}|ConsoleAppParametertomb\\ConsoleAppParametertomb.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\consoleappparametertomb\\consoleappparametertomb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{17EB7394-E6EB-4259-9AF5-77133DF16FA8}|ConsoleAppParametertomb\\ConsoleAppParametertomb.csproj|solutionrelative:consoleappparametertomb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ConsoleAppParametertomb\\ConsoleAppParametertomb\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleAppParametertomb\\ConsoleAppParametertomb\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleAppParametertomb\\Program.cs",
-              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ConsoleAppParametertomb\\ConsoleAppParametertomb\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ConsoleAppParametertomb\\ConsoleAppParametertomb\\Program.cs",
               "RelativeToolTip": "ConsoleAppParametertomb\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-01-24T16:25:14.726Z",
               "EditorCaption": ""

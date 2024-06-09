@@ -32,7 +32,7 @@
             dog.Eat();
             dog.Sleep();
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
