@@ -33,6 +33,7 @@ class Program
         // all done, callback
         callback(x);
     }
+
     static async Task Main()
     {
         await DoSomethingSlow((42, 92, "text"), FirstCallback);

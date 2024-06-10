@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Callback3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b12b7ea8751b829ebbaa90801e9d7a7488c81ced")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bbd31d165ec6fee423216997ebbede0e448b08d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Callback3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Callback3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
