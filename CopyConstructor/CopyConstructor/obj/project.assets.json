@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\takac\\source\\repos\\CopyConstructor\\CopyConstructor\\CopyConstructor.csproj",
+      "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\CopyConstructor\\CopyConstructor\\CopyConstructor.csproj",
       "projectName": "CopyConstructor",
-      "projectPath": "C:\\Users\\takac\\source\\repos\\CopyConstructor\\CopyConstructor\\CopyConstructor.csproj",
+      "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\CopyConstructor\\CopyConstructor\\CopyConstructor.csproj",
       "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\takac\\source\\repos\\CopyConstructor\\CopyConstructor\\obj\\",
+      "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\CopyConstructor\\CopyConstructor\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

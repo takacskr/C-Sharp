@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\CopyConstructor\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\CopyConstructor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F4B8202-32DF-4451-87BC-8D455A29652F}|CopyConstructor\\CopyConstructor.csproj|c:\\users\\takac\\source\\repos\\copyconstructor\\copyconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F4B8202-32DF-4451-87BC-8D455A29652F}|CopyConstructor\\CopyConstructor.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\copyconstructor\\copyconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F4B8202-32DF-4451-87BC-8D455A29652F}|CopyConstructor\\CopyConstructor.csproj|solutionrelative:copyconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\CopyConstructor\\CopyConstructor\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\CopyConstructor\\CopyConstructor\\Program.cs",
               "RelativeDocumentMoniker": "CopyConstructor\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\CopyConstructor\\CopyConstructor\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\CopyConstructor\\CopyConstructor\\Program.cs",
               "RelativeToolTip": "CopyConstructor\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-05T17:31:10.288Z",
               "EditorCaption": ""

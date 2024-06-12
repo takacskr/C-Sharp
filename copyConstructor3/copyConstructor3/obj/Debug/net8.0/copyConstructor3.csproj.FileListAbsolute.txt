@@ -1,0 +1,14 @@
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\bin\Debug\net8.0\copyConstructor3.exe
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\bin\Debug\net8.0\copyConstructor3.deps.json
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\bin\Debug\net8.0\copyConstructor3.runtimeconfig.json
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\bin\Debug\net8.0\copyConstructor3.dll
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\bin\Debug\net8.0\copyConstructor3.pdb
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\obj\Debug\net8.0\copyConstructor3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\obj\Debug\net8.0\copyConstructor3.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\obj\Debug\net8.0\copyConstructor3.AssemblyInfo.cs
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\obj\Debug\net8.0\copyConstructor3.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\obj\Debug\net8.0\copyConstructor3.dll
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\obj\Debug\net8.0\refint\copyConstructor3.dll
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\obj\Debug\net8.0\copyConstructor3.pdb
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\obj\Debug\net8.0\copyConstructor3.genruntimeconfig.cache
+C:\Users\takac\source\repos\copyConstructor3\copyConstructor3\obj\Debug\net8.0\ref\copyConstructor3.dll

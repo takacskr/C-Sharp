@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "copyConstructor3", "copyConstructor3\copyConstructor3.csproj", "{FAF45264-673F-47F9-B644-F17A5ABC3B1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAF45264-673F-47F9-B644-F17A5ABC3B1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF45264-673F-47F9-B644-F17A5ABC3B1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF45264-673F-47F9-B644-F17A5ABC3B1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF45264-673F-47F9-B644-F17A5ABC3B1F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A2131FF-56B8-4CAF-A536-921C579757D2}
+	EndGlobalSection
+EndGlobal
