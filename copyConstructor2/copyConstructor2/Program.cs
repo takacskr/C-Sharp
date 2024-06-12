@@ -2,25 +2,42 @@
 
 public class Dog
 {
-    private string _name;
+    private string? _name;
     private int _age;
 
     public Dog(string name, int age)
     {
-        this._name = name;
-        this._age = age;
+        if (name == null)
+        {
+            throw new ArgumentNullException(nameof(name), "Name cannot be null.");
+        }
+
+        Name = name;
+        Age = age;
     }
 
     public Dog(Dog OtherDog)
-        : this(OtherDog._name, OtherDog._age)
-    { }
+    {
+        if (OtherDog is null)
+        {
+            throw new ArgumentNullException(nameof(OtherDog), "OtherDog cannot be bull");
+        }
+
+        if (OtherDog.Name is null)
+        {
+            throw new ArgumentNullException(nameof(OtherDog.Name), "OtherDog.Name cannot be bull");
+        }
+
+        this.Name = OtherDog.Name;
+        this.Age = OtherDog.Age;
+    }
 
     public void Bark()
     {
         Console.WriteLine("Vau vau");
     }
 
-    public string Name
+    public string? Name
     {
         get { return _name; }
         set
@@ -58,7 +75,11 @@ public class Program
         Console.WriteLine($"Dog's name: {d.Name}, Age: {d.Age}");
         d.Bark(); // Assuming you added a Bark() method
 
+        Dog o = new Dog(d);
+        o.Name = "Sunny";
+        o.Age = 7;
 
+        Console.WriteLine($"Dog's name: {d.Name}, Age: {d.Age}");
     }
 
 }

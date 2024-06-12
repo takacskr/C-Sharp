@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\takac\\source\\repos\\copyConstructor\\copyConstructor\\copyConstructor.csproj": {}
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\copyConstructor0\\copyConstructor\\copyConstructor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\takac\\source\\repos\\copyConstructor\\copyConstructor\\copyConstructor.csproj": {
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\copyConstructor0\\copyConstructor\\copyConstructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\takac\\source\\repos\\copyConstructor\\copyConstructor\\copyConstructor.csproj",
+        "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\copyConstructor0\\copyConstructor\\copyConstructor.csproj",
         "projectName": "copyConstructor",
-        "projectPath": "C:\\Users\\takac\\source\\repos\\copyConstructor\\copyConstructor\\copyConstructor.csproj",
+        "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\copyConstructor0\\copyConstructor\\copyConstructor.csproj",
         "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\takac\\source\\repos\\copyConstructor\\copyConstructor\\obj\\",
+        "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\copyConstructor0\\copyConstructor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
