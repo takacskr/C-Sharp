@@ -1,0 +1,14 @@
+C:\Users\takac\source\repos\Tuples2\Tuples2\bin\Debug\net8.0\Tuples2.exe
+C:\Users\takac\source\repos\Tuples2\Tuples2\bin\Debug\net8.0\Tuples2.deps.json
+C:\Users\takac\source\repos\Tuples2\Tuples2\bin\Debug\net8.0\Tuples2.runtimeconfig.json
+C:\Users\takac\source\repos\Tuples2\Tuples2\bin\Debug\net8.0\Tuples2.dll
+C:\Users\takac\source\repos\Tuples2\Tuples2\bin\Debug\net8.0\Tuples2.pdb
+C:\Users\takac\source\repos\Tuples2\Tuples2\obj\Debug\net8.0\Tuples2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\Tuples2\Tuples2\obj\Debug\net8.0\Tuples2.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\Tuples2\Tuples2\obj\Debug\net8.0\Tuples2.AssemblyInfo.cs
+C:\Users\takac\source\repos\Tuples2\Tuples2\obj\Debug\net8.0\Tuples2.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\Tuples2\Tuples2\obj\Debug\net8.0\Tuples2.dll
+C:\Users\takac\source\repos\Tuples2\Tuples2\obj\Debug\net8.0\refint\Tuples2.dll
+C:\Users\takac\source\repos\Tuples2\Tuples2\obj\Debug\net8.0\Tuples2.pdb
+C:\Users\takac\source\repos\Tuples2\Tuples2\obj\Debug\net8.0\Tuples2.genruntimeconfig.cache
+C:\Users\takac\source\repos\Tuples2\Tuples2\obj\Debug\net8.0\ref\Tuples2.dll
