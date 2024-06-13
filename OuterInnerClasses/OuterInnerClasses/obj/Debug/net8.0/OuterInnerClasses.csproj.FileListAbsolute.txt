@@ -1,0 +1,14 @@
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\bin\Debug\net8.0\OuterInnerClasses.exe
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\bin\Debug\net8.0\OuterInnerClasses.deps.json
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\bin\Debug\net8.0\OuterInnerClasses.runtimeconfig.json
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\bin\Debug\net8.0\OuterInnerClasses.dll
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\bin\Debug\net8.0\OuterInnerClasses.pdb
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\obj\Debug\net8.0\OuterInnerClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\obj\Debug\net8.0\OuterInnerClasses.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\obj\Debug\net8.0\OuterInnerClasses.AssemblyInfo.cs
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\obj\Debug\net8.0\OuterInnerClasses.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\obj\Debug\net8.0\OuterInnerClasses.dll
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\obj\Debug\net8.0\refint\OuterInnerClasses.dll
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\obj\Debug\net8.0\OuterInnerClasses.pdb
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\obj\Debug\net8.0\OuterInnerClasses.genruntimeconfig.cache
+C:\Users\takac\source\repos\OuterInnerClasses\OuterInnerClasses\obj\Debug\net8.0\ref\OuterInnerClasses.dll

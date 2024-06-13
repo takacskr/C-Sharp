@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\bin\Debug\net8.0\MethodExtension1.exe
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\bin\Debug\net8.0\MethodExtension1.deps.json
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\bin\Debug\net8.0\MethodExtension1.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\bin\Debug\net8.0\MethodExtension1.dll
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\bin\Debug\net8.0\MethodExtension1.pdb
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\obj\Debug\net8.0\MethodExtension1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\obj\Debug\net8.0\MethodExtension1.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\obj\Debug\net8.0\MethodExtension1.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\obj\Debug\net8.0\MethodExtension1.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\obj\Debug\net8.0\MethodExtension1.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\obj\Debug\net8.0\MethodExtension1.dll
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\obj\Debug\net8.0\refint\MethodExtension1.dll
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\obj\Debug\net8.0\MethodExtension1.pdb
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\obj\Debug\net8.0\MethodExtension1.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\MethodExtension1\MethodExtension1\obj\Debug\net8.0\ref\MethodExtension1.dll
