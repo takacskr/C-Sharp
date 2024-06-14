@@ -1,4 +1,5 @@
 ﻿using System;
+using ClassLibrary1;
 
 struct Test
 {
@@ -15,5 +16,6 @@ class Program
     {
         Test myTest = new Test { x = 10 };
         Console.WriteLine(myTest.ToString()); // Output: X == 10
+        Class1.PrintHello();
     }
 }
