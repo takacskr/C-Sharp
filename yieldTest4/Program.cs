@@ -17,7 +17,7 @@
         {
             foreach (var number in Numbers.GetNumbers(10))
             {
-                Console.WriteLine(number);
+                Console.Write(number);
             }
         }
     }

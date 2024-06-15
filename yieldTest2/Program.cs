@@ -11,7 +11,8 @@ using System.Collections.Generic;
 Ehelyett egy IEnumerable vagy IEnumerator objektumot ad vissza, amelyet, amikor enumerálják, lefut a metódus és előállítja az értékek sorozatát.
 
 - Állapotgép: A fordító egy állapotgépet generál, amely nyomon követi az iterator aktuális állapotát.
-Ezt az állapotgépet használják arra, hogy emlékezzen az aktuális pozícióra a sorozatban, és folytassa a végrehajtást onnan, ahol abbahagyta, amikor az iterator újra enumerálva van.
+Ezt az állapotgépet használják arra, hogy emlékezzen az aktuális pozícióra a sorozatban, és folytassa a végrehajtást onnan, ahol abbahagyta,
+amikor az iterator újra enumerálva van.
 
 - Yield Return: A yield return utasítás egy értéket állít elő a sorozatban.
 Amikor a yield return utasításra érkezünk, a metódus visszatér a hívóhoz, de emlékszik az aktuális állapotra.
@@ -23,17 +24,17 @@ az iterator leáll, és több értéket nem állít elő.
 
 class Program
 {
-    static void Main()
+    internal static void Main()
     {
-        foreach (int number in GenerateNumbers())
+        foreach (int number in GenerateNumbers(10))
         {
             Console.WriteLine(number);
         }
     }
 
-    static IEnumerable<int> GenerateNumbers()
+    public static IEnumerable<int> GenerateNumbers(int max)
     {
-        for (int i = 0; i < 10; i++)
+        for (int i = 0; i < max; i++)
         {
             yield return i;
         }

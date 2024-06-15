@@ -9,7 +9,6 @@
      * mint az adatfeldolgozás, az aszinkron programozás és a kooperatív multitasking.
      */
 
-
     internal class Program
     {
         static void Main(string[] args)

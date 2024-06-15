@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections;
+
 namespace TestApp
 {
     class Program
     {
-        static public IEnumerable EnumerableMethod(int max)
+        public static IEnumerable EnumerableMethod(int max)
         {
             for (int i = 0; i < max; ++i)
             {
@@ -17,7 +18,7 @@ namespace TestApp
             {
                 Console.Write(i);
             }
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }
