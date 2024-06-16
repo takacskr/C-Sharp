@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\bin\Debug\net8.0\Inheritance1.exe
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\bin\Debug\net8.0\Inheritance1.deps.json
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\bin\Debug\net8.0\Inheritance1.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\bin\Debug\net8.0\Inheritance1.dll
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\bin\Debug\net8.0\Inheritance1.pdb
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\obj\Debug\net8.0\Inheritance1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\obj\Debug\net8.0\Inheritance1.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\obj\Debug\net8.0\Inheritance1.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\obj\Debug\net8.0\Inheritance1.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\obj\Debug\net8.0\Inheritance1.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\obj\Debug\net8.0\Inheritance1.dll
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\obj\Debug\net8.0\refint\Inheritance1.dll
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\obj\Debug\net8.0\Inheritance1.pdb
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\obj\Debug\net8.0\Inheritance1.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\Inheritance1\Inheritance1\obj\Debug\net8.0\ref\Inheritance1.dll
