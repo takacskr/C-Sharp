@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Action-GenerikusKifejezes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0aaa6814e71b5c98315aaf94bab3ae137be0fdab")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e77e9d551a0478f626fc820504274c0ae9c94b48")]
 [assembly: System.Reflection.AssemblyProductAttribute("Action-GenerikusKifejezes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Action-GenerikusKifejezes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

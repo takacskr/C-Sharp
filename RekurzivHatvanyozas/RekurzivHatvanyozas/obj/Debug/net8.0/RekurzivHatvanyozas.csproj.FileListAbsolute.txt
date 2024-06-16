@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\bin\Debug\net8.0\RekurzivHatvanyozas.exe
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\bin\Debug\net8.0\RekurzivHatvanyozas.deps.json
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\bin\Debug\net8.0\RekurzivHatvanyozas.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\bin\Debug\net8.0\RekurzivHatvanyozas.dll
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\bin\Debug\net8.0\RekurzivHatvanyozas.pdb
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\obj\Debug\net8.0\RekurzivHatvanyozas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\obj\Debug\net8.0\RekurzivHatvanyozas.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\obj\Debug\net8.0\RekurzivHatvanyozas.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\obj\Debug\net8.0\RekurzivHatvanyozas.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\obj\Debug\net8.0\RekurzivHatvanyozas.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\obj\Debug\net8.0\RekurzivHatvanyozas.dll
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\obj\Debug\net8.0\refint\RekurzivHatvanyozas.dll
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\obj\Debug\net8.0\RekurzivHatvanyozas.pdb
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\obj\Debug\net8.0\RekurzivHatvanyozas.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\RekurzivHatvanyozas\RekurzivHatvanyozas\obj\Debug\net8.0\ref\RekurzivHatvanyozas.dll
