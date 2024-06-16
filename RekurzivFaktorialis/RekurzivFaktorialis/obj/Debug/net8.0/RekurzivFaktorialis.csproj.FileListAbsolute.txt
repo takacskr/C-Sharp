@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\obj\Debug\net8.0\RekurzivFaktorialis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\obj\Debug\net8.0\RekurzivFaktorialis.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\obj\Debug\net8.0\RekurzivFaktorialis.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\obj\Debug\net8.0\RekurzivFaktorialis.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\obj\Debug\net8.0\RekurzivFaktorialis.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\bin\Debug\net8.0\RekurzivFaktorialis.exe
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\bin\Debug\net8.0\RekurzivFaktorialis.deps.json
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\bin\Debug\net8.0\RekurzivFaktorialis.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\bin\Debug\net8.0\RekurzivFaktorialis.dll
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\bin\Debug\net8.0\RekurzivFaktorialis.pdb
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\obj\Debug\net8.0\RekurzivFaktorialis.dll
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\obj\Debug\net8.0\refint\RekurzivFaktorialis.dll
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\obj\Debug\net8.0\RekurzivFaktorialis.pdb
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\obj\Debug\net8.0\RekurzivFaktorialis.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\RekurzivFaktorialis\RekurzivFaktorialis\obj\Debug\net8.0\ref\RekurzivFaktorialis.dll
