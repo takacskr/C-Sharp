@@ -40,6 +40,7 @@
     {
         public BigEvilCrocodile(string name)
             : base(name) { }
+
         public void Eat()
         {
             Console.WriteLine("A krokodil óceánjárót rág...");
