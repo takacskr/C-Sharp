@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj": {}
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj": {}
   },
   "projects": {
-    "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj": {
+    "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj",
+        "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj",
         "projectName": "BlazorWebAssemblyStandaloneAppBasics",
-        "projectPath": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj",
+        "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\BlazorWebAssemblyStandaloneAppBasics.csproj",
         "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\obj\\",
+        "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorWebAssemblyStandaloneAppBasics3\\BlazorWebAssemblyStandaloneAppBasics\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

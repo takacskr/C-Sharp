@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\winmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\checkboxes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\components\\checkboxes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\winmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\dayselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\components\\dayselector.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\winmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\winmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\winmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\textinputsimple.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\components\\textinputsimple.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\winmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\pages\\error.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,12 +41,65 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextInputSimple.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\TextInputSimple.razor",
+              "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\TextInputSimple.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\TextInputSimple.razor",
+              "RelativeToolTip": "EmptyProjectTest\\Components\\TextInputSimple.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T18:49:21Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DaySelector.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\DaySelector.razor",
+              "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\DaySelector.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\DaySelector.razor",
+              "RelativeToolTip": "EmptyProjectTest\\Components\\DaySelector.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T19:25:54.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Checkboxes.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Checkboxes.razor",
+              "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\Checkboxes.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Checkboxes.razor",
+              "RelativeToolTip": "EmptyProjectTest\\Components\\Checkboxes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T18:54:11.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\Pages\\Weather.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "EmptyProjectTest\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAABAAAAAAAAAAAAAUwDIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T18:50:25.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "Error.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Error.razor",
               "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\Pages\\Error.razor",
@@ -42,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\Pages\\Home.razor",
@@ -54,13 +123,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\Pages\\Counter.razor",
               "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\WinMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Counter.razor",
               "RelativeToolTip": "EmptyProjectTest\\Components\\Pages\\Counter.razor",
-              "ViewState": "AQIAAJMAAAAAAAAAAAAAAKYAAAAFAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-24T14:07:36.186Z",
               "EditorCaption": ""

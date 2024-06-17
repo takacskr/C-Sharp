@@ -9,79 +9,79 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = EmptyProjectTest
 build_property.RootNamespace = EmptyProjectTest
-build_property.ProjectDir = /Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/
+build_property.ProjectDir = C:\Users\takac\source\repos\C-Sharp\MacMySQLProjectv1\EmptyProjectTest\EmptyProjectTest\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest
+build_property.MSBuildProjectDirectory = C:\Users\takac\source\repos\C-Sharp\MacMySQLProjectv1\EmptyProjectTest\EmptyProjectTest
 build_property._RazorSourceGeneratorDebug = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/App.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9BcHAucmF6b3I=
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/App.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Checkboxes.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9DaGVja2JveGVzLnJhem9y
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Checkboxes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDaGVja2JveGVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/DaySelector.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9EYXlTZWxlY3Rvci5yYXpvcg==
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/DaySelector.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEYXlTZWxlY3Rvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Pages/Counter.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Db3VudGVyLnJhem9y
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Pages/Counter.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Pages/Error.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9FcnJvci5yYXpvcg==
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Pages/Error.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Pages/Home.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9Ib21lLnJhem9y
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Pages/Home.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Pages/Weather.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9QYWdlcy9XZWF0aGVyLnJhem9y
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Pages/Weather.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/RadioButton.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9SYWRpb0J1dHRvbi5yYXpvcg==
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/RadioButton.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYWRpb0J1dHRvbi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/RadioButton2.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9SYWRpb0J1dHRvbjIucmF6b3I=
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/RadioButton2.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYWRpb0J1dHRvbjIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/RadioButton3.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9SYWRpb0J1dHRvbjMucmF6b3I=
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/RadioButton3.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSYWRpb0J1dHRvbjMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Routes.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9Sb3V0ZXMucmF6b3I=
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Routes.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/TextInputChild.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9UZXh0SW5wdXRDaGlsZC5yYXpvcg==
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/TextInputChild.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXh0SW5wdXRDaGlsZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/TextInputParent.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9UZXh0SW5wdXRQYXJlbnQucmF6b3I=
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/TextInputParent.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXh0SW5wdXRQYXJlbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/TextInputSimple.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9UZXh0SW5wdXRTaW1wbGUucmF6b3I=
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/TextInputSimple.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUZXh0SW5wdXRTaW1wbGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/_Imports.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9fSW1wb3J0cy5yYXpvcg==
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Layout/MainLayout.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTWFpbkxheW91dC5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-l76y64cqj7
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-l42axnoqnr
 
-[/Users/takacskr/Projects/C-Sharp/MySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Layout/NavMenu.razor]
-build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50cy9MYXlvdXQvTmF2TWVudS5yYXpvcg==
-build_metadata.AdditionalFiles.CssScope = b-jooavw3kip
+[C:/Users/takac/source/repos/C-Sharp/MacMySQLProjectv1/EmptyProjectTest/EmptyProjectTest/Components/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = b-8pekupzj3l
