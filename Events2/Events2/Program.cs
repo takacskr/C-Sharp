@@ -26,7 +26,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        var eventSource = new EventSource();
+        EventSource eventSource = new EventSource();
 
         // Feliratkozás az eseményre
         eventSource.SzamMegvaltozott += EventSource_SzamMegvaltozott;
