@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\CallbackDelegatednf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1052F13-2215-40F4-9B5A-EF77275AF579}|CallbackDelegatednf\\CallbackDelegatednf.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\callbackdelegatednf\\callbackdelegatednf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1052F13-2215-40F4-9B5A-EF77275AF579}|CallbackDelegatednf\\CallbackDelegatednf.csproj|solutionrelative:callbackdelegatednf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\CallbackDelegatednf\\CallbackDelegatednf\\Program.cs",
+              "RelativeDocumentMoniker": "CallbackDelegatednf\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\CallbackDelegatednf\\CallbackDelegatednf\\Program.cs",
+              "RelativeToolTip": "CallbackDelegatednf\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:18:04.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

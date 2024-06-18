@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\bin\Debug\net8.0\Events1dnf.exe
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\bin\Debug\net8.0\Events1dnf.deps.json
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\bin\Debug\net8.0\Events1dnf.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\bin\Debug\net8.0\Events1dnf.dll
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\bin\Debug\net8.0\Events1dnf.pdb
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\obj\Debug\net8.0\Events1dnf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\obj\Debug\net8.0\Events1dnf.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\obj\Debug\net8.0\Events1dnf.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\obj\Debug\net8.0\Events1dnf.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\obj\Debug\net8.0\Events1dnf.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\obj\Debug\net8.0\Events1dnf.dll
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\obj\Debug\net8.0\refint\Events1dnf.dll
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\obj\Debug\net8.0\Events1dnf.pdb
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\obj\Debug\net8.0\Events1dnf.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\Events1dnf\Events1dnf\obj\Debug\net8.0\ref\Events1dnf.dll

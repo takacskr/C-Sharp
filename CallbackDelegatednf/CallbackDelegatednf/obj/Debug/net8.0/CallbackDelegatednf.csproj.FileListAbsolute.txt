@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\bin\Debug\net8.0\CallbackDelegatednf.exe
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\bin\Debug\net8.0\CallbackDelegatednf.deps.json
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\bin\Debug\net8.0\CallbackDelegatednf.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\bin\Debug\net8.0\CallbackDelegatednf.dll
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\bin\Debug\net8.0\CallbackDelegatednf.pdb
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\obj\Debug\net8.0\CallbackDelegatednf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\obj\Debug\net8.0\CallbackDelegatednf.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\obj\Debug\net8.0\CallbackDelegatednf.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\obj\Debug\net8.0\CallbackDelegatednf.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\obj\Debug\net8.0\CallbackDelegatednf.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\obj\Debug\net8.0\CallbackDelegatednf.dll
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\obj\Debug\net8.0\refint\CallbackDelegatednf.dll
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\obj\Debug\net8.0\CallbackDelegatednf.pdb
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\obj\Debug\net8.0\CallbackDelegatednf.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\CallbackDelegatednf\CallbackDelegatednf\obj\Debug\net8.0\ref\CallbackDelegatednf.dll

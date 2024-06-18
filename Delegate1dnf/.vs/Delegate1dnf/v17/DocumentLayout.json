@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Delegate1dnf\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C7858E5-3C3B-42AF-BF9E-8CE9D1F7F2B8}|Delegate1dnf\\Delegate1dnf.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\delegate1dnf\\delegate1dnf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C7858E5-3C3B-42AF-BF9E-8CE9D1F7F2B8}|Delegate1dnf\\Delegate1dnf.csproj|solutionrelative:delegate1dnf\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Delegate1dnf\\Delegate1dnf\\Program.cs",
+              "RelativeDocumentMoniker": "Delegate1dnf\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Delegate1dnf\\Delegate1dnf\\Program.cs",
+              "RelativeToolTip": "Delegate1dnf\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T16:17:08.066Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

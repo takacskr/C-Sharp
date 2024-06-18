@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\bin\Debug\net8.0\Delegate1dnf.exe
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\bin\Debug\net8.0\Delegate1dnf.deps.json
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\bin\Debug\net8.0\Delegate1dnf.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\bin\Debug\net8.0\Delegate1dnf.dll
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\bin\Debug\net8.0\Delegate1dnf.pdb
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\obj\Debug\net8.0\Delegate1dnf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\obj\Debug\net8.0\Delegate1dnf.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\obj\Debug\net8.0\Delegate1dnf.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\obj\Debug\net8.0\Delegate1dnf.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\obj\Debug\net8.0\Delegate1dnf.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\obj\Debug\net8.0\Delegate1dnf.dll
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\obj\Debug\net8.0\refint\Delegate1dnf.dll
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\obj\Debug\net8.0\Delegate1dnf.pdb
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\obj\Debug\net8.0\Delegate1dnf.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\Delegate1dnf\Delegate1dnf\obj\Debug\net8.0\ref\Delegate1dnf.dll
