@@ -6,7 +6,7 @@ public class EventSource
 {
     private int szam;
 
-    public event SzamValtozottEventHandler SzamMegvaltozott;
+    public event SzamValtozottEventHandler? SzamMegvaltozott;
 
     public EventSource()
     {
