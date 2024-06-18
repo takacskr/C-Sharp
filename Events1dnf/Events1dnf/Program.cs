@@ -31,16 +31,16 @@ public class Szamolo
 
 public class Program
 {
-    // Static method to handle the SzamValtozott event
-    // This method takes an int parameter and writes a message to the console
-    static void SzamValtozottKezelo(int ujErtek)
-    {
-        Console.WriteLine("A szám új értéke: " + ujErtek);
-    }
-
     // Main method, the entry point of the program
     public static void Main()
     {
+        // Static method to handle the SzamValtozott event
+        // This method takes an int parameter and writes a message to the console
+        static void SzamValtozottKezelo(int ujErtek)
+        {
+            Console.WriteLine("A szám új értéke: " + ujErtek);
+        }
+
         // Create an instance of the Szamolo class
         Szamolo szamolo = new Szamolo();
 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CallbackDelegatednf")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04c83a002329a60099011b4e4fe33c5c36097190")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1eae0efd3e56de3c1ba4849bbee2f9972ca050a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CallbackDelegatednf")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CallbackDelegatednf")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
