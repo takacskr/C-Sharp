@@ -5,8 +5,10 @@ public class Program
     public class Szamolo
     {
         private int szam;
+
         public delegate void SzamValtozottEventHandler(int ujErtek); // Delegate definition inside Szamolo
-        public event SzamValtozottEventHandler SzamValtozott;
+
+        public event SzamValtozottEventHandler? SzamValtozott;
 
         public Szamolo()
         {
