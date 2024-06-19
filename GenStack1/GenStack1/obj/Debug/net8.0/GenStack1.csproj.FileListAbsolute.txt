@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\bin\Debug\net8.0\GenStack1.exe
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\bin\Debug\net8.0\GenStack1.deps.json
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\bin\Debug\net8.0\GenStack1.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\bin\Debug\net8.0\GenStack1.dll
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\bin\Debug\net8.0\GenStack1.pdb
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\obj\Debug\net8.0\GenStack1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\obj\Debug\net8.0\GenStack1.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\obj\Debug\net8.0\GenStack1.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\obj\Debug\net8.0\GenStack1.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\obj\Debug\net8.0\GenStack1.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\obj\Debug\net8.0\GenStack1.dll
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\obj\Debug\net8.0\refint\GenStack1.dll
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\obj\Debug\net8.0\GenStack1.pdb
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\obj\Debug\net8.0\GenStack1.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\GenStack1\GenStack1\obj\Debug\net8.0\ref\GenStack1.dll

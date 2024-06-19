@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\bin\Debug\net8.0\GenSwap1.exe
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\bin\Debug\net8.0\GenSwap1.deps.json
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\bin\Debug\net8.0\GenSwap1.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\bin\Debug\net8.0\GenSwap1.dll
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\bin\Debug\net8.0\GenSwap1.pdb
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\obj\Debug\net8.0\GenSwap1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\obj\Debug\net8.0\GenSwap1.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\obj\Debug\net8.0\GenSwap1.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\obj\Debug\net8.0\GenSwap1.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\obj\Debug\net8.0\GenSwap1.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\obj\Debug\net8.0\GenSwap1.dll
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\obj\Debug\net8.0\refint\GenSwap1.dll
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\obj\Debug\net8.0\GenSwap1.pdb
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\obj\Debug\net8.0\GenSwap1.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\GenSwap1\GenSwap1\obj\Debug\net8.0\ref\GenSwap1.dll
