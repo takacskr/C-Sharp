@@ -23,7 +23,7 @@ namespace Fajlkezeles1
                 fs.Close();
             }
 
-            Console.ReadKey();
+            //Console.ReadKey();
         }
     }
 }

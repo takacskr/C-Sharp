@@ -50,6 +50,6 @@ public class Program
             Name = "Szandra"
         };
 
-        Console.ReadKey();
+        //Console.ReadKey();
     }
 }
