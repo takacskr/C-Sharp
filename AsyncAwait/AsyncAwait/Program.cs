@@ -39,6 +39,7 @@ public class Example
 }
 
 /*
-    By using a using statement, you can ensure that objects are properly cleaned up and resources are released,
-    even if an exception is thrown. This helps prevent memory leaks and other issues related to resource management.
+    By using a using statement, you can ensure that objects are properly
+    cleaned up and resources are released, even if an exception is thrown.
+    This helps prevent memory leaks and other issues related to resource management.
 */

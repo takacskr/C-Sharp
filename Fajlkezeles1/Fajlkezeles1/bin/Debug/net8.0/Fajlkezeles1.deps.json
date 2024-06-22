@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Fajlkezeles1/1.0.0": {
+        "runtime": {
+          "Fajlkezeles1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Fajlkezeles1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
