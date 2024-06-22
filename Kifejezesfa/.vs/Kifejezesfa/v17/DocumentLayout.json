@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\Kifejezesfa\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\Kifejezesfa\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68AFB804-5E1B-4341-B5D6-B7809D5967D7}|Kifejezesfa\\Kifejezesfa.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\kifejezesfa\\kifejezesfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68AFB804-5E1B-4341-B5D6-B7809D5967D7}|Kifejezesfa\\Kifejezesfa.csproj|solutionrelative:kifejezesfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9705710E-6314-435E-B9A1-3749FD16B8D7}|Kifejezesfa\\Kifejezesfa.csproj|c:\\users\\takac\\source\\repos\\kifejezesfa\\kifejezesfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9705710E-6314-435E-B9A1-3749FD16B8D7}|Kifejezesfa\\Kifejezesfa.csproj|solutionrelative:kifejezesfa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +14,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\Kifejezesfa\\Kifejezesfa\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\Kifejezesfa\\Kifejezesfa\\Program.cs",
               "RelativeDocumentMoniker": "Kifejezesfa\\Program.cs",
-              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\Kifejezesfa\\Kifejezesfa\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\Kifejezesfa\\Kifejezesfa\\Program.cs",
               "RelativeToolTip": "Kifejezesfa\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-20T11:42:36.941Z",
+              "WhenOpened": "2024-06-22T09:15:20.848Z",
               "EditorCaption": ""
             }
           ]

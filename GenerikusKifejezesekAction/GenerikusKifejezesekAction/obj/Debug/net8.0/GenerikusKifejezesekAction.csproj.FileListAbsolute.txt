@@ -1,0 +1,14 @@
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\bin\Debug\net8.0\GenerikusKifejezesekAction.exe
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\bin\Debug\net8.0\GenerikusKifejezesekAction.deps.json
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\bin\Debug\net8.0\GenerikusKifejezesekAction.runtimeconfig.json
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\bin\Debug\net8.0\GenerikusKifejezesekAction.dll
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\bin\Debug\net8.0\GenerikusKifejezesekAction.pdb
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\obj\Debug\net8.0\GenerikusKifejezesekAction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\obj\Debug\net8.0\GenerikusKifejezesekAction.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\obj\Debug\net8.0\GenerikusKifejezesekAction.AssemblyInfo.cs
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\obj\Debug\net8.0\GenerikusKifejezesekAction.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\obj\Debug\net8.0\GenerikusKifejezesekAction.dll
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\obj\Debug\net8.0\refint\GenerikusKifejezesekAction.dll
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\obj\Debug\net8.0\GenerikusKifejezesekAction.pdb
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\obj\Debug\net8.0\GenerikusKifejezesekAction.genruntimeconfig.cache
+C:\Users\takac\source\repos\GenerikusKifejezesekAction\GenerikusKifejezesekAction\obj\Debug\net8.0\ref\GenerikusKifejezesekAction.dll

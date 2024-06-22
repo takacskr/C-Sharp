@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Kifejezesfa")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3303829a3048aaec5e1f71e9902ce3a1a26d41c4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Kifejezesfa")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Kifejezesfa")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

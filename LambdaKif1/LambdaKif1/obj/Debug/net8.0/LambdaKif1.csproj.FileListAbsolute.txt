@@ -1,0 +1,14 @@
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\bin\Debug\net8.0\LambdaKif1.exe
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\bin\Debug\net8.0\LambdaKif1.deps.json
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\bin\Debug\net8.0\LambdaKif1.runtimeconfig.json
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\bin\Debug\net8.0\LambdaKif1.dll
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\bin\Debug\net8.0\LambdaKif1.pdb
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\obj\Debug\net8.0\LambdaKif1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\obj\Debug\net8.0\LambdaKif1.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\obj\Debug\net8.0\LambdaKif1.AssemblyInfo.cs
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\obj\Debug\net8.0\LambdaKif1.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\obj\Debug\net8.0\LambdaKif1.dll
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\obj\Debug\net8.0\refint\LambdaKif1.dll
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\obj\Debug\net8.0\LambdaKif1.pdb
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\obj\Debug\net8.0\LambdaKif1.genruntimeconfig.cache
+C:\Users\takac\source\repos\LambdaKif1\LambdaKif1\obj\Debug\net8.0\ref\LambdaKif1.dll

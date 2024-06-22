@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\AsyncAwait\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A287799C-35BF-414A-B58E-9AD720723F62}|AsyncAwait\\AsyncAwait.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\asyncawait\\asyncawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A287799C-35BF-414A-B58E-9AD720723F62}|AsyncAwait\\AsyncAwait.csproj|solutionrelative:asyncawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{82277FFD-CDB2-422D-A53E-E4BF747F1201}|AsyncAwait\\AsyncAwait.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\asyncawait\\asyncawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82277FFD-CDB2-422D-A53E-E4BF747F1201}|AsyncAwait\\AsyncAwait.csproj|solutionrelative:asyncawait\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,9 +28,9 @@
               "RelativeDocumentMoniker": "AsyncAwait\\Program.cs",
               "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\AsyncAwait\\AsyncAwait\\Program.cs",
               "RelativeToolTip": "AsyncAwait\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAeAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-09T14:57:45.694Z",
+              "WhenOpened": "2024-06-22T09:08:24.601Z",
               "EditorCaption": ""
             }
           ]

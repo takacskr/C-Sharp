@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LambdaKif2", "LambdaKif2\LambdaKif2.csproj", "{232F1551-729D-498C-8360-47996371C134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{232F1551-729D-498C-8360-47996371C134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{232F1551-729D-498C-8360-47996371C134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{232F1551-729D-498C-8360-47996371C134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{232F1551-729D-498C-8360-47996371C134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C4A3F631-9A02-46BA-9ADF-7F446362192D}
+	EndGlobalSection
+EndGlobal

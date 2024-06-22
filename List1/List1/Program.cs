@@ -24,6 +24,7 @@ public class Program
         Console.WriteLine(list.BinarySearch(457));
 
         List<int> evenList = list.FindAll(x => x % 2 == 0);
+
         Console.WriteLine("Even numbers: ");
         foreach (int evenNumber in evenList)
         {

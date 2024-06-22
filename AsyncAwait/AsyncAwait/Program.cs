@@ -1,32 +1,25 @@
 ﻿using System;
-using System.Threading;
+using System.Net.Http;
 using System.Threading.Tasks;
 
-namespace AsyncDemo
+public class Example
 {
-    class Program
+    public static async Task Main()
     {
-        static async void DoOperations()
-        {
-            var result = await Task<string>.Factory.StartNew(
-            () => ReallyLongOperation()
-            );
+        Console.WriteLine("Main thread does some work.");
 
-            Console.WriteLine("Az eredmény: {0}", result);
-        }
-        static string ReallyLongOperation()
-        {
-            Thread.Sleep(2000);
-            return "Siker";
-        }
-        static void Main(string[] args)
-        {
-            Console.WriteLine("A művelet előtt...");
+        string result = await DownloadContentAsync("https://example.com");
 
-            DoOperations();
-            Console.WriteLine("A művelet után...");
+        Console.WriteLine("Downloaded content:");
+        Console.WriteLine(result);
+    }
 
-            Console.ReadKey();
+    public static async Task<string> DownloadContentAsync(string url)
+    {
+        using (HttpClient client = new HttpClient())
+        {
+            string content = await client.GetStringAsync(url);
+            return content;
         }
     }
 }

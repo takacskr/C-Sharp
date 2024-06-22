@@ -1,0 +1,14 @@
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\bin\Debug\net8.0\GenerikusDelegate2.exe
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\bin\Debug\net8.0\GenerikusDelegate2.deps.json
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\bin\Debug\net8.0\GenerikusDelegate2.runtimeconfig.json
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\bin\Debug\net8.0\GenerikusDelegate2.dll
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\bin\Debug\net8.0\GenerikusDelegate2.pdb
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\obj\Debug\net8.0\GenerikusDelegate2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\obj\Debug\net8.0\GenerikusDelegate2.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\obj\Debug\net8.0\GenerikusDelegate2.AssemblyInfo.cs
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\obj\Debug\net8.0\GenerikusDelegate2.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\obj\Debug\net8.0\GenerikusDelegate2.dll
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\obj\Debug\net8.0\refint\GenerikusDelegate2.dll
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\obj\Debug\net8.0\GenerikusDelegate2.pdb
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\obj\Debug\net8.0\GenerikusDelegate2.genruntimeconfig.cache
+C:\Users\takac\source\repos\GenerikusDelegate2\GenerikusDelegate2\obj\Debug\net8.0\ref\GenerikusDelegate2.dll

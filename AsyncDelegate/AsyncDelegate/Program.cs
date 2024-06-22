@@ -3,12 +3,12 @@ using System.Threading;
 
 class Program
 {
- /*
- * Main Szál-ID: 1
- * BlaBla...
- * Metódus Szál-ID: 5
- * Eredmény: 144
- */
+    /*
+    * Main Szál-ID: 1
+    * BlaBla...
+    * Metódus Szál-ID: 5
+    * Eredmény: 144
+    */
     // Egy delegált típust definiálunk, amely egy olyan metódusra mutat, amely egy int paramétert vár és int értéket ad vissza.
     public delegate int MyDelegate(int x);
 
@@ -40,6 +40,6 @@ class Program
         // Kiírunk egy üzenetet a konzolra.
         Console.WriteLine("BlaBla...");
 
-        Console.ReadKey();
+        //Console.ReadKey();
     }
 }

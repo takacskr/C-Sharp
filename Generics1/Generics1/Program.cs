@@ -4,7 +4,7 @@ namespace TestApp
 {
     class Test<T>
     {
-        static public T Value;
+        public static T? Value;
     }
 
     class Program
