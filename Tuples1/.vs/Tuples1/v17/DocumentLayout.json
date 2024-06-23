@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\Tuples1\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Tuples1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D3F750D0-1C9B-4543-AAA2-BD83B2DE2D71}|Tuples1\\Tuples1.csproj|c:\\users\\takac\\source\\repos\\tuples1\\tuples1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3F750D0-1C9B-4543-AAA2-BD83B2DE2D71}|Tuples1\\Tuples1.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\tuples1\\tuples1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3F750D0-1C9B-4543-AAA2-BD83B2DE2D71}|Tuples1\\Tuples1.csproj|solutionrelative:tuples1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\Tuples1\\Tuples1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Tuples1\\Tuples1\\Program.cs",
               "RelativeDocumentMoniker": "Tuples1\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\Tuples1\\Tuples1\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Tuples1\\Tuples1\\Program.cs",
               "RelativeToolTip": "Tuples1\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-11T18:51:37.743Z",
               "EditorCaption": ""

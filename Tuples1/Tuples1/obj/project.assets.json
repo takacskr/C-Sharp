@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\takac\\source\\repos\\Tuples1\\Tuples1\\Tuples1.csproj",
+      "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Tuples1\\Tuples1\\Tuples1.csproj",
       "projectName": "Tuples1",
-      "projectPath": "C:\\Users\\takac\\source\\repos\\Tuples1\\Tuples1\\Tuples1.csproj",
+      "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Tuples1\\Tuples1\\Tuples1.csproj",
       "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\takac\\source\\repos\\Tuples1\\Tuples1\\obj\\",
+      "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Tuples1\\Tuples1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -72,7 +72,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
