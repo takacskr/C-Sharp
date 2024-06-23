@@ -1,0 +1,29 @@
+﻿@page "/"
+
+<PageTitle>Home</PageTitle>
+
+<h1>Hello, world!</h1>
+
+<select @bind="SelectedDay" class="form-select">
+    @foreach (string day in Days)
+    {
+        <option value="@day">@day</option>
+    }
+</select>
+
+<p>Selected day: @SelectedDay</p>
+
+@code {
+    private string SelectedDay { get; set; } = "Monday";
+
+    private List<string> Days { get; set; } = new List<string>
+    {
+        "Monday",
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday",
+        "Sunday"
+    };
+}

@@ -11,7 +11,7 @@ namespace Fajlkezeles1
 
             using (StreamReader sr = new StreamReader(fs))
             {
-                string s = sr.ReadLine();
+                string? s = sr.ReadLine();
 
                 while (s != null)
                 {

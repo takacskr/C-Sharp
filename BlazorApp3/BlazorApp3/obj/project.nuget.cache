@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "KJNjyJ4hVEU=",
+  "dgSpecHash": "03QC88Nemuw=",
   "success": true,
   "projectFilePath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp3\\BlazorApp3\\BlazorApp3.csproj",
   "expectedPackageFiles": [
@@ -28,7 +28,7 @@
     "C:\\Users\\takac\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\takac\\.nuget\\packages\\microsoft.jsinterop\\8.0.3\\microsoft.jsinterop.8.0.3.nupkg.sha512",
     "C:\\Users\\takac\\.nuget\\packages\\microsoft.jsinterop.webassembly\\8.0.3\\microsoft.jsinterop.webassembly.8.0.3.nupkg.sha512",
-    "C:\\Users\\takac\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.5\\microsoft.net.illink.tasks.8.0.5.nupkg.sha512",
+    "C:\\Users\\takac\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.6\\microsoft.net.illink.tasks.8.0.6.nupkg.sha512",
     "C:\\Users\\takac\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\8.0.5\\microsoft.net.sdk.webassembly.pack.8.0.5.nupkg.sha512",
     "C:\\Users\\takac\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
     "C:\\Users\\takac\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",

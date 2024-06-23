@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\DropdownX1\\EmptyProjectTest\\EmptyProjectTest\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EmptyProjectTest.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EmptyProjectTest.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\DropdownX1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\DropdownX1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\DropdownX1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\takac\\source\\repos\\C-Sharp\\DropdownX1\\EmptyProjectTest\\EmptyProjectTest\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EmptyProjectTest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EmptyProjectTest.props",
+      "PackagePath": "build\\EmptyProjectTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EmptyProjectTest.props",
+      "PackagePath": "buildMultiTargeting\\EmptyProjectTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EmptyProjectTest.props",
+      "PackagePath": "buildTransitive\\EmptyProjectTest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
