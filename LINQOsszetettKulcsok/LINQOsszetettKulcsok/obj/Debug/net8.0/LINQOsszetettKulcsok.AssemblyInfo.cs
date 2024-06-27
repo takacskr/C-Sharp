@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQOsszetettKulcsok")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9d21a1b621afa576ff176238dbce5905475a367")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f01ec6c966f0536bd63996bb6f57e5ec5b229e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQOsszetettKulcsok")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQOsszetettKulcsok")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
