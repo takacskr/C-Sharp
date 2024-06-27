@@ -48,7 +48,7 @@
               "RelativeDocumentMoniker": "LINQJoin\\Program.cs",
               "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\LINQJoin\\LINQJoin\\Program.cs",
               "RelativeToolTip": "LINQJoin\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAATAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T16:18:24.64Z",
               "EditorCaption": ""
@@ -63,8 +63,7 @@
               "RelativeToolTip": "LINQJoin\\customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T16:19:44.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T16:19:44.482Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "LINQJoin\\address.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T16:19:45.224Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T16:19:45.224Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "LINQJoin\\product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T16:19:27.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T16:19:27.154Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "LINQJoin\\order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T16:19:34.996Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T16:19:34.996Z"
             },
             {
               "$type": "Document",
@@ -115,8 +111,7 @@
               "RelativeToolTip": "LINQJoin\\dataProvider.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T16:18:24.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T16:18:24.645Z"
             }
           ]
         }

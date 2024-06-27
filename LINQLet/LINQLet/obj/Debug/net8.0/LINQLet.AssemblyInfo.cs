@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQLet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+991d27931e2fcae6921c2314ee6236a0788f87d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+000b33842a70912fc3d80bf9824e6fcee7f0e043")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQLet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQLet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

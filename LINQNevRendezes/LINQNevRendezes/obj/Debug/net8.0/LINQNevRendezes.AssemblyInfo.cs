@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQNevRendezes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9d21a1b621afa576ff176238dbce5905475a367")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+000b33842a70912fc3d80bf9824e6fcee7f0e043")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQNevRendezes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQNevRendezes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
