@@ -6,7 +6,7 @@ namespace LINQToLookup
 {
     class Person
     {
-        public string Name { get; set; }
+        public string? Name { get; set; }
         public int Age { get; set; }
     }
     internal class Program

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQWhere")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3df74ca61903beda329c04d2de1de346b8f5a80")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d87fb3faf804f755d5a4a4bd3131bf9a9e24b058")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQWhere")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQWhere")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
