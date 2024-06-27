@@ -35,7 +35,7 @@ namespace Server
         
             foreach (var item in result)
             {
-                Console.WriteLine($"{item}");
+                Console.WriteLine(item);
             }
             Console.ReadKey();
         }

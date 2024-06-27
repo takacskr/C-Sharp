@@ -62,6 +62,7 @@ namespace LINQ
             };
 
             IOrderedEnumerable<string> result = from fruit in fruits
+                                                where fruit[0] == 'a'
                                                 orderby fruit[0], fruit[1]
                                                 select fruit;
 
@@ -77,7 +78,8 @@ namespace LINQ
 
             IEnumerable<int> squaredEvenNumbers = numbers
                                         .Where(number => number % 2 == 0)
-                                        .Select(number => number * number);
+                                        .Select(number => number * number)
+                                        .OrderByDescending(number => number);
 
             foreach (int number in squaredEvenNumbers)
             {

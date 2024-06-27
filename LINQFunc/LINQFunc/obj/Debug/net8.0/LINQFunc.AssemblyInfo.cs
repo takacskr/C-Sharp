@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LINQFunc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+991d27931e2fcae6921c2314ee6236a0788f87d6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+380fa34f8b375b1c24f2596bd8e0801f6172a39c")]
 [assembly: System.Reflection.AssemblyProductAttribute("LINQFunc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LINQFunc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
