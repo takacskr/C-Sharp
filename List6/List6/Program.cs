@@ -21,7 +21,7 @@ namespace List6
 
             // A lista minden tagja különálló objektum, egy-egy "LinkedListNode<T>" példány
             // A "LinkedListLNode<T>" Next és Previous tulajdonságai a megelőző illetve a következő elemre mutatnak
-            LinkedListNode<string> node = list.First;
+            LinkedListNode<string>? node = list.First;
 
             while (node != null)
             {
