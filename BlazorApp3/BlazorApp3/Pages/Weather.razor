@@ -23,7 +23,7 @@ else
             </tr>
         </thead>
         <tbody>
-            @foreach (var forecast in forecasts)
+            @foreach (WeatherForecast forecast in forecasts)
             {
                 <tr>
                     <td>@forecast.Date.ToShortDateString()</td>
@@ -37,11 +37,11 @@ else
 }
 
 @code {
-    private WeatherForecast[]? forecasts;
+    private List<WeatherForecast>? forecasts;
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await Http.GetFromJsonAsync<WeatherForecast[]>("sample-data/weather.json");
+        forecasts = await Http.GetFromJsonAsync<List<WeatherForecast>?>("sample-data/weather.json");
     }
 
     public class WeatherForecast

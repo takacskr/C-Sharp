@@ -13,6 +13,8 @@ namespace Server
                 10, 2, 4, 55, 22, 75, 30, 11, 12, 89
             };
 
+            Console.WriteLine($"List count: {list.Count()}");
+
             //var result = from number in list select number; // Query Expression Format
             //var result = list.Select(number => number); // LINQ To Objects
 
@@ -32,7 +34,7 @@ namespace Server
             };
 
             IEnumerable<int> result = list.Where(even);
-        
+
             foreach (var item in result)
             {
                 Console.WriteLine(item);

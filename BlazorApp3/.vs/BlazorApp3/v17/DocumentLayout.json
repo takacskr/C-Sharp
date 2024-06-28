@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorapp3\\blazorapp3\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorapp3\\blazorapp3\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorapp3\\blazorapp3\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\blazorapp3\\blazorapp3\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{07C220D9-DB0D-4874-A88C-DD133DB829FB}|BlazorApp3\\BlazorApp3.csproj|solutionrelative:blazorapp3\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +30,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Home.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp3\\BlazorApp3\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "BlazorApp3\\Pages\\Home.razor",
               "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp3\\BlazorApp3\\Pages\\Home.razor",
               "RelativeToolTip": "BlazorApp3\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADcAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-22T10:10:15.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Counter.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp3\\BlazorApp3\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "BlazorApp3\\Pages\\Counter.razor",
               "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp3\\BlazorApp3\\Pages\\Counter.razor",
               "RelativeToolTip": "BlazorApp3\\Pages\\Counter.razor",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-22T10:10:11.873Z"
+              "WhenOpened": "2024-03-22T10:10:11.873Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Weather.razor",
               "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp3\\BlazorApp3\\Pages\\Weather.razor",
               "RelativeDocumentMoniker": "BlazorApp3\\Pages\\Weather.razor",
               "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\BlazorApp3\\BlazorApp3\\Pages\\Weather.razor",
               "RelativeToolTip": "BlazorApp3\\Pages\\Weather.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-21T17:29:38.938Z"
+              "WhenOpened": "2024-03-21T17:29:38.938Z",
+              "EditorCaption": ""
             }
           ]
         }
