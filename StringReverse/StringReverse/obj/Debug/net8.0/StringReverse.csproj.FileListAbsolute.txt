@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\bin\Debug\net8.0\StringReverse.exe
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\bin\Debug\net8.0\StringReverse.deps.json
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\bin\Debug\net8.0\StringReverse.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\bin\Debug\net8.0\StringReverse.dll
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\bin\Debug\net8.0\StringReverse.pdb
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\obj\Debug\net8.0\StringReverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\obj\Debug\net8.0\StringReverse.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\obj\Debug\net8.0\StringReverse.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\obj\Debug\net8.0\StringReverse.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\obj\Debug\net8.0\StringReverse.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\obj\Debug\net8.0\StringReverse.dll
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\obj\Debug\net8.0\refint\StringReverse.dll
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\obj\Debug\net8.0\StringReverse.pdb
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\obj\Debug\net8.0\StringReverse.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\StringReverse\StringReverse\obj\Debug\net8.0\ref\StringReverse.dll
