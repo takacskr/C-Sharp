@@ -6,7 +6,7 @@ namespace StringReverse
     {
         public static string Reverse(this string str)
         {
-            return new string(str.ToCharArray().Reverse().ToArray());
+            return new string(str.ToArray().Reverse().ToArray());
         }
     }
 
