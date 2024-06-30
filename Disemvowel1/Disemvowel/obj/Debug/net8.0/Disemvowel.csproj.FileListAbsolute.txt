@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\bin\Debug\net8.0\Disemvowel.exe
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\bin\Debug\net8.0\Disemvowel.deps.json
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\bin\Debug\net8.0\Disemvowel.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\bin\Debug\net8.0\Disemvowel.dll
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\bin\Debug\net8.0\Disemvowel.pdb
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\obj\Debug\net8.0\Disemvowel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\obj\Debug\net8.0\Disemvowel.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\obj\Debug\net8.0\Disemvowel.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\obj\Debug\net8.0\Disemvowel.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\obj\Debug\net8.0\Disemvowel.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\obj\Debug\net8.0\Disemvowel.dll
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\obj\Debug\net8.0\refint\Disemvowel.dll
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\obj\Debug\net8.0\Disemvowel.pdb
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\obj\Debug\net8.0\Disemvowel.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\Disemvowel\Disemvowel\obj\Debug\net8.0\ref\Disemvowel.dll
