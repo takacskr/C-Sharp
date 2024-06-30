@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\bin\Debug\net8.0\ConsoleApp31.exe
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\bin\Debug\net8.0\ConsoleApp31.deps.json
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\bin\Debug\net8.0\ConsoleApp31.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\bin\Debug\net8.0\ConsoleApp31.dll
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\bin\Debug\net8.0\ConsoleApp31.pdb
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\obj\Debug\net8.0\ConsoleApp31.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\obj\Debug\net8.0\ConsoleApp31.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\obj\Debug\net8.0\ConsoleApp31.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\obj\Debug\net8.0\ConsoleApp31.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\obj\Debug\net8.0\ConsoleApp31.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\obj\Debug\net8.0\ConsoleApp31.dll
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\obj\Debug\net8.0\refint\ConsoleApp31.dll
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\obj\Debug\net8.0\ConsoleApp31.pdb
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\obj\Debug\net8.0\ConsoleApp31.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\ConsoleApp31\ConsoleApp31\obj\Debug\net8.0\ref\ConsoleApp31.dll

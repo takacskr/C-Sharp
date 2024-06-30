@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\bin\Debug\net8.0\ArrayCount.exe
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\bin\Debug\net8.0\ArrayCount.deps.json
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\bin\Debug\net8.0\ArrayCount.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\bin\Debug\net8.0\ArrayCount.dll
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\bin\Debug\net8.0\ArrayCount.pdb
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\obj\Debug\net8.0\ArrayCount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\obj\Debug\net8.0\ArrayCount.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\obj\Debug\net8.0\ArrayCount.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\obj\Debug\net8.0\ArrayCount.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\obj\Debug\net8.0\ArrayCount.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\obj\Debug\net8.0\ArrayCount.dll
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\obj\Debug\net8.0\refint\ArrayCount.dll
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\obj\Debug\net8.0\ArrayCount.pdb
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\obj\Debug\net8.0\ArrayCount.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\ArrayCount\ArrayCount\obj\Debug\net8.0\ref\ArrayCount.dll
