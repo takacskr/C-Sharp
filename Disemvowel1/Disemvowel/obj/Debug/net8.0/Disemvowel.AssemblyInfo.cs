@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Disemvowel")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fcce7b4c52065dc178ba351e66f7a3933e12cc19")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7de82074c81b0f996fffe7aed9306f5c44c34940")]
 [assembly: System.Reflection.AssemblyProductAttribute("Disemvowel")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Disemvowel")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

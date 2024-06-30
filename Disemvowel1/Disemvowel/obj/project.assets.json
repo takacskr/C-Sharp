@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Disemvowel\\Disemvowel\\Disemvowel.csproj",
+      "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Disemvowel1\\Disemvowel\\Disemvowel.csproj",
       "projectName": "Disemvowel",
-      "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Disemvowel\\Disemvowel\\Disemvowel.csproj",
+      "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Disemvowel1\\Disemvowel\\Disemvowel.csproj",
       "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Disemvowel\\Disemvowel\\obj\\",
+      "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Disemvowel1\\Disemvowel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Disemvowel\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Disemvowel1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F653536B-1293-4A6E-A394-0B4735E6B03A}|Disemvowel\\Disemvowel.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\disemvowel\\disemvowel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F653536B-1293-4A6E-A394-0B4735E6B03A}|Disemvowel\\Disemvowel.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\disemvowel1\\disemvowel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F653536B-1293-4A6E-A394-0B4735E6B03A}|Disemvowel\\Disemvowel.csproj|solutionrelative:disemvowel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Disemvowel\\Disemvowel\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Disemvowel1\\Disemvowel\\Program.cs",
               "RelativeDocumentMoniker": "Disemvowel\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Disemvowel\\Disemvowel\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Disemvowel1\\Disemvowel\\Program.cs",
               "RelativeToolTip": "Disemvowel\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-30T11:54:58.994Z",
               "EditorCaption": ""
