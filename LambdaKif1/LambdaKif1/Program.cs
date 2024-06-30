@@ -2,7 +2,7 @@
 
 class Test
 {
-    public Action<int> act;
+    public Action<int>? act;
 
     public void Method()
     {
