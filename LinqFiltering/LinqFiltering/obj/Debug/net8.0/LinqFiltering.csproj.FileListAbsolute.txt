@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\bin\Debug\net8.0\LinqFiltering.exe
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\bin\Debug\net8.0\LinqFiltering.deps.json
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\bin\Debug\net8.0\LinqFiltering.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\bin\Debug\net8.0\LinqFiltering.dll
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\bin\Debug\net8.0\LinqFiltering.pdb
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\obj\Debug\net8.0\LinqFiltering.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\obj\Debug\net8.0\LinqFiltering.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\obj\Debug\net8.0\LinqFiltering.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\obj\Debug\net8.0\LinqFiltering.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\obj\Debug\net8.0\LinqFiltering.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\obj\Debug\net8.0\LinqFiltering.dll
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\obj\Debug\net8.0\refint\LinqFiltering.dll
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\obj\Debug\net8.0\LinqFiltering.pdb
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\obj\Debug\net8.0\LinqFiltering.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\LinqFiltering\LinqFiltering\obj\Debug\net8.0\ref\LinqFiltering.dll

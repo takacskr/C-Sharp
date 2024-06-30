@@ -9,7 +9,7 @@ namespace DisemvowelString
             char[] disemvowels = "aeiouAEIOU".ToCharArray();
             List<char> result = new List<char>();
 
-            for(int i = 0; i < str.Length; i++)
+            for (int i = 0; i < str.Length; i++)
             {
                 if (!disemvowels.Contains(str[i]))
                 {
