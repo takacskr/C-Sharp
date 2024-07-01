@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\obj\Debug\net8.0\HashSet2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\obj\Debug\net8.0\HashSet2.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\obj\Debug\net8.0\HashSet2.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\obj\Debug\net8.0\HashSet2.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\obj\Debug\net8.0\HashSet2.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\bin\Debug\net8.0\HashSet2.exe
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\bin\Debug\net8.0\HashSet2.deps.json
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\bin\Debug\net8.0\HashSet2.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\bin\Debug\net8.0\HashSet2.dll
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\bin\Debug\net8.0\HashSet2.pdb
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\obj\Debug\net8.0\HashSet2.dll
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\obj\Debug\net8.0\refint\HashSet2.dll
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\obj\Debug\net8.0\HashSet2.pdb
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\obj\Debug\net8.0\HashSet2.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\HashSet2\HashSet2\obj\Debug\net8.0\ref\HashSet2.dll
