@@ -38,14 +38,30 @@ namespace PolymorphismExample
     {
         static void Main(string[] args)
         {
-            double givenRadius = 4.14;
-            Shape circle = new Circle(givenRadius);
+            try
+            {
+                Console.WriteLine("Give the radius: ");
+                string? givenRadius = Console.ReadLine();
 
-            double circumference = circle.CalculateCircumference();
-            Console.WriteLine($"The circumference of the circle: {circumference}");
+                if (double.TryParse(givenRadius, out double radius))
+                {
+                    Shape circle = new Circle(radius);
 
-            double area = circle.CalculateArea();
-            Console.WriteLine($"The area of the circle: {area}");
+                    double circumference = circle.CalculateCircumference();
+                    Console.WriteLine($"The circumference of the circle: {circumference}");
+
+                    double area = circle.CalculateArea();
+                    Console.WriteLine($"The area of the circle: {area}");
+                }
+                else
+                {
+                    Console.WriteLine("Invalid input. Please enter a valid radius.");
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("An error occoured: " + ex.Message);
+            }
         }
     }
 }

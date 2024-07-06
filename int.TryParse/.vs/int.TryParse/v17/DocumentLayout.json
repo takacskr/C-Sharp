@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\int.TryParse\\",
+  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\int.TryParse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98754257-64E8-426C-A226-6538BBDA1D13}|int.TryParse\\int.TryParse.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\int.tryparse\\int.tryparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98754257-64E8-426C-A226-6538BBDA1D13}|int.TryParse\\int.TryParse.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\int.tryparse\\int.tryparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98754257-64E8-426C-A226-6538BBDA1D13}|int.TryParse\\int.TryParse.csproj|solutionrelative:int.tryparse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\int.TryParse\\int.TryParse\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\int.TryParse\\int.TryParse\\Program.cs",
               "RelativeDocumentMoniker": "int.TryParse\\Program.cs",
-              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\int.TryParse\\int.TryParse\\Program.cs",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\int.TryParse\\int.TryParse\\Program.cs",
               "RelativeToolTip": "int.TryParse\\Program.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBoAAAAVAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-03T15:44:14.976Z",
               "EditorCaption": ""
