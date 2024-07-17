@@ -1,0 +1,15 @@
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\bin\Debug\net8.0\StonePaperScissors.exe
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\bin\Debug\net8.0\StonePaperScissors.deps.json
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\bin\Debug\net8.0\StonePaperScissors.runtimeconfig.json
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\bin\Debug\net8.0\StonePaperScissors.dll
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\bin\Debug\net8.0\StonePaperScissors.pdb
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\obj\Debug\net8.0\StonePaperScissors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\obj\Debug\net8.0\StonePaperScissors.AssemblyInfoInputs.cache
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\obj\Debug\net8.0\StonePaperScissors.AssemblyInfo.cs
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\obj\Debug\net8.0\StonePaperScissors.csproj.CoreCompileInputs.cache
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\obj\Debug\net8.0\StonePaperScissors.sourcelink.json
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\obj\Debug\net8.0\StonePaperScissors.dll
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\obj\Debug\net8.0\refint\StonePaperScissors.dll
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\obj\Debug\net8.0\StonePaperScissors.pdb
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\obj\Debug\net8.0\StonePaperScissors.genruntimeconfig.cache
+C:\Users\takac\source\repos\C-Sharp\StonePaperScissors\StonePaperScissors\obj\Debug\net8.0\ref\StonePaperScissors.dll
