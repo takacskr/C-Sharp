@@ -35,7 +35,11 @@
     {
         if (!string.IsNullOrWhiteSpace(newTodo))
         {
-            todos.Add(new TodoItem { Title = newTodo });
+            todos.Add(new TodoItem
+            {
+                Title = newTodo
+            });
+
             newTodo = string.Empty;
         }
     }

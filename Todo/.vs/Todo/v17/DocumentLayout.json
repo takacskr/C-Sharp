@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Todo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6489FB8A-D309-4E18-AE22-33300A3A0857}|Todo\\Todo.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\todo\\todo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6489FB8A-D309-4E18-AE22-33300A3A0857}|Todo\\Todo.csproj|solutionrelative:todo\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{6489FB8A-D309-4E18-AE22-33300A3A0857}|Todo\\Todo.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\todo\\todo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6489FB8A-D309-4E18-AE22-33300A3A0857}|Todo\\Todo.csproj|solutionrelative:todo\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,14 +23,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Home.razor",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Todo\\Todo\\Components\\Pages\\Home.razor",
-              "RelativeDocumentMoniker": "Todo\\Components\\Pages\\Home.razor",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Todo\\Todo\\Components\\Pages\\Home.razor",
-              "RelativeToolTip": "Todo\\Components\\Pages\\Home.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Todo\\Todo\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Todo\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Todo\\Todo\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "Todo\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-09T08:42:19.866Z",
+              "WhenOpened": "2024-07-17T12:29:57.65Z",
               "EditorCaption": ""
             }
           ]

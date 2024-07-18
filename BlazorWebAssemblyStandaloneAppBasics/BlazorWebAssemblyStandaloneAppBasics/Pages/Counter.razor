@@ -1,18 +1,51 @@
 ﻿@page "/counter"
 
-<PageTitle>Counter</PageTitle>
+<PageTitle>Todo List</PageTitle>
 
-<h1>Counter</h1>
+<h1>Todo List (@todos.Where(todo => !todo.IsDone).Count())</h1>
 
-<p role="status">Current count: @currentCount</p>
+<ul>
+    @foreach (var todo in todos)
+    {
+        <li>
+            <div class="form-check mb-2">
+                <input @bind="todo.IsDone" type="checkbox" class="form-check-input" value="">
+                <input @bind="todo.Title" type="text" />
+                <input @bind="todo.DueDate" type="date" />
+            </div>
+        </li>
+    }
+</ul>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<input @bind="newTodo" type="text" placeholder="Something todo" />
+<input @bind="newDueDate" type="date" />
+<button @onclick="AddTodo" type="button" class="btn btn-primary">Add todo</button>
 
 @code {
-    private int currentCount = 0;
 
-    private void IncrementCount()
+    public class TodoItem
     {
-        currentCount++;
+        public string? Title { get; set; }
+        public DateTime DueDate { get; set; }
+        public bool IsDone { get; set; }
+    }
+
+    IList<TodoItem> todos = new List<TodoItem>();
+    string? newTodo;
+    DateTime newDueDate = DateTime.Now;
+
+    void AddTodo()
+    {
+        if (!string.IsNullOrWhiteSpace(newTodo))
+        {
+            todos.Add(new TodoItem
+                {
+                    Title = newTodo,
+                    DueDate = newDueDate
+                });
+
+            newTodo = string.Empty;
+            newDueDate = DateTime.Now;
+        }
     }
 }

@@ -1,18 +1,52 @@
 ﻿@page "/counter"
 
-<PageTitle>Counter</PageTitle>
+<PageTitle>Shopping Cart</PageTitle>
 
-<h1>Counter</h1>
+<h1>Shopping Cart (@cartItems.Count) items</h1>
 
-<p role="status">Current count: @currentCount</p>
+<ul>
+    @foreach (var item in cartItems)
+    {
+        <li>
+            <div class="form-group">
+                <label>@item.ProductName</label>
+                <input @bind="item.Quantity" type="number" min="1" />
+                <button @onclick="() => RemoveItem(item)" type="button" class="btn btn-danger">Remove</button>
+            </div>
+        </li>
+    }
+</ul>
 
-<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+<input @bind="newItem" type="text" placeholder="Enter product name" />
+<button @onclick="AddItem" type="button" class="btn btn-primary">Add to Cart</button>
 
 @code {
-    private int currentCount = 0;
 
-    private void IncrementCount()
+    public class CartItem
     {
-        currentCount++;
+        public string? ProductName { get; set; }
+        public int Quantity { get; set; }
+    }
+
+    IList<CartItem> cartItems = new List<CartItem>();
+    string? newItem;
+
+    void AddItem()
+    {
+        if (!string.IsNullOrWhiteSpace(newItem))
+        {
+            cartItems.Add(new CartItem
+                {
+                    ProductName = newItem,
+                    Quantity = 1
+                });
+
+            newItem = string.Empty;
+        }
+    }
+
+    void RemoveItem(CartItem item)
+    {
+        cartItems.Remove(item);
     }
 }
