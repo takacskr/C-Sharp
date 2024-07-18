@@ -62,7 +62,7 @@
             </tr>
         </thead>
         <tbody>
-            @foreach (User user in users)
+            @foreach (User user in users!)
             {
                 <tr>
                     <td>@user.Name</td>
@@ -187,7 +187,7 @@
                                 OR Name LIKE @Search
                                 OR Email LIKE @Search
                                 OR Phone LIKE @Search";
-            usersQuery = (await dbConnection.QueryAsync<User>(query, new { Search = $"%{searchInputValue}%" })).ToList();
+            usersQuery = (await dbConnection!.QueryAsync<User>(query, new { Search = $"%{searchInputValue}%" })).ToList();
         }
 
         StateHasChanged();
@@ -195,9 +195,9 @@
 
     private async Task RefreshPage()
     {
-        totalUsersCount = await dbConnection.ExecuteScalarAsync<int>("SELECT COUNT(*) FROM users");
+        totalUsersCount = await dbConnection!.ExecuteScalarAsync<int>("SELECT COUNT(*) FROM users");
 
-        users = (await dbConnection.QueryAsync<User>(
+        users = (await dbConnection!.QueryAsync<User>(
             "SELECT * FROM users ORDER BY name ASC LIMIT @start, @items",
             new { start = currentPage * itemsPerPage, items = itemsPerPage }
         )).ToList();
@@ -227,7 +227,7 @@
 
     private async Task DeleteUser(User user)
     {
-        await dbConnection.ExecuteAsync("DELETE FROM users WHERE id = @Id", new { Id = user.Id });
+        await dbConnection!.ExecuteAsync("DELETE FROM users WHERE id = @Id", new { Id = user.Id });
         await RefreshPage();
     }
 
@@ -235,7 +235,7 @@
     {
         try
         {
-            await dbConnection.ExecuteAsync("INSERT INTO users (name, email, phone) VALUES (@Name, @Email, @Phone)",
+            await dbConnection!.ExecuteAsync("INSERT INTO users (name, email, phone) VALUES (@Name, @Email, @Phone)",
                 new { Name = newUser.Name, Email = newUser.Email, Phone = newUser.Phone });
 
             alertMessage = "User added successfully";

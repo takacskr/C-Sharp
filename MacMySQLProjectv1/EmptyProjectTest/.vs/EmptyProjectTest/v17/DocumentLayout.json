@@ -1,13 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MacMySQLProjectv1\\EmptyProjectTest\\",
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\MacMySQLProjectv1\\EmptyProjectTest\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\macmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\macmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\macmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\macmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\macmysqlprojectv1\\emptyprojecttest\\emptyprojecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9499A77D-1AB1-4E97-B969-8A5B513CE86E}|EmptyProjectTest\\EmptyProjectTest.csproj|solutionrelative:emptyprojecttest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,36 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\MacMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\Pages\\Counter.razor",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\MacMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "EmptyProjectTest\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAF0AAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-18T15:15:28.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "App.razor",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MacMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\App.razor",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\MacMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\App.razor",
               "RelativeDocumentMoniker": "EmptyProjectTest\\Components\\App.razor",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MacMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\MacMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Components\\App.razor",
               "RelativeToolTip": "EmptyProjectTest\\Components\\App.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-23T15:49:58.142Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MacMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\MacMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Program.cs",
               "RelativeDocumentMoniker": "EmptyProjectTest\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\MacMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\MacMySQLProjectv1\\EmptyProjectTest\\EmptyProjectTest\\Program.cs",
               "RelativeToolTip": "EmptyProjectTest\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T15:49:52.282Z"
+              "WhenOpened": "2024-05-23T15:49:52.282Z",
+              "EditorCaption": ""
             }
           ]
         }
