@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Filekezeles2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8890c195e618c9cd8c8d664a7a6b4f8d6ab96e3c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87fb1531f1544ba01bca24aaf44a24b6166a40a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Filekezeles2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Filekezeles2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

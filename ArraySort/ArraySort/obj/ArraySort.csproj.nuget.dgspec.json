@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\takac\\source\\repos\\C-Sharp\\ArraySort\\ArraySort\\ArraySort.csproj": {}
+    "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\ArraySort\\ArraySort\\ArraySort.csproj": {}
   },
   "projects": {
-    "c:\\Users\\takac\\source\\repos\\C-Sharp\\ArraySort\\ArraySort\\ArraySort.csproj": {
+    "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\ArraySort\\ArraySort\\ArraySort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\takac\\source\\repos\\C-Sharp\\ArraySort\\ArraySort\\ArraySort.csproj",
+        "projectUniqueName": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\ArraySort\\ArraySort\\ArraySort.csproj",
         "projectName": "ArraySort",
-        "projectPath": "c:\\Users\\takac\\source\\repos\\C-Sharp\\ArraySort\\ArraySort\\ArraySort.csproj",
-        "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\takac\\source\\repos\\C-Sharp\\ArraySort\\ArraySort\\obj\\",
+        "projectPath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\ArraySort\\ArraySort\\ArraySort.csproj",
+        "packagesPath": "C:\\Users\\Sugár\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sugár\\source\\repos\\C-Sharp\\ArraySort\\ArraySort\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\takac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Sugár\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

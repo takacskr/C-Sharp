@@ -6,7 +6,7 @@
         {
             List<int> numbers = new List<int>();
 
-            using (StreamReader reader = File.OpenText(@"C:\Users\takac\source\repos\C-Sharp\Filekezeles2\Filekezeles2\numbers.txt"))
+            using (StreamReader reader = File.OpenText("numbers.txt"))
             {
                 string? line;
                 while ((line = reader.ReadLine()) is not null)

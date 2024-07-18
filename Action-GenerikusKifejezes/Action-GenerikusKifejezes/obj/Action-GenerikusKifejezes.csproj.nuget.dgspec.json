@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\takac\\source\\repos\\C-Sharp\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes.csproj": {}
+    "C:\\Users\\Sugár\\Documents\\prog\\C-Sharp\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\takac\\source\\repos\\C-Sharp\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes.csproj": {
+    "C:\\Users\\Sugár\\Documents\\prog\\C-Sharp\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes.csproj",
+        "projectUniqueName": "C:\\Users\\Sugár\\Documents\\prog\\C-Sharp\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes.csproj",
         "projectName": "Action-GenerikusKifejezes",
-        "projectPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes.csproj",
-        "packagesPath": "C:\\Users\\takac\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes\\obj\\",
+        "projectPath": "C:\\Users\\Sugár\\Documents\\prog\\C-Sharp\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes.csproj",
+        "packagesPath": "C:\\Users\\Sugár\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sugár\\Documents\\prog\\C-Sharp\\Action-GenerikusKifejezes\\Action-GenerikusKifejezes\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\takac\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\Sugár\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

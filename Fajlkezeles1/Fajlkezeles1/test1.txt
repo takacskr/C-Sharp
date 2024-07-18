@@ -1,6 +1,5 @@
-﻿alma
-körte
-dió
-csákány
-pénz
-könyv
+apple
+banana
+lemon
+strawberry
+pineapple
