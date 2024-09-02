@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ArrayList1\\",
+  "WorkspaceRootPath": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ArrayList1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C01D74C9-EC73-4D91-8540-84293A64F061}|ArrayList1\\ArrayList1.csproj|c:\\users\\takac\\source\\repos\\c-sharp\\arraylist1\\arraylist1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C01D74C9-EC73-4D91-8540-84293A64F061}|ArrayList1\\ArrayList1.csproj|c:\\users\\sug\u00E1r\\source\\repos\\c-sharp\\arraylist1\\arraylist1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C01D74C9-EC73-4D91-8540-84293A64F061}|ArrayList1\\ArrayList1.csproj|solutionrelative:arraylist1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,21 +14,25 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ArrayList1\\ArrayList1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ArrayList1\\ArrayList1\\Program.cs",
               "RelativeDocumentMoniker": "ArrayList1\\Program.cs",
-              "ToolTip": "C:\\Users\\takac\\source\\repos\\C-Sharp\\ArrayList1\\ArrayList1\\Program.cs",
+              "ToolTip": "C:\\Users\\Sug\u00E1r\\source\\repos\\C-Sharp\\ArrayList1\\ArrayList1\\Program.cs",
               "RelativeToolTip": "ArrayList1\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-24T08:47:36.879Z",
               "EditorCaption": ""

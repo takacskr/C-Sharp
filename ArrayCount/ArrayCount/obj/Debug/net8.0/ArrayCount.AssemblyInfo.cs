@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArrayCount")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87fb1531f1544ba01bca24aaf44a24b6166a40a0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61aae5954d85e54cb6d86e27607f08c69151c538")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArrayCount")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArrayCount")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

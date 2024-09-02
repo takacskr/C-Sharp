@@ -1,9 +1,11 @@
 ﻿using System;
+
 namespace TestApp
 {
     class Program
     {
         public delegate void Test(int x);
+
         static void Main(string[] args)
         {
             // Létrehozunk egy Test típusú delegáltat, t néven, és inicializáljuk egy névtelen metódussal

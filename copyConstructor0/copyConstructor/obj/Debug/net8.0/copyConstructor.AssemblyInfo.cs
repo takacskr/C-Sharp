@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("copyConstructor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11123fd8cfc084c7c3163975a455ec3edb644342")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61aae5954d85e54cb6d86e27607f08c69151c538")]
 [assembly: System.Reflection.AssemblyProductAttribute("copyConstructor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("copyConstructor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

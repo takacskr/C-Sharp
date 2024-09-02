@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Anonym-Method2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1523f30a293ebd1c32b871846e3f99312229679d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61aae5954d85e54cb6d86e27607f08c69151c538")]
 [assembly: System.Reflection.AssemblyProductAttribute("Anonym-Method2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Anonym-Method2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

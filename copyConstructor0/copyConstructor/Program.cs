@@ -15,6 +15,11 @@ public class Dog
         : this(OtherDog._name, OtherDog._age)
     { }
 
+    public void Display(Dog dog)
+    {
+        Console.WriteLine($"Dog's name: {dog._name}, Dog's age: {dog._age}");
+    }
+
 }
 
 public class Program
@@ -23,5 +28,7 @@ public class Program
     {
         Dog d = new Dog("Füli", 5);
         Dog o = new Dog(d);
+
+        o.Display(d);
     }
 }

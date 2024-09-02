@@ -65,12 +65,6 @@ namespace ConsoleApp34
                 {
                     ++left;
                 }
-
-                if (left != right)
-                {
-                    array[right] = array[left];
-                    --right;
-                }
             }
 
             array[left] = pivot;
